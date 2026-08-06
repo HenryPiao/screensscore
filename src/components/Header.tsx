@@ -21,8 +21,8 @@ export default function Header() {
       <div className="container mx-auto px-4 max-w-7xl h-16 flex items-center justify-between gap-4">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-0.5 shrink-0">
-          <span className="text-red-500 text-xl font-black tracking-tight">REEL</span>
-          <span className="text-white text-xl font-black tracking-tight">CRITIC</span>
+          <span className="text-red-500 text-xl font-black tracking-tight">SCREENS</span>
+          <span className="text-white text-xl font-black tracking-tight">SCORE</span>
         </Link>
 
         {/* Desktop Nav */}

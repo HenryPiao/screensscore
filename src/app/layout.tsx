@@ -8,15 +8,15 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: {
-    default: 'ReelCritic – Honest Movie & TV Reviews',
-    template: '%s | ReelCritic',
+    default: 'ScreensScore – Honest Movie & TV Reviews',
+    template: '%s | ScreensScore',
   },
   description: "Honest movie and TV show reviews. Find out if it's worth watching before you commit.",
   keywords: ['movie reviews', 'tv show reviews', 'film ratings', 'is it worth watching'],
-  metadataBase: new URL('https://reelcritic.com'),
+  metadataBase: new URL('https://screensscore.com'),
   openGraph: {
     type: 'website',
-    siteName: 'ReelCritic',
+    siteName: 'ScreensScore',
     locale: 'en_US',
   },
   twitter: {

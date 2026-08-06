@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getTrendingMovies, createSlug } from '@/lib/tmdb'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const base = 'https://reelcritic.com'
+  const base = 'https://screensscore.com'
 
   const static_pages: MetadataRoute.Sitemap = [
     { url: base, lastModified: new Date(), changeFrequency: 'daily', priority: 1 },

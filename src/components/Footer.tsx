@@ -8,8 +8,8 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <div>
             <div className="flex items-center gap-0.5 mb-4">
-              <span className="text-red-500 text-lg font-black">REEL</span>
-              <span className="text-white text-lg font-black">CRITIC</span>
+              <span className="text-red-500 text-lg font-black">SCREENS</span>
+              <span className="text-white text-lg font-black">SCORE</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Honest reviews to help you decide what&apos;s actually worth watching.
@@ -41,7 +41,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-800 pt-6 flex flex-col md:flex-row justify-between items-center gap-2">
-          <p className="text-gray-600 text-xs">© {year} ReelCritic. All rights reserved.</p>
+          <p className="text-gray-600 text-xs">© {year} ScreensScore. All rights reserved.</p>
           <p className="text-gray-600 text-xs">
             Movie data by{' '}
             <a href="https://www.themoviedb.org" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-gray-400">

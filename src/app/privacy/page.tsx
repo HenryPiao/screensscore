@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy',
-  description: 'ReelCritic Privacy Policy',
+  description: 'ScreensScore Privacy Policy',
 }
 
 export default function PrivacyPage() {
@@ -30,7 +30,7 @@ export default function PrivacyPage() {
         <section>
           <h2 className="text-2xl font-bold text-white mb-3">3. Cookies & Advertising</h2>
           <p>
-            ReelCritic uses Google AdSense to display advertisements. Google may use cookies to serve
+            ScreensScore uses Google AdSense to display advertisements. Google may use cookies to serve
             personalized ads based on your browsing history. You can opt out at{' '}
             <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" className="text-red-400 hover:text-red-300">
               Google Ads Settings
@@ -54,8 +54,8 @@ export default function PrivacyPage() {
           <h2 className="text-2xl font-bold text-white mb-3">6. Contact</h2>
           <p>
             For privacy inquiries:{' '}
-            <a href="mailto:privacy@reelcritic.com" className="text-red-400 hover:text-red-300">
-              privacy@reelcritic.com
+            <a href="mailto:privacy@screensscore.com" className="text-red-400 hover:text-red-300">
+              privacy@screensscore.com
             </a>
           </p>
         </section>

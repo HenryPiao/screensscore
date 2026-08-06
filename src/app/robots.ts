@@ -3,6 +3,6 @@ import { MetadataRoute } from 'next'
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: { userAgent: '*', allow: '/' },
-    sitemap: 'https://reelcritic.com/sitemap.xml',
+    sitemap: 'https://screensscore.com/sitemap.xml',
   }
 }
