@@ -28,6 +28,7 @@ export default function Header() {
         {/* Desktop Nav */}
         <nav className="hidden md:flex items-center gap-6">
           {[
+            { href: '/reviews', label: 'Reviews' },
             { href: '/category/movies', label: 'Movies' },
             { href: '/category/tv', label: 'TV Shows' },
             { href: '/category/trending', label: 'Trending' },
