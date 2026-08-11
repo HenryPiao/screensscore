@@ -5,6 +5,9 @@ import Image from 'next/image'
 import { getArticleBySlug, getAllSlugs } from '@/data/articles'
 import { getMovieDetails, getImageUrl, createSlug } from '@/lib/tmdb'
 
+// 动态渲染：每次请求实时获取 TMDB 数据，避免构建时批量限流
+export const dynamic = 'force-dynamic'
+
 interface Props {
   params: { slug: string }
 }

@@ -4,6 +4,9 @@ import Image from 'next/image'
 import { articles } from '@/data/articles'
 import { getMovieDetails, getImageUrl, TMDBMovie } from '@/lib/tmdb'
 
+// 动态渲染：每次请求实时获取 TMDB 数据
+export const dynamic = 'force-dynamic'
+
 export const metadata: Metadata = {
   title: 'Movie & TV Reviews',
   description: "Honest, in-depth reviews of the latest movies and TV shows. Find out what's worth watching.",
