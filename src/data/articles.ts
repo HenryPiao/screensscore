@@ -419,6 +419,172 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'conclave-2024-review',
+    title: 'Conclave Review: Ralph Fiennes Commands a Riveting Vatican Thriller',
+    movieTitle: 'Conclave',
+    tmdbId: 974635,
+    mediaType: 'movie',
+    rating: 8.5,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Edward Berger follows All Quiet on the Western Front with a masterclass in sustained tension, set entirely within the walls of the Vatican. If Succession were set in Rome and the stakes were the soul of the Catholic Church, it would look something like this.",
+    publishedAt: '2026-08-11',
+    tags: ['Thriller', 'Drama', 'Mystery', '2024'],
+    content: `
+<p class="lead">There are few settings in cinema as rich with dramatic potential as the papal conclave — a secret gathering of cardinals locked away from the world to elect a new Pope. Edward Berger, working from Robert Harris\'s novel, understands this instinctively, and his <strong>Conclave</strong> uses the claustrophobic grandeur of the Vatican to construct one of the most gripping thrillers of the year.</p>
+
+<h2>Fiennes at the Center of Everything</h2>
+<p>Ralph Fiennes plays Cardinal Lawrence, a man of profound faith and profound doubt, tasked with overseeing the conclave despite his own spiritual crisis. It\'s a performance of extraordinary restraint — Fiennes communicates Lawrence\'s inner turmoil through a tightening jaw, a carefully controlled voice, a flicker of something complicated behind the eyes. He is rarely the loudest presence in any scene, yet he commands every one he\'s in.</p>
+<p>The supporting cast is equally formidable. Stanley Tucci brings his customary intelligence to a liberal cardinal navigating impossible compromises. John Lithgow is quietly menacing as a frontrunner whose ambitions may exceed his faith. Isabella Rossellini, in a smaller role, makes every moment count. These are performances that feel lived-in — the result of actors who understand that understatement, in a film this controlled, carries more weight than any theatrical flourish.</p>
+
+<h2>A Thriller Built on Ideas</h2>
+<p>What distinguishes Conclave from ordinary procedural thrillers is Berger\'s insistence on taking its ideas seriously. The film is genuinely interested in questions of faith, power, and institutional corruption — in what it means to believe, and what institutions do to belief over time. These themes never feel bolted on; they emerge organically from the drama, giving the film a weight that lingers well after the final, genuinely surprising revelation.</p>
+<p>Stéphane Fontaine\'s cinematography frames the Vatican\'s baroque interiors with a cool, almost antiseptic precision that underlines the distance between the Church\'s spiritual mission and the political maneuvering happening within its walls. The score is spare and effective, building dread without telegraphing it.</p>
+
+<h2>Where It Stumbles</h2>
+<p>Some viewers may find the pacing deliberate to a fault — this is a film that trusts its audience to sit with ambiguity, and it demands patience in return. The film\'s final twist, while earned, may strike some as a step too far into provocation, prioritizing impact over plausibility. But these are minor reservations in the context of a film this confidently executed.</p>
+
+<h2>The Verdict</h2>
+<p>Conclave is the rare thriller that earns the word "intelligent" without qualification. It works as a mystery, as a character study, and as a meditation on faith and power — and it features one of Ralph Fiennes\'s finest performances. See it on the biggest screen you can find.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Ralph Fiennes gives one of the year\'s best performances</li>
+  <li>✅ Sustained, intelligent tension throughout</li>
+  <li>✅ Genuinely interested in ideas, not just plot mechanics</li>
+  <li>✅ Stunning Vatican cinematography</li>
+  <li>✅ Outstanding ensemble — Tucci, Lithgow, Rossellini all excellent</li>
+  <li>❌ Deliberately slow pacing will test impatient viewers</li>
+  <li>❌ Final twist is divisive</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'anora-2024-review',
+    title: 'Anora Review: Sean Baker\'s Palme d\'Or Winner Is a Whirlwind of Emotion',
+    movieTitle: 'Anora',
+    tmdbId: 1214509,
+    mediaType: 'movie',
+    rating: 9,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Mikey Madison delivers a career-defining performance in Sean Baker's Cinderella story gone spectacularly wrong — the best American film of 2024. Anora is wild, funny, heartbreaking, and completely alive in ways that mainstream cinema rarely allows itself to be.",
+    publishedAt: '2026-08-11',
+    tags: ['Drama', 'Comedy', 'Romance', '2024'],
+    content: `
+<p class="lead">Sean Baker has spent his career making films about people on the economic and social margins of American life — about survival, dignity, and the stories that get left out of mainstream cinema. With <strong>Anora</strong>, his Palme d\'Or winner at Cannes 2024, he delivers his most emotionally explosive film yet: a contemporary fairy tale that tears itself apart and, in doing so, says something profound about class, desire, and the American Dream.</p>
+
+<h2>Mikey Madison: A Star-Making Performance</h2>
+<p>Anora — Ani — is a sex worker at a Brighton Beach strip club who meets Ivan, the son of a Russian oligarch, and enters into what appears to be a genuine fairy tale: a whirlwind Las Vegas marriage, a life of sudden wealth, and a partner who seems to actually see her. Mikey Madison plays Ani with a blazing, unguarded energy — she is funny and vulnerable and furious in equal measure, often within the same scene.</p>
+<p>This is a performance of extraordinary range. In the film\'s first act, Madison captures the particular armor that comes with Ani\'s profession — the calculated warmth, the professional distance, the rare moments when something genuine breaks through. In the second and third acts, as the fairy tale collapses and Ani is forced to confront what she actually wanted from it, Madison matches Baker\'s escalating emotional demands with something that can only be called courage.</p>
+
+<h2>A Film of Three Movements</h2>
+<p>Baker structures Anora in three distinct movements that shift tone so completely they could almost be different films. The first is joyful and romantic — a genuine rush of new money and new possibility. The second is a farcical, almost slapstick nightmare as Russian enforcers descend to clean up Ivan\'s impulsive decision. The third is something quieter and much harder to shake: a reckoning with what was real and what was wishful thinking.</p>
+<p>The transitions between these modes are seamlessly managed. Baker never lets the comedy become cruel or the drama become sentimental — he holds both in tension throughout, and the result is a film that feels authentically chaotic in the way that real emotional experience often is.</p>
+
+<h2>The One Reservation</h2>
+<p>The film\'s 139-minute runtime occasionally strains in the middle section, where the farcical elements — while consistently funny — run slightly longer than necessary. Some viewers may find the tonal whiplash disorienting; Baker is deliberately testing his audience\'s ability to follow him into uncomfortable territory.</p>
+
+<h2>The Verdict</h2>
+<p>Anora is the best American film of 2024, and one of the most vital films of the decade. It is funny, furious, devastating, and alive. Mikey Madison\'s performance deserves every award that comes its way. This is exactly the kind of film cinema was invented to tell.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Mikey Madison is extraordinary — a genuine star-making turn</li>
+  <li>✅ Sean Baker at the absolute peak of his powers</li>
+  <li>✅ Tonal range is breathtaking — comedy, romance, and tragedy all feel earned</li>
+  <li>✅ The final scene is one of 2024\'s great movie moments</li>
+  <li>✅ Honest about class and power in ways American films rarely are</li>
+  <li>❌ 139 minutes — middle section slightly overstays its welcome</li>
+  <li>❌ Tonal shifts may disorient viewers expecting a conventional narrative</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'fallout-tv-2024-review',
+    title: 'Fallout Review: Amazon\'s Video Game Adaptation Is 2024\'s Best New Show',
+    movieTitle: 'Fallout',
+    tmdbId: 106379,
+    mediaType: 'tv',
+    rating: 9,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Amazon's adaptation of the beloved post-apocalyptic video game franchise is a miracle of tone — hilarious, brutal, surprisingly emotional, and impeccably cast. You don't need to have played a single Fallout game to be completely captivated.",
+    publishedAt: '2026-08-11',
+    tags: ['Sci-Fi', 'Action', 'Drama', 'TV Series', '2024'],
+    content: `
+<p class="lead">Video game adaptations have a long history of disappointing the fans who love the source material while alienating audiences who don\'t. <strong>Fallout</strong>, Amazon\'s eight-episode adaptation of Bethesda\'s post-apocalyptic RPG franchise, performs a minor miracle: it is completely faithful to the games\' tone and spirit while being entirely accessible to newcomers, and it is one of the most purely entertaining shows of 2024.</p>
+
+<h2>Three Protagonists, Three Worlds</h2>
+<p>The show follows three characters navigating the Wasteland — the scorched remains of America two centuries after nuclear war. Lucy (Ella Purnell) is a Vault Dweller, raised in an underground bunker and profoundly unprepared for the surface world\'s casual brutality. The Ghoul (Walton Goggins) is a pre-war actor turned centuries-old bounty hunter, equal parts tragic and terrifying. Maximus (Aaron Moten) is a Brotherhood of Steel squire yearning for meaning in a heavily militarized order.</p>
+<p>The show\'s masterstroke is allowing these three narratives to develop at their own pace before weaving them together. Each protagonist is the hero of their own story, with motivations that feel genuinely complicated — no one is purely good or purely evil, which is precisely the moral ecosystem that made the games so compelling in the first place.</p>
+
+<h2>Walton Goggins Steals the Show</h2>
+<p>Ella Purnell is excellent as Lucy — she captures the character\'s relentless optimism in a way that is funny and genuinely moving — but Walton Goggins is on another level entirely. His Ghoul is one of the great television performances of recent memory: a man who has watched the world end and kept going anyway, sustained by something that might be purpose or might just be spite. The parallel story of his pre-war life adds unexpected depth, turning what could have been a one-note villain into the show\'s most compelling figure.</p>
+
+<h2>Tone Is Everything</h2>
+<p>The Fallout games are celebrated for their ability to hold comedy and horror in the same frame — a world where cheerful 1950s Americana aesthetics overlay catastrophic violence and moral ambiguity. The show replicates this tonal balance with impressive precision. Scenes of genuine brutality are followed by moments of absurdist comedy that somehow don\'t undercut the drama. It is a genuinely difficult needle to thread, and showrunners Geneva Robertson-Dworet and Graham Wagner thread it consistently.</p>
+
+<h2>A Minor Caveat</h2>
+<p>The final episode slightly rushes what has been a carefully paced season, and the ending — while setting up a second season effectively — may leave some viewers wanting more resolution. For a show this confident in its own rhythms throughout, the finale feels slightly compressed.</p>
+
+<h2>The Verdict</h2>
+<p>Fallout is the best video game adaptation ever made and one of the best new shows of the decade. Whether you\'re a longtime fan of the games or have never touched a controller, this is essential viewing. It is funny, brutal, emotionally rich, and completely original — which is exactly what great genre television should be.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Walton Goggins gives a career-best performance</li>
+  <li>✅ Perfectly captures the games\' tone without alienating newcomers</li>
+  <li>✅ Three equally compelling protagonists with genuine moral complexity</li>
+  <li>✅ Production design is extraordinary — the Wasteland feels completely real</li>
+  <li>✅ Balances comedy and horror better than almost any show in memory</li>
+  <li>❌ Finale feels slightly rushed compared to the careful pacing of earlier episodes</li>
+  <li>❌ Some lore-heavy moments may briefly confuse non-game players</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'the-substance-2024-review',
+    title: 'The Substance Review: Demi Moore Delivers the Performance of Her Career in a Visceral Body Horror Masterpiece',
+    movieTitle: 'The Substance',
+    tmdbId: 933260,
+    mediaType: 'movie',
+    rating: 8,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Coralie Fargeat's Cannes Best Screenplay winner is an audacious, disgusting, darkly hilarious assault on the beauty industry and our obsession with female youth. Demi Moore has never been better — and the film has never been more committed to making you deeply, gloriously uncomfortable.",
+    publishedAt: '2026-08-11',
+    tags: ['Horror', 'Sci-Fi', 'Drama', '2024'],
+    content: `
+<p class="lead">There is a moment in <strong>The Substance</strong> when you realize that Coralie Fargeat is not going to pull any punches — that this film will go exactly as far as it needs to go and then considerably further. That realization is equal parts thrilling and deeply unsettling. This is body horror as feminist polemic, and it earns its Cannes Best Screenplay award by being both ferociously intelligent and genuinely, spectacularly disgusting.</p>
+
+<h2>Demi Moore, Fearless</h2>
+<p>Demi Moore plays Elisabeth Sparkle, a former movie star reduced to hosting a televised aerobics show, who is fired on her 50th birthday by a grotesque network executive (Dennis Quaid, committing fully to cartoonish villainy) who declares her "past her expiration date." She then discovers a black-market substance that allows her to generate a younger version of herself — Sue, played by Margaret Qualley — with whom she must share alternate weeks of existence.</p>
+<p>Moore\'s performance is the film\'s emotional center and its greatest achievement. She brings a raw vulnerability to Elisabeth that transforms what could be a satirical sketch into something genuinely moving — a portrait of a woman who has internalized every message the culture has sent her about her worth and her body, and who is now watching herself be consumed by them. The scenes where Elisabeth watches Sue\'s rising career are among the most quietly devastating in recent memory.</p>
+
+<h2>Fargeat\'s Relentless Vision</h2>
+<p>Director Coralie Fargeat (Revenge) operates in the key of maximalism. The film\'s color palette is saturated to the point of nausea; the camera lingers on bodies with an exploitative gaze that is clearly and deliberately critiquing the exploitative gaze of the industry it depicts. This is a film deeply aware of its own formal choices, and those choices are consistently purposeful even when they are provocative.</p>
+<p>The third act abandons restraint entirely in favor of something that can only be described as Cronenbergian grand guignol. Viewers with strong stomachs will find it exhilarating; those sensitive to body horror should be adequately warned.</p>
+
+<h2>Where It Occasionally Overreaches</h2>
+<p>The film\'s satirical targets — the beauty industry, Hollywood ageism, the male gaze — are real and worth skewering, but Fargeat occasionally hammers them so insistently that subtlety gives way to sledgehammer. Dennis Quaid\'s character, while entertaining, represents an approach to male villainy so broad that it edges toward caricature. The film is making a point, but the point doesn\'t always need to be made quite this loudly.</p>
+
+<h2>The Verdict</h2>
+<p>The Substance is not a film for everyone, and it knows it. But for viewers willing to follow Fargeat into genuinely transgressive territory, it offers something rare: a genre film with genuine ideas, anchored by a performance from Demi Moore that demands reassessment of her entire career. Deeply uncomfortable, darkly funny, and impossible to forget.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Demi Moore gives the performance of her career</li>
+  <li>✅ Fargeat\'s direction is audacious and formally coherent</li>
+  <li>✅ Body horror sequences are extraordinary filmmaking</li>
+  <li>✅ Genuinely intelligent feminist critique beneath the gore</li>
+  <li>❌ Third act excess may be too much for many viewers</li>
+  <li>❌ Satirical targets are sometimes hammered too insistently</li>
+  <li>❌ Dennis Quaid\'s villain is broad to the point of caricature</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
