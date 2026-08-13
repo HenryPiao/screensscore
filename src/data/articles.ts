@@ -585,6 +585,52 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'spider-man-brand-new-day-2026-review',
+    title: 'Spider-Man: Brand New Day Review: Tom Holland Delivers the Best Spider-Man Film Ever Made',
+    movieTitle: 'Spider-Man: Brand New Day',
+    tmdbId: 969681,
+    mediaType: 'movie',
+    rating: 9,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Destin Daniel Cretton's record-shattering Spider-Man entry is the rare superhero film that earns every superlative thrown at it — emotionally grounded, visually thrilling, and anchored by Tom Holland's career-best performance. In a world that doesn't remember Peter Parker, this film reminds us exactly why we do.",
+    publishedAt: '2026-08-13',
+    tags: ['Superhero', 'Action', 'Marvel', 'Sci-Fi', '2026'],
+    content: `
+<p class="lead">What does it feel like to be Spider-Man when no one knows who you are? <strong>Spider-Man: Brand New Day</strong> is built on that question, and Destin Daniel Cretton — the director who gave us the intimate devastation of <em>Short Term 12</em> before taking on <em>Shang-Chi</em> — turns it into the most emotionally honest superhero film in years. The fact that it has also shattered box office records feels almost beside the point. This one earns it.</p>
+
+<h2>Tom Holland, Finally Unleashed</h2>
+<p>Every previous Holland-era Spider-Man film has been, in part, a coming-of-age story. Brand New Day is something more demanding: a story about what you become when every external scaffolding — friends, mentors, reputation, memory — is stripped away. Peter Parker exists in a city he loves and protects, but that no longer remembers him. His old friends have built lives he can only observe from the outside. The weight of that loneliness has begun to crack something in him.</p>
+<p>Holland has never been better. He carries the film's emotional architecture on his shoulders with a subtlety that his earlier performances, charming as they were, rarely demanded. There's a scene midway through — Peter alone on a rooftop, watching a version of his old life continue without him — that is as quietly devastating as anything the MCU has produced. Holland plays it in near-silence, and it lands harder for it.</p>
+<p>Zendaya's MJ, meanwhile, has evolved into the film's moral center. Her dynamic with Holland is no longer the puppy-love electricity of <em>Homecoming</em>; it's the more complicated, more interesting thing that comes after — two people who love each other across an impossible distance, neither quite able to close it. The real-life relationship between Holland and Zendaya adds an uncanny resonance that the film wisely doesn't oversell.</p>
+
+<h2>A Villain You Can't See Coming</h2>
+<p>The screenplay's boldest choice is its antagonist: a threat that Peter literally cannot perceive. Without spoiling the mechanics, the film uses this conceit to explore something genuinely unsettling about power, identity, and what it means to fight something that operates below the threshold of ordinary perception. It's a more conceptually ambitious villain than any previous Spider-Man film has attempted — and Cretton handles the reveal with the patience of a director who trusts his audience.</p>
+<p>The supporting ensemble — including unexpected appearances from characters across the MCU — is deployed with rare discipline. No cameo overstays its welcome; each one adds something to Peter's isolation rather than diluting it with nostalgia. When the Punisher (Jon Bernthal, magnetic as ever) crosses paths with Spidey, the contrast between their philosophies of justice feels like it means something, not just like a wiki-crossover checkbox.</p>
+
+<h2>Cretton's Direction: Grounded Without Being Small</h2>
+<p>The film earns its blockbuster scale without losing its intimacy. Action sequences are staged with spatial clarity — you always know where Peter is, what the stakes are, what it costs him — and cinematographer Sayombhu Mukdeeprom (who shot <em>Call Me by Your Name</em>) brings a golden, slightly melancholy light to New York City that makes the familiar feel newly elegiac. A chase sequence through a fog-shrouded East River at dawn is among the most beautiful things the franchise has ever committed to camera.</p>
+<p>At 2 hours 25 minutes, the film moves. There's no act where Cretton loses the thread. The tonal control is exceptional: genuinely funny when it wants to be, genuinely frightening when the villain plot accelerates, and genuinely heartbreaking in its final twenty minutes in ways that feel fully earned by everything that came before.</p>
+
+<h2>Where It Occasionally Stumbles</h2>
+<p>The mid-film introduction of a new supporting character — a young runaway Peter takes under his wing — slightly overloads an already full plate. The character's arc is rushed, landing on an emotional note that would hit harder with another twenty minutes of development. And while the film's villain concept is conceptually striking, the third-act explanation of their origins leans on MCU lore in ways that may briefly lose general audiences. These are minor complaints in the context of a film this assured, but they're real.</p>
+
+<h2>The Verdict</h2>
+<p>Spider-Man: Brand New Day is the superhero film that 2026 needed — proof that the genre still has room for genuine emotional intelligence alongside its spectacle. Destin Daniel Cretton has made a Spider-Man film that works both as the finest entry in Holland's trilogy and as a standalone meditation on identity, memory, and the cost of heroism. Tom Holland has never been better. Zendaya has never been more essential. And for the first time since <em>Spider-Man 2</em>, there's a Spider-Man film that earns the adjective "great" without qualification. See it as large as you can.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Tom Holland delivers a career-best performance of rare emotional depth</li>
+  <li>✅ Conceptually ambitious villain that actually means something thematically</li>
+  <li>✅ Cretton's direction balances intimacy and scale with exceptional control</li>
+  <li>✅ Gorgeous cinematography — New York has never looked this elegiac on screen</li>
+  <li>✅ Every MCU cameo earns its place in the story</li>
+  <li>❌ New supporting character introduced too late for their arc to fully land</li>
+  <li>❌ Third-act villain exposition briefly bogs down the pacing for non-MCU followers</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
