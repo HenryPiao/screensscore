@@ -631,6 +631,50 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'toy-story-5-2026-review',
+    title: 'Toy Story 5 Review: Pixar\'s Tech Parable Is a Funny, Melancholy Return to Form',
+    movieTitle: 'Toy Story 5',
+    tmdbId: 1084244,
+    mediaType: 'movie',
+    rating: 8,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Andrew Stanton returns to the franchise he helped create and delivers a Toy Story film that earns its existence — a melancholy, surprisingly sharp satire on screen addiction wrapped in Pixar\'s warmest animation in years. It doesn\'t reach the heights of the first three films, but it comes closer than it has any right to.",
+    publishedAt: '2026-08-13',
+    tags: ['Animation', 'Pixar', 'Comedy', 'Family', '2026'],
+    content: `
+<p class="lead">Every time Pixar makes another Toy Story sequel, we ask whether it was necessary. And every time, they manage to justify it. <strong>Toy Story 5</strong> — directed by Andrew Stanton, the man behind <em>WALL-E</em> and <em>Finding Nemo</em>, returning to the franchise he co-created in 1995 — is a genuinely surprising film: funnier than expected, sadder than advertised, and anchored by a Joan Cusack performance that is among the finest vocal work in the entire Pixar canon.</p>
+
+<h2>This Is Jessie\'s Movie</h2>
+<p>The boldest creative decision here is centering Jessie rather than Woody. Tom Hanks and Tim Allen are present, but they\'ve been wisely moved to supporting roles — the franchise\'s bickering bromance is, as Stanton seems to know, somewhat exhausted after 31 years. Jessie, having been abandoned twice in previous films, now faces something worse: the possibility that abandonment is not a personal story but a species-level fate. "I can\'t love another kid just to find out I never mattered," she says in a line that lands with the quiet devastation of a much more adult film.</p>
+<p>Joan Cusack, returning after a long break from major studio voice work, meets every demand Stanton and co-writer Kenna Harris place on her. Her Jessie is funny and frightened in equal measure — a character who has internalized decades of existential dread but refuses to give in to it. The scene where she scrambles onto a rooftop and looks out at a neighborhood of children, every face lit by a glowing screen, is one of the best Pixar has staged since the incinerator in <em>Toy Story 3</em>.</p>
+
+<h2>The Tablet as Villain — And the Surprising Nuance Beneath</h2>
+<p>The "toys vs. tech" premise could have been a smug lecture, and in lesser hands it would have been. Stanton and Harris are smarter than that. Lilypad — the AI-enabled tablet voiced with chirpy menace by Greta Lee — isn\'t portrayed as evil. She genuinely believes she\'s helping Bonnie. The film\'s real target is subtler: the way that technology erodes not through malice but through convenience, gradually replacing the friction and boredom that childhood imagination actually requires to grow.</p>
+<p>It\'s a message that\'s easy for adults to endorse and surprisingly un-preachy for a film pitched at eight-year-olds. Stanton trusts his young audience to feel the argument emotionally before they can articulate it logically, which is exactly how the best Pixar films have always worked.</p>
+<p>The ensemble of discarded tech toys Jessie recruits — including Conan O\'Brien\'s delightfully sour Smarty Pants (an obsolete electronic toilet trainer, a detail of genius) and Craig Robinson\'s genial GPS hippo Atlas — provides consistent comic relief while reinforcing the theme: everything eventually becomes obsolete, and yet even obsolete things retain a kind of dignity.</p>
+
+<h2>Where It Doesn\'t Quite Match Its Predecessors</h2>
+<p>The Buzz Lightyear subplot, involving an army of 50 Hi-Tech Edition Buzz toys that awaken in a shipping container and attempt to reach "Star Command," is the film\'s weakest element. It\'s inventively designed and occasionally very funny — Tim Allen plays the new model Buzz with amusing smugness — but it takes too long to merge with Jessie\'s storyline, and its action-movie energy sits uneasily against the film\'s quieter emotional register.</p>
+<p>The film also doesn\'t quite achieve the structural elegance of <em>Toy Story 3</em>, whose ominous undercurrent built toward a climax of genuine terror. The third act here is satisfying but somewhat conventional, relying on a reconciliation that feels slightly too convenient given the bleakness that precedes it.</p>
+
+<h2>The Verdict</h2>
+<p>Toy Story 5 is the sequel nobody asked for and the one the franchise needed. By centering Jessie, sidelining the tired Woody-Buzz dynamic, and building a story around a theme that resonates across every age in the audience, Stanton has made a Pixar film with genuine things to say. It isn\'t as devastating as <em>Toy Story 3</em> or as conceptually pure as the original, but it has more wit, sadness, and surprise than most animated films manage in a decade. Randy Newman\'s score — his fifth in the franchise — is quietly magnificent throughout. A worthy entry.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Joan Cusack\'s Jessie is the best vocal performance in the franchise\'s history</li>
+  <li>✅ Screen-addiction theme is sharp, timely, and surprisingly un-preachy</li>
+  <li>✅ Lilypad is a beautifully conceived antagonist — harmful without being evil</li>
+  <li>✅ Conan O\'Brien\'s Smarty Pants is a genuine scene-stealer</li>
+  <li>✅ Randy Newman\'s score is quietly one of his best</li>
+  <li>❌ The Buzz Lightyear subplot takes too long to integrate</li>
+  <li>❌ Third act is more conventional than the melancholy first hour promises</li>
+  <li>❌ Doesn\'t reach the structural heights of Toy Story 3</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
