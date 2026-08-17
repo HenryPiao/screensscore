@@ -675,6 +675,91 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'the-end-of-oak-street-2026-review',
+    title: 'The End of Oak Street Review: Anne Hathaway Faces Dinosaurs in a Delirious Suburban Thriller',
+    movieTitle: 'The End of Oak Street',
+    tmdbId: 1101383,
+    mediaType: 'movie',
+    rating: 7.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "David Robert Mitchell trades lo-fi horror for big-budget dino mayhem and mostly pulls it off — a carnivalesque, 1980s-set suburban survival thriller with Anne Hathaway as its indispensable center. It\'s dumb in the best possible way, and it knows it.",
+    publishedAt: '2026-08-17',
+    tags: ['Sci-Fi', 'Thriller', 'Action', '2026'],
+    content: `
+<p class="lead">David Robert Mitchell made his name with <em>It Follows</em>, a film about something unseen and terrifying lurking just behind you. <strong>The End of Oak Street</strong> swaps the invisible menace for an extremely visible one — specifically, a Spinosaurus eating your neighbors — and the result is the most gleefully unhinged entry-level blockbuster of the summer. It has no right to be as much fun as it is.</p>
+
+<h2>Anne Hathaway, Essential as Ever</h2>
+<p>The film is set in 1982 and follows the Platt family — parents Denise (Anne Hathaway) and Greg (Ewan McGregor) and their two teenagers — whose idyllic Flowervale cul-de-sac is ripped through time by a mysterious cosmic event and deposited, still intact, into the middle of the Cretaceous period. Feathered raptors. A T. rex. A Titanoboa the size of a school bus that moves like a sloth until it doesn\'t. The neighbours who told you to stop letting your dog bark at 3am now have far larger problems.</p>
+<p>Hathaway holds the film together through sheer force of screen presence. Her Denise is an Anne Tyler character dropped into a Michael Crichton novel: a quietly frustrated housewife with a secret novel-in-progress and a husband who\'s been hiding the fact that he lost his job months ago. In lesser hands this domestic tension would feel like padding before the dinosaurs arrive; Hathaway makes it feel like the film\'s actual subject. When she unloads a shotgun into a rampaging Allosaurus on her front porch, the moment earns a laugh precisely because we\'ve come to understand who she is. "I\'m just trying to figure out the least scary way to handle this," she says at one point — and it might be the film\'s best line.</p>
+<p>Ewan McGregor, as the deflated Greg, is given less to work with but he and Hathaway have a natural chemistry that turns their strained marriage into something unexpectedly poignant. Christian Convery is a standout as their son Brian, a kid whose bravado perpetually wars with genuine terror.</p>
+
+<h2>Mitchell\'s Sly Genre Intelligence</h2>
+<p>What distinguishes <em>The End of Oak Street</em> from the endless Jurassic franchise sequels it riffs on is the directorial intelligence beneath the carnage. Mitchell, working with his regular cinematographer Michael Gioulakis and composer Michael Giacchino, brings a formal wit to the material that keeps it from collapsing into mere spectacle. Giacchino\'s score is a particular delight: he plays heroic fanfares over moments that climax in someone getting eaten, and the comedy of that tonal whiplash never gets old.</p>
+<p>Mitchell also shoots the suburban setting — the cul-de-sacs, the brick-ugly houses, the fenced-in gardens — with the same menacing eye he brought to the subdivisions of <em>It Follows</em>. Here, the message is blunter: the safety of the American Dream is as illusory as a white picket fence against a Triceratops. There\'s a genuine theme lurking in the film\'s junk-movie DNA, and that theme is what elevates it above the summer filler it superficially resembles.</p>
+
+<h2>Where It Doesn\'t Quite Hold</h2>
+<p>The film\'s third act flags slightly. The resolution to the time-warp mystery is, as even its admirers have admitted, completely ludicrous — a glowing globule that appears periodically and may or may not get the Platts home. Mitchell stages the escape with the same showmanship he brings to the dinosaur attacks, but he can\'t make the mechanics convincing because they aren\'t. The film also leans on a few too many "characters don\'t notice the monster behind them" beats, which stop being funny the third time.</p>
+
+<h2>The Verdict</h2>
+<p>The End of Oak Street is the kind of mid-August blockbuster that the multiplex was invented for — not great cinema, but genuinely great fun, anchored by a performance from Anne Hathaway that deserves a better film around it and making shrewd use of a director who knows exactly how suburban comfort conceals suburban dread. See it loud, see it with a crowd, and watch out for the snake.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Anne Hathaway is indispensable — she earns every moment of this film</li>
+  <li>✅ Mitchell\'s directorial intelligence elevates the material above pure genre exercise</li>
+  <li>✅ Michael Giacchino\'s score is a constant delight</li>
+  <li>✅ Genuinely scary dinosaur sequences — scarier than any Jurassic World film in years</li>
+  <li>❌ Third-act resolution is completely ludicrous even by the film\'s own standards</li>
+  <li>❌ Overreliance on characters conveniently failing to notice enormous creatures behind them</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'the-brink-of-war-2026-review',
+    title: 'The Brink of War Review: Jared Harris Electrifies a Stiff but Earnest Cold War Drama',
+    movieTitle: 'The Brink of War',
+    tmdbId: 192139,
+    mediaType: 'movie',
+    rating: 6.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'yellow',
+    excerpt: "Michael Russell Gunn\'s dramatization of the 1986 Reykjavík Summit is too preachy and static to fully ignite, but Jared Harris\'s Gorbachev is a genuine performance — and for those interested in how two men in a room once tried to step the world back from the nuclear edge, it\'s a mostly worthwhile if uncinematic experience.",
+    publishedAt: '2026-08-17',
+    tags: ['Drama', 'Historical', 'Thriller', '2026'],
+    content: `
+<p class="lead">The 1986 Reykjavík Summit is the kind of history that writes its own drama — two aging leaders, meeting in a remote Icelandic house at the edge of the sea, trying to negotiate the dismantling of enough nuclear warheads to destroy the world several times over. <strong>The Brink of War</strong>, Michael Russell Gunn\'s earnest feature debut, captures the importance of that moment without quite capturing its electricity. But Jared Harris\'s Gorbachev gets closer than anything else in the film.</p>
+
+<h2>Harris Carries the Weight</h2>
+<p>Jeff Daniels plays Ronald Reagan with conviction and craft, but the resemblance is imperfect — you watch Daniels performing Reagan rather than disappearing into him, and the occasional Midwest folksy "Well…" doesn\'t quite bridge the gap. What he gets right is the essence: a man of total conviction, folksy self-assurance, and a certain almost-impenetrable optimism that could read as stubbornness or as genuine faith depending on your politics. Gunn\'s film, which makes no secret of which side it\'s on, lets Reagan\'s perspective dominate.</p>
+<p>Harris\'s Gorbachev, by contrast, is a full human being. His standout scene — a controlled eruption about U.S. agricultural trade restrictions preventing the Soviet Union from buying cow-milking equipment to feed its citizens — has the ring of genuine grievance, and Harris plays it as exactly that: not as a villain\'s monologue but as a man\'s humiliation. It\'s a performance of extraordinary precision, and it\'s the reason to see the film.</p>
+<p>J.K. Simmons brings his customary grounded authority to Secretary of State George Shultz, and Branka Katić is an absolute scene-stealer as Raisa Gorbachev — conducting a low-key proxy war with Nancy Reagan (Hope Davis, excellent in limited screen time) across international press coverage. This is the film\'s funniest and most human subplot, and it makes you wish the director had trusted it more.</p>
+
+<h2>The Summit, Vividly Staged</h2>
+<p>One genuine asset is location. Gunn secured permission to film at the actual Hofdi House in Reykjavik where the summit took place, and Magdalena Górka\'s cinematography makes excellent use of the building\'s eerie, isolated beauty. The Atlantic through the window, the grey light, the absurd smallness of the room where two men decided the fate of several hundred million warheads — it\'s a genuinely powerful setting, and the film earns quiet points simply for being there.</p>
+<p>The negotiation scenes themselves, when the film gets out of its own way and lets Daniels and Harris argue, have a real theatrical charge. Austin Wintory\'s score occasionally overwhelms what should be underplayed moments, but the central performances are strong enough to cut through.</p>
+
+<h2>When It Stumbles</h2>
+<p>The screenplay — written by Gunn, who cut his teeth on Aaron Sorkin\'s <em>The Newsroom</em> — never entirely escapes its mentor\'s worst habit: telling the audience exactly how to feel. Characters speak in historical aphorisms. Reagan invokes "trust but verify" and "peace through strength" like hits at a greatest-hits concert. A final monologue from Shultz, delivered direct-to-camera, explains what the summit meant — robbing the audience of the chance to arrive there themselves.</p>
+<p>More critically, the film elides the historical reality that the Reykjavík Summit was, in the short term, a failure: the talks collapsed and the two men left without an agreement. Gunn folds this uncomfortable fact into a tidy coda about the treaty that came a year later, giving the film a triumphalist ending it hasn\'t entirely earned.</p>
+
+<h2>The Verdict</h2>
+<p>The Brink of War is earnest to a fault, and in an era when "earnest about diplomacy" is almost a radical position, there\'s something to be said for that. It\'s a better film than it is a movie — its drama belongs on a stage more than a screen. But Harris\'s Gorbachev is unforgettable, the Iceland photography is quietly stunning, and for audiences hungry for thoughtful historical drama, it delivers enough of what it promises to justify the time.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Jared Harris gives a superlative Gorbachev — precise, fully human, impossible to forget</li>
+  <li>✅ Filmed at the actual Hofdi House — the setting adds genuine atmosphere</li>
+  <li>✅ The Nancy/Raisa subplot is the film\'s most alive and entertaining thread</li>
+  <li>✅ J.K. Simmons dependably excellent as George Shultz</li>
+  <li>❌ Daniels is creditable but never convincing as Reagan</li>
+  <li>❌ Script is too preachy — characters announce their themes rather than embodying them</li>
+  <li>❌ Elides the summit\'s actual short-term failure in favor of a tidier ending</li>
+  <li>❌ Lacks the urgency and tension the material deserves</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
