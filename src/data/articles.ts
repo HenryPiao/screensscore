@@ -760,6 +760,50 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'heat-1995-review',
+    title: 'Heat Review: Michael Mann\'s Crime Epic Is Still the Gold Standard, Thirty-One Years Later',
+    movieTitle: 'Heat',
+    tmdbId: 949,
+    mediaType: 'movie',
+    rating: 9,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Michael Mann\'s 1995 L.A. crime epic is back on streaming and hasn\'t lost a frame of its power — the film against which every serious crime thriller since has been measured. If you haven\'t seen it, stop reading and fix that immediately.",
+    publishedAt: '2026-08-19',
+    tags: ['Action', 'Drama', 'Thriller', '1995'],
+    content: `
+<p class="lead">Thirty-one years after it first hit theaters, <strong>Heat</strong> remains the definitive American crime epic — a film so sure of itself, so ruthlessly precise in its construction, that it has become the template against which every Los Angeles crime story since is measured. With Heat 2 now confirmed and a new generation discovering the original on streaming, there has never been a better moment to make the case: this is Michael Mann\'s masterpiece, and it is as vital as ever.</p>
+
+<h2>Two Icons, One Masterclass in Restraint</h2>
+<p>The most famous scene in Heat is the coffee shop meeting between Neil McCauley (Robert De Niro) and Vincent Hanna (Al Pacino) — two men who have spent the film trying to destroy each other, sitting across a table, talking like old friends about what it might be like to be the other. It lasts about six minutes. It is probably the greatest scene of the 1990s.</p>
+<p>What makes it work is that both men arrive fully formed. De Niro\'s McCauley is rigorous, contained, and self-aware in ways that most screen criminals never are — he has a code, he lives by it, and he knows that code will eventually cost him everything. Pacino\'s Hanna is the fire to De Niro\'s ice: volatile, sleep-deprived, conducting three failing relationships simultaneously, capable of total focus and total chaos in the same breath. Pacino is sometimes criticized for overacting; in Heat, the largeness of his performance is precisely right — Hanna is a man too big for his own skin, and Pacino makes you feel every inch of it.</p>
+<p>Their chemistry is electric precisely because Mann keeps them apart for most of the film. When they finally share the frame, the scene earns every second of the buildup. Val Kilmer, Jon Voight, and Tom Sizemore round out the crew with supporting work that would headline lesser films — Kilmer in particular brings a reckless magnetism to Chris Shiherlis that makes his arc hit harder than the script alone justifies.</p>
+
+<h2>A City as Character, Action as Consequence</h2>
+<p>Mann shoots Los Angeles as no director before or since has managed: a city of glass and concrete and flat bleached light, where emptiness is the natural condition and human connection is the exception. Dante Spinotti\'s cinematography is extraordinary — the nighttime reflections, the cold blue interiors, the way streetlights refract off wet tarmac during the film\'s pivotal bank heist sequence give the city an alienated beauty that perfectly mirrors its characters\' emotional lives. This is a Los Angeles that looks like the loneliest place on earth, and Mann frames every choice his characters make against that backdrop of gorgeous desolation.</p>
+<p>That bank heist — the film\'s centerpiece, staged with a precision that influenced Christopher Nolan\'s <em>The Dark Knight</em> and virtually every serious action film of the following two decades — remains breathtaking. The sound design is punishing, the choreography immaculate, and Mann shoots it with a documentary clarity that makes the whole sequence feel less like a set piece and more like something that simply happened. The subsequent pursuit through downtown L.A. extends the sequence without deflating it, building to a conclusion that carries genuine dramatic weight.</p>
+
+<h2>Imperfect in Its Ambitions, Perfect in Its Effect</h2>
+<p>At 170 minutes, Heat demands patience — and earns it. Some of the supporting relationship subplots feel underdeveloped given the screen time they occupy. The film\'s female characters, despite the talent of Ashley Judd and Diane Venora, are underwritten in ways that a lesser film wouldn\'t invite you to notice. And the final movement, though emotionally correct, rushes slightly to reach its inevitable conclusion after such careful buildup.</p>
+<p>These are minor reservations about a major achievement. Heat holds its ambition and its execution in perfect balance for nearly three hours — and its final scene, on the tarmac, in near-darkness, achieves a tragic simplicity that most films wouldn\'t dare attempt.</p>
+
+<h2>The Verdict</h2>
+<p>If you haven\'t seen Heat, stop reading and fix that immediately. If you have seen it, you almost certainly know that revisiting it — particularly now, with Heat 2 confirmed and DiCaprio set to carry the next chapter — reveals new layers every time. Michael Mann made the greatest American crime film since <em>The Godfather Part II</em>. Thirty-one years of imitators have only made that clearer. It\'s streaming on Pluto TV for free right now. You have no excuses.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ De Niro and Pacino deliver two of their finest, most complementary performances</li>
+  <li>✅ The coffee shop scene is among the greatest scenes in American cinema</li>
+  <li>✅ The downtown bank heist remains a masterclass in practical action filmmaking</li>
+  <li>✅ Spinotti\'s Los Angeles cinematography is visually extraordinary</li>
+  <li>✅ Val Kilmer brings reckless magnetism that elevates every scene he\'s in</li>
+  <li>❌ Female characters are underwritten relative to the film\'s overall ambition</li>
+  <li>❌ Some supporting subplots feel stretched without proportionate payoff</li>
+  <li>❌ The final act moves slightly faster than the film\'s patient rhythm has prepared you for</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
