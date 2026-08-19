@@ -6,7 +6,10 @@ interface Props {
 }
 
 export function generateMetadata({ searchParams }: Props) {
-  return { title: searchParams.q ? `Search: ${searchParams.q}` : 'Search' }
+  return {
+    title: searchParams.q ? `Search: ${searchParams.q}` : 'Search',
+    robots: { index: false, follow: true },
+  }
 }
 
 export default async function SearchPage({ searchParams }: Props) {

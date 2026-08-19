@@ -1,7 +1,16 @@
 import Link from 'next/link'
 import Image from 'next/image'
+import { Metadata } from 'next'
 import { getTrendingMovies, getNowPlayingMovies, getImageUrl, createSlug } from '@/lib/tmdb'
 import MovieCard from '@/components/MovieCard'
+
+export const metadata: Metadata = {
+  title: 'ScreensScore – Honest Movie & TV Reviews',
+  description: "Honest movie and TV show reviews. Find out if it's worth watching before you commit.",
+  alternates: {
+    canonical: 'https://screensscore.com',
+  },
+}
 
 export default async function HomePage() {
   const [trending, nowPlaying] = await Promise.all([

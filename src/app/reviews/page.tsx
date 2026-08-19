@@ -10,6 +10,9 @@ export const dynamic = 'force-dynamic'
 export const metadata: Metadata = {
   title: 'Movie & TV Reviews',
   description: "Honest, in-depth reviews of the latest movies and TV shows. Find out what's worth watching.",
+  alternates: {
+    canonical: 'https://screensscore.com/reviews',
+  },
 }
 
 export default async function ReviewsPage() {

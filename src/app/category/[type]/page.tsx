@@ -34,7 +34,13 @@ interface Props {
 export function generateMetadata({ params }: Props): Metadata {
   const config = CATEGORIES[params.type as CategoryType]
   if (!config) return { title: 'Browse' }
-  return { title: config.title, description: config.description }
+  return {
+    title: config.title,
+    description: config.description,
+    alternates: {
+      canonical: `https://screensscore.com/category/${params.type}`,
+    },
+  }
 }
 
 export default async function CategoryPage({ params }: Props) {

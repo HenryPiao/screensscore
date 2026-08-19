@@ -3,6 +3,9 @@ import { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'About ScreensScore',
   description: 'Honest movie and TV show reviews — helping you decide what to watch.',
+  alternates: {
+    canonical: 'https://screensscore.com/about',
+  },
 }
 
 export default function AboutPage() {
