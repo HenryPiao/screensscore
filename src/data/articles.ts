@@ -804,6 +804,48 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'signs-2002-review',
+    title: 'Signs Review: M. Night Shyamalan\'s Alien Thriller Is Really About Faith, Grief, and Corn',
+    movieTitle: 'Signs',
+    tmdbId: 2675,
+    mediaType: 'movie',
+    rating: 8,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "M. Night Shyamalan\'s 2002 slow-burn masterwork uses an alien invasion to tell a genuinely moving story about a man\'s broken faith and his family\'s survival. Twenty-four years on, it\'s as nerve-shredding as ever and currently dominating Disney+ — some films deserve to keep scaring people indefinitely.",
+    publishedAt: '2026-08-19',
+    tags: ['Sci-Fi', 'Horror', 'Thriller', '2002'],
+    content: `
+<p class="lead"><strong>Signs</strong> is not really about aliens. It\'s about a man who has lost his faith and a family trying to hold together after an unthinkable loss — and the alien invasion is the instrument through which M. Night Shyamalan puts that family\'s world back together. That it also happens to be one of the most genuinely frightening films of its decade is almost beside the point. Almost.</p>
+
+<h2>Gibson and Phoenix: A Family Held Together by Thread</h2>
+<p>Mel Gibson plays Graham Hess, a former Episcopalian priest who abandoned his vocation after his wife was killed in a roadside accident. He lives with his two children — Morgan (Rory Culkin) and Bo (Abigail Breslin, in her feature debut) — and his brother Merrill (Joaquin Phoenix) on a farm in Bucks County, Pennsylvania. When crop circles appear in their fields overnight, Graham suspects human pranksters. What follows over the next 36 hours forces him to reckon with the question he\'s been avoiding since his wife\'s death: is there anyone listening?</p>
+<p>Gibson gives one of his most restrained and effective performances. Graham\'s atheism isn\'t a tic or a plot device; it\'s a wound, and Gibson carries it in every scene. His face during the film\'s tensest sequences does more work than most dialogue could — the specific terror of a man confronting something he can no longer explain away is written plainly across it. Phoenix, for his part, brings warmth and physical comedy to Merrill that keeps the film from collapsing under its own weight. His climactic scene with a baseball bat is a genuine crowd-pleaser, earned by 90 minutes of careful character setup.</p>
+<p>Culkin and Breslin are extraordinary. Both children carry full-character arcs — Morgan\'s asthma, Bo\'s habit of leaving half-full glasses of water around the house — that seem like quirks until the film reveals them as load-bearing architecture. Shyamalan\'s plotting is airtight in ways that reward close attention and a second viewing.</p>
+
+<h2>The Art of What You Don\'t See</h2>
+<p>Shyamalan\'s greatest skill in Signs is negative space. The aliens are heard before they\'re seen, glimpsed in reflections and grainy news footage long before they appear in full. James Newton Howard\'s score — Bernard Herrmann-influenced, building through staccato strings toward something genuinely dread-inducing — does as much heavy lifting as any frame of the film itself.</p>
+<p>Tak Fujimoto\'s cinematography frames the farm\'s cornfields as a source of beautiful, encroaching menace. The scene in which Graham walks into the corn at night and hears something move through it — never showing us what it is — is as effective a piece of suspense filmmaking as any in the Shyamalan catalogue. The baby monitor sequence uses sound design alone to generate genuine terror, and the birthday party scene, in which a creature is glimpsed in night-vision footage on a television screen, remains one of the most startling moments in modern horror. The film understands that the imagination, properly primed, is a better monster-maker than any VFX budget.</p>
+
+<h2>Where the Faith Mechanics Creak</h2>
+<p>The film\'s ending requires more buy-in than some viewers will give. The "coincidences" that save the family are presented as miraculous intervention — a narrative tidiness that can feel earned or contrived depending on your openness to the film\'s spiritual register. Shyamalan isn\'t being sloppy; the whole film is a cumulative argument for its conclusion, and every detail has been planted with care. But the explicit framing of chance-as-providence in Gibson\'s final monologue risks undercutting the ambiguity that makes the first two acts so powerful. The film works better as mystery than as theology, and viewers who resist the theological conclusion may find the landing unsatisfying even while they admire the craftsmanship that got them there.</p>
+
+<h2>The Verdict</h2>
+<p>Twenty-four years on, Signs holds up remarkably well — better than most of its contemporaries, and better than much of Shyamalan\'s subsequent work for a decade afterward. It is the rare blockbuster with genuine things to say about grief, family, and what it means to believe in something when the evidence against it feels overwhelming. On Disney+, it is currently finding new audiences and scaring them thoroughly all over again. Good. Some films deserve to keep scaring people indefinitely.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Gibson delivers one of his most nuanced and restrained performances</li>
+  <li>✅ Shyamalan\'s plotting is airtight — every detail comes back</li>
+  <li>✅ Howard\'s score and Fujimoto\'s photography create sustained, suffocating dread</li>
+  <li>✅ Breslin\'s feature debut is remarkable; Culkin matches her beat for beat</li>
+  <li>✅ Phoenix brings warmth and humor that keeps the film grounded and human</li>
+  <li>❌ The spiritual resolution requires a level of buy-in not every viewer will give</li>
+  <li>❌ Full alien design, when finally revealed, is less frightening than the suggestion was</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
