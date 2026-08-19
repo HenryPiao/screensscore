@@ -12,6 +12,7 @@ interface Props {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const canonicalUrl = `https://screensscore.com/movie/${params.slug}`
   try {
     const tmdbId = extractIdFromSlug(params.slug)
     const movie = await getMovieDetails(tmdbId).catch(() => getMovieDetails(tmdbId, 'tv'))
@@ -19,12 +20,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return {
       title: `${title} Review`,
       description: movie.overview?.slice(0, 155),
+      alternates: {
+        canonical: canonicalUrl,
+      },
       openGraph: {
         images: movie.poster_path ? [getImageUrl(movie.poster_path, 'w500')] : [],
       },
     }
   } catch {
-    return { title: 'Review' }
+    return {
+      title: 'Review',
+      alternates: { canonical: canonicalUrl },
+    }
   }
 }
 

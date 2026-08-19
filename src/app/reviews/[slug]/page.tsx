@@ -22,6 +22,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: article.title,
     description: article.excerpt,
+    alternates: {
+      canonical: `https://screensscore.com/reviews/${params.slug}`,
+    },
     openGraph: { type: 'article', publishedTime: article.publishedAt },
   }
 }
