@@ -846,6 +846,88 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'zootopia-2-2025-review',
+    title: 'Zootopia 2 Review: The Most Ambitious Animated Sequel in Disney History Delivers',
+    movieTitle: 'Zootopia 2',
+    tmdbId: 1084242,
+    mediaType: 'movie',
+    rating: 8.5,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Disney\'s long-awaited follow-up to the 2016 hit is not just a worthy sequel — it\'s a richer, more emotionally intelligent film that earns every dollar of its record-shattering $1.87 billion global haul. If you loved the original, this is required viewing; if you somehow missed it, correct that immediately.",
+    publishedAt: '2026-08-20',
+    tags: ['Animation', 'Comedy', 'Adventure', 'Disney', '2025'],
+    content: `
+<p class="lead"><strong>Zootopia 2</strong> had no business being this good. Nine years after the original rewrote the rules of the Disney animated feature, Judy Hopps and Nick Wilde are back — and directors Jared Bush and Byron Howard have done the harder thing: made a sequel that not only recaptures the original\'s energy but deepens it.</p>
+
+<h2>A Case Built on Character, Not Just Plot</h2>
+<p>The mystery at the center of Zootopia 2 is almost secondary to what the film is really about: two partners who have spent years pretending their emotional armor is a superpower. Judy\'s relentless optimism and Nick\'s ironic detachment were charming quirks in the first film. Here, Bush and Howard\'s script turns them into wounds — coping mechanisms that both characters must confront if they\'re going to crack the case and, more importantly, survive each other.</p>
+<p>Ginnifer Goodwin and Jason Bateman remain perfectly matched. Their rapport has the easy chemistry of actors who know these roles in their bones, but the writing demands more from them this time. There\'s a third-act moment — quiet, understated, devastating — that ranks among the best emotional beats in recent Disney animation. Newcomer Gary De\'Snake, voiced with silky menace, is a genuinely clever villain: not evil because of bias but because he exploits it.</p>
+
+<h2>A World Worth Getting Lost In</h2>
+<p>Technically, Zootopia 2 is a quantum leap. The fur detail, the water physics, the sheer density of animal life moving through every frame — it\'s the kind of animation that rewards a second viewing on the largest screen available. Bush and Howard take Judy and Nick to parts of the city the first film only hinted at: the sewers-turned-underground economy beneath Tundratown, a sun-drenched coastal district where the class politics of Zootopia hit differently. Each new environment is designed with the same intelligence as the original\'s famous Climate Districts, layering visual worldbuilding on top of thematic purpose.</p>
+<p>The film is also, it must be said, very funny. A running gag involving inter-species bureaucracy escalates to a payoff so perfectly timed it drew applause at press screenings. The returning ensemble — Idris Elba\'s Chief Bogo, Shakira\'s Gazelle — are deployed with restraint, allowed to exist as characters rather than callbacks.</p>
+
+<h2>Where It Asks More Than It Answers</h2>
+<p>Zootopia 2 is brave enough to raise questions it doesn\'t fully resolve. Its themes — stolen land, systemic bias, the limits of optimism — are handled with more complexity than you\'d expect from a PG family film, but the ending asks the audience to feel resolution that the script hasn\'t entirely earned. Judy gets off the hook a little too easily for choices she makes in the second act, and the film\'s 108-minute runtime occasionally strains under the weight of its ambitions. Not every subplot lands, and one involving a scene-stealing side character is dropped before it pays off. These are the complaints of someone who wanted even more from a film that is already doing a great deal.</p>
+
+<h2>The Verdict</h2>
+<p>Zootopia 2 is the rare sequel that surpasses its predecessor in almost every technical measure while honoring everything that made the original work. Its $1.87 billion global box office — the biggest animated gross of all time — reflects genuine audience hunger for a film that treats family animation as a serious art form. BAFTA and the Academy noticed. So should you. If you haven\'t seen it yet, that\'s a gap worth closing immediately.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Goodwin and Bateman are better together than ever — the partnership has real emotional depth</li>
+  <li>✅ Animation that represents a genuine technical leap: fur, water, crowd simulation</li>
+  <li>✅ A villain built on systemic critique rather than personal grievance</li>
+  <li>✅ Expands the Zootopia world intelligently, with new environments that carry thematic weight</li>
+  <li>✅ Genuinely funny — the bureaucracy gag is one of the best running jokes in recent animated film</li>
+  <li>❌ Judy\'s arc in the second act is resolved a little too neatly for the film\'s own ambitions</li>
+  <li>❌ A side character subplot is introduced and then abandoned before it can pay off</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'the-super-mario-galaxy-movie-2026-review',
+    title: 'The Super Mario Galaxy Movie Review: A Visual Feast With a Thin Story',
+    movieTitle: 'The Super Mario Galaxy Movie',
+    tmdbId: 1226863,
+    mediaType: 'movie',
+    rating: 7.0,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Illumination\'s second Mario film is gorgeous to look at, bracingly fun in its set pieces, and narratively thin enough to survive on vibes alone. As a Nintendo highlight reel it\'s nearly perfect; as a film, it\'s a supremely well-crafted delivery mechanism for nostalgia.",
+    publishedAt: '2026-08-20',
+    tags: ['Animation', 'Comedy', 'Adventure', 'Family', '2026'],
+    content: `
+<p class="lead"><strong>The Super Mario Galaxy Movie</strong> is exactly what you\'d expect from Illumination\'s second Mario film: gorgeous to look at, bracingly fun in its set pieces, and narratively thin enough to survive on vibes alone. As a Nintendo highlight reel, it\'s nearly perfect. As a film, it\'s a supremely well-crafted delivery mechanism for nostalgia.</p>
+
+<h2>The Animation Is Astonishing</h2>
+<p>Whatever criticisms land at the story\'s feet, Illumination\'s animation team deserves recognition for what they\'ve built. Galaxy takes the Mario gang off-planet, and the studio\'s artists use the premise as license to create some of the most inventive environments in recent animated film: crystalline asteroid fields, a lava planet that borrows from the original Galaxy game\'s level design, a floating castle draped in star-lit purple. The character animation is equally fluid — Bowser Jr., voiced with scene-stealing petulance by Benny Safdie, moves with the specific physicality of a spoiled child who has never been told no, and it\'s a delight to watch.</p>
+<p>Anya Taylor-Joy\'s Princess Peach, marginally expanded from her first-film role, gets a genuine action sequence in the second act that earns real applause. Chris Pratt\'s Mario remains the franchise\'s most undercooked character — warm, game, but given almost nothing to do internally — while Charlie Day\'s Luigi continues to be the emotional core that the movies don\'t quite know what to do with.</p>
+
+<h2>The Galaxy Awaits (The Story, Less So)</h2>
+<p>Director Michael Jelenic\'s script operates at the level of the best Nintendo game narrative: functional, propulsive, built entirely to deliver you to the next spectacular environment. Bowser Jr.\'s plan to free his father by kidnapping Rosalina (Brie Larson, doing her best with an underwritten role) is serviceable, and the film earns credit for giving the villain a motive rooted in something recognizably human — a son who misses his father, who wants to fulfill a shared dream. But the screenplay populates this premise with enough deus ex machina to launch a second franchise. Motivations shift without adequate setup. Subplots multiply and vanish.</p>
+<p>This is not a fatal flaw if you are eight years old or accompanied by someone who is. For those audiences, Galaxy is an unqualified triumph. For adults expecting the narrative coherence that Pixar has spent decades proving is possible in animated family cinema, the thin plotting is a persistent low-grade friction.</p>
+
+<h2>Where It Stumbles</h2>
+<p>Galaxy\'s runtime, at 98 minutes, is ostensibly tighter than the first film — yet it feels more bloated, weighed down by subplots that exist solely to provide franchise callbacks. Jack Black\'s Bowser, so memorably unhinged in the first film, is sidelined for long stretches; when he finally gets his moment, it\'s too brief to satisfy. The third act piles on resolutions that arrive not because characters have earned them but because the clock demands it.</p>
+
+<h2>The Verdict</h2>
+<p>The Super Mario Galaxy Movie is precisely as good as it needs to be and no better. As family entertainment, it\'s a confident, visually stunning crowd-pleaser with enough Nintendo fan service to keep adults smiling. As a sequel that might push animated storytelling forward, it takes no risks. It will delight children, satisfy Nintendo fans, and leave everyone else impressed by the visuals and mildly indifferent to the story. That it made $1 billion anyway says something true about what audiences actually want on a Tuesday afternoon in April.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Animation is a genuine technical achievement — the space environments are breathtaking</li>
+  <li>✅ Benny Safdie\'s Bowser Jr. is an effective and surprisingly sympathetic villain</li>
+  <li>✅ Anya Taylor-Joy gets a real action sequence this time around</li>
+  <li>✅ Pacing is brisk; at 98 minutes, it never entirely outstays its welcome</li>
+  <li>❌ The story is structurally sloppy — too many subplots, too many deus ex machina resolutions</li>
+  <li>❌ Mario himself remains narratively passive; the franchise still hasn\'t found his emotional core</li>
+  <li>❌ Jack Black\'s Bowser is criminally underused in his own film\'s sequel</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
