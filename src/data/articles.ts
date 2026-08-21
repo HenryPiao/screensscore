@@ -928,6 +928,86 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'the-odyssey-2026-review',
+    title: 'The Odyssey Review: Christopher Nolan\'s IMAX Epic Is His Most Ambitious — and Nearly His Best',
+    movieTitle: 'The Odyssey',
+    tmdbId: 1368337,
+    mediaType: 'movie',
+    rating: 8.5,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Christopher Nolan's adaptation of Homer's epic is the rare blockbuster that earns its nearly three-hour runtime — shot entirely on IMAX 70mm, with practical monsters, a career-best Robert Pattinson, and genuine emotional weight. See it on the biggest screen you can find.",
+    publishedAt: '2026-08-21',
+    tags: ['Action', 'Adventure', 'Fantasy', 'Drama', '2026'],
+    content: `
+<p class="lead">When Christopher Nolan announced he was adapting Homer\'s <em>Odyssey</em>, the reasonable fear was that he\'d strip out the monsters — that the Cyclops, the cannibal giants, Circe, the Sirens would be rationalized away in favour of something more restrained and human-centric. <strong>The Odyssey</strong> definitively answers that fear: the monsters are here, and they are magnificent.</p>
+
+<h2>A Hero Rebuilt for Matt Damon</h2>
+<p>Homer\'s Odysseus is a creature of pure guile. Casting Matt Damon — Hollywood\'s most reliable stand-up Joe — looks misguided on paper. Nolan solves the problem by adapting his adaptation: this Odysseus is a guilt-haunted man reckoning with the human cost of the Trojan Horse, a weapon of mass deception he designed. The cunning remains, but so does something closer to Damon\'s actual register — stoic regret, quiet leadership, the weight of a man who knows exactly what he did. It shouldn\'t work as well as it does, but the disconnect between Homer\'s trickster and Nolan\'s war-weary king creates a genuinely compelling character.</p>
+<p>The supporting cast is the film\'s greatest strength. Anne Hathaway\'s Penelope is a revelation — fierce, whispery, exhausted, playing a woman who has managed a house full of violent men for two decades with nothing but patience and wit. Robert Pattinson steals every scene as Antinous, the most monstrous and hilarious of the suitors, having the time of his career. Tom Holland anchors the Ithaca storyline as Telemachus with real emotional complexity: a son who barely knows his father but whose identity is entirely bound to him. Samantha Morton\'s Circe is a blazing two-scene performance that makes you want far more.</p>
+
+<h2>The First Film Shot Entirely on IMAX 70mm</h2>
+<p>Nolan\'s obsession with the largest possible image reaches its logical endpoint here. <em>The Odyssey</em> is the first film shot entirely on IMAX 70mm, and on the right screen it is genuinely awe-inspiring. The Trojan Horse parked lopsided on a beach. The Cyclops\'s Picasso-like face looming from a cave entrance. The practical monster effects — a constructed, full-scale Cyclops; Circe\'s magic accomplished without digital shortcuts — give the creatures real, terrifying weight. This is old-school swords-and-sandals cinema shot with cutting-edge technology, and the combination is intoxicating. Nolan\'s handling of the gods, meanwhile, is one of the film\'s most original creative choices — too good to spoil here, but smart enough to make this adaptation feel genuinely necessary rather than merely impressive.</p>
+
+<h2>Where the Journey Drags</h2>
+<p>Nearly three hours is a long time, and Nolan earns most but not all of it. The middle section of Odysseus\'s voyage is occasionally dutiful rather than thrilling — the sea-monster encounters handled more efficiently than memorably. Charlize Theron\'s Calypso, who should be one of the film\'s most captivating figures, is reduced to a narrative device. Several Hollywood heavyweights appear in roles that feel underpopulated. And a few scenes carry more expository weight than the film\'s otherwise lean visual grammar can comfortably bear. These are the costs of ambition at this scale — not fatal, but present.</p>
+
+<h2>The Verdict</h2>
+<p>Nolan set out to make the biggest story in the Western canon feel as immediate and visceral as a modern blockbuster, and largely succeeded. <em>The Odyssey</em> is his most expansive, most physically adventurous film, and in its final act his most emotionally resonant. It is a film to see in IMAX, on the largest screen available, ideally knowing nothing more than that Homer got there first. One of the defining theatrical events of 2026 — and a film worth the long journey to get there.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ First film shot entirely on IMAX 70mm — the images are genuinely awe-inspiring</li>
+  <li>✅ Pattinson and Hathaway deliver career-best work; the Ithaca scenes rival the voyage</li>
+  <li>✅ Practical monster effects give the mythological creatures real, terrifying weight</li>
+  <li>✅ Nolan\'s handling of the gods is the film\'s most original and intelligent creative choice</li>
+  <li>✅ A final act of genuine emotional power that earns the three-hour investment</li>
+  <li>❌ The middle section of the voyage occasionally drags between its set pieces</li>
+  <li>❌ Charlize Theron\'s Calypso is criminally underserved — a narrative device where a full character was needed</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'reacher-tv-2026-review',
+    title: 'Reacher Season 4 Review: The Biggest Action Show on TV Goes Full Mission: Impossible',
+    movieTitle: 'Reacher',
+    tmdbId: 108978,
+    mediaType: 'tv',
+    rating: 8.0,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Four seasons in, Reacher has no right to keep getting better — yet Season 4 delivers Alan Ritchson\'s most dimensional performance, the franchise\'s best ensemble, and action sequences that rival theatrical releases. A slow first half is the only caveat on an otherwise outstanding run.",
+    publishedAt: '2026-08-21',
+    tags: ['Action', 'Thriller', 'TV Series', 'Drama', '2026'],
+    content: `
+<p class="lead">Four seasons in, <strong>Reacher</strong> has no right to keep getting better. Yet here is Season 4, dropping Alan Ritchson\'s Jack Reacher into a Philadelphia conspiracy involving shadowy government agencies, a mysterious flash drive, and a senator with very dirty hands — and doing so with more physical invention, sharper ensemble work, and a deeper emotional core than anything the show has managed before. Mostly.</p>
+
+<h2>Alan Ritchson, Finally Humbled</h2>
+<p>The defining creative choice of Season 4 is simple: Reacher runs now. After three seasons of being the immovable object in every room, the show drops its hero into what critics have accurately called "Mission: Impossible mode" — chased by the CIA, abducted, waking up in black sites, fighting his way out repeatedly. Ritchson, who has always been the show\'s greatest asset, turns out to have a gear nobody knew he had. The size and strength are still there, the deadpan wit is impeccable as ever, but this season asks him to be vulnerable, to make mistakes, to be wrong. Watching Reacher deal with the specific frustration of being outsmarted is a new pleasure, and Ritchson delivers something genuinely surprising.</p>
+<p>The ensemble is the best the franchise has assembled. Sydelle Noel\'s Detective Tamara Green is a co-lead in everything but title — she gets her own arc, her own stakes, and scenes she outright owns. Christopher Marquette brings relatable humanity as Jacob Merrick, whose personal connection to the case gives the season its emotional centre. Kevin Weisman\'s renegade journalist gets the season\'s funniest lines. These are not sidekicks; they are partners, and the show is richer for it.</p>
+
+<h2>Philadelphia Burning</h2>
+<p>Setting Season 4 in a city rather than a small town changes the texture of the show in productive ways. Philadelphia gives proceedings a grittier, more urban feel, and the conspiracy at its heart — American war crimes in Indonesia, buried through the highest corridors of power — carries genuine political weight. Showrunner Nick Santora\'s adaptation of Lee Child\'s "Gone Tomorrow" escalates intelligently, and the final two episodes hit with a cumulative force that makes the slower early going worthwhile. The action is the most intense the show has produced. More fights were shot in the first three weeks of production than in all previous seasons combined, and it shows — each set piece is constructed as a miniature film, with specific physical problems for Reacher to solve. A corridor fight in Episode 5 and the finale\'s extended hand-to-hand sequence are among the best action sequences TV has produced.</p>
+
+<h2>A Slow Burn That Burns a Little Too Slowly</h2>
+<p>Season 4\'s one meaningful flaw is structural. Its first half keeps its cards aggressively close to its chest — a parade of shadowy agencies, unidentified mercenaries, and unclear motivations that demands patience before delivering context. Previous seasons established their stakes immediately. Season 4 makes you earn them, and while the payoff is substantial, the early episodes feel deliberately opaque in ways that dilute their impact. When the exposition arrives, it arrives all at once, in chunks that interrupt momentum. The season is definitively stronger in its second half — a genuine compliment to how it ends, and a mild criticism of how it begins.</p>
+
+<h2>The Verdict</h2>
+<p>Reacher Season 4 is the show at its most ambitious and most physically spectacular. The action is genuinely cinematic, the ensemble is the franchise\'s best, and Ritchson\'s performance opens new dimensions in a character who seemed fully defined three seasons ago. With Season 5 confirmed and the show still swinging for new creative challenges, Reacher remains the most reliable action show on streaming. You\'re in very large, very safe hands.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Alan Ritchson\'s best performance — vulnerability and humility add new dimensions to Reacher</li>
+  <li>✅ Sydelle Noel\'s Tamara Green is an instant franchise standout, worthy of her own spinoff</li>
+  <li>✅ The action set pieces are the most physically inventive the show has produced</li>
+  <li>✅ A conspiracy with genuine political weight, scaled beyond typical crime-thriller territory</li>
+  <li>✅ Finale delivers one of the best hand-to-hand action sequences on TV in recent memory</li>
+  <li>❌ First half is too opaque — motivations and stakes take far too long to establish</li>
+  <li>❌ Exposition arrives in unwieldy chunks mid-season, disrupting otherwise seamless momentum</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
