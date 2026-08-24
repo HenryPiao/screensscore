@@ -1052,6 +1052,48 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'tony-2026-review',
+    title: 'Tony Review: Dominic Sessa Is Electrifying as a Young Anthony Bourdain Finding His Voice',
+    movieTitle: 'Tony',
+    tmdbId: 1329016,
+    mediaType: 'movie',
+    rating: 8,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "A24\'s origin story for Anthony Bourdain is a vibrant, sweaty, kitchen-sink coming-of-age film anchored by Dominic Sessa\'s best performance to date — a portrait of obsession, appetite, and identity that honors its subject without hagiography. One of the summer\'s most surprising pleasures.",
+    publishedAt: '2026-08-24',
+    tags: ['Drama', 'Comedy', '2026'],
+    content: `
+<p class="lead">Before Anthony Bourdain was the man who went everywhere and ate everything, he was a 19-year-old from New Jersey with a chip on his shoulder and a summer in Provincetown he\'d spend the rest of his life trying to explain. <strong>Tony</strong> is A24\'s account of that summer, and it is, against all biographical-film odds, genuinely alive.</p>
+
+<h2>Dominic Sessa, Fully Arrived</h2>
+<p>Sessa announced himself in Alexander Payne\'s <em>The Holdovers</em> as one of the most technically assured young actors to emerge in years — a performer capable of conveying intelligence, anger, and longing simultaneously without letting any of them tip into self-pity. <em>Tony</em> gives him a harder assignment: playing a real person whom audiences love, at the age before he became that person, in a way that feels both faithful and dramatically independent.</p>
+<p>He nails it. This Tony is recognizably proto-Bourdain — the relentless appetite for sensation, the verbal precision, the contempt for comfort and pretension — but Sessa also finds something rawer underneath. His Tony wants desperately to belong to the world he\'s discovered in the chaos of Provincetown\'s summer restaurant kitchen, and that desperation gives the film its emotional core. In a long kitchen scene near the end of the first act, Tony burns through three mistakes in ten minutes, is screamed at by a sous chef (a volcanic cameo from David Harbour), and then comes back the next morning having memorized the entire prep list — it\'s a six-minute sequence, and it tells you everything about who this man will become.</p>
+<p>The supporting ensemble is excellent. Juliette Binoche, as the French chef who runs the kitchen and recognizes something in Tony she can\'t quite articulate, brings her characteristic mixture of warmth and opacity to a role that could have been a mentor cliché. Finn Wittrock plays Tony\'s best friend and fellow kitchen recruit with loose, funny generosity. And the film earns its R rating not from violence but from the sweaty, sensory overload of its kitchen sequences — a physical environment rendered so accurately that you can practically smell it.</p>
+
+<h2>A Coming-of-Age Film That Trusts Its Subject</h2>
+<p>The screenplay resists the biopic\'s worst impulse: the explanatory scene, the conversation where a character announces the theme. There is no moment where someone tells young Tony he has a "gift for storytelling" or that he will "change how America eats." The film earns its authority by showing rather than telling — by staging the moments that made Bourdain who he was and trusting audiences to do the arithmetic. A late-film conversation between Tony and a line cook about why food matters is the closest the screenplay comes to thesis statement, and even then it arrives through argument rather than declaration.</p>
+<p>The Provincetown setting, captured with sticky summer specificity by cinematographer Edu Grau, does real dramatic work. The town exists in a particular register — bohemian, carnivalesque, charged with the specific intensity of a place where people go to become something — and the film makes excellent use of it as a context for a young man whose own intensity has nowhere to go yet.</p>
+
+<h2>Where It Doesn\'t Fully Commit</h2>
+<p>The film\'s weakest element is its romantic subplot, which arrives and departs without leaving much impression. The love interest is written as an idea — "the girl who taught him to slow down" — rather than a person, and Sessa\'s chemistry with the actress feels appropriately complicated by a role that doesn\'t give her enough to build on. A24 films occasionally suffer from an excess of aesthetic confidence that functions as a substitute for emotional development in supporting parts; <em>Tony</em> is not immune. The film also ends rather than concludes, cutting away at a moment that feels chosen for its symbolic resonance rather than its narrative completeness — which is either a strength or a weakness depending on your tolerance for that particular kind of ambiguity.</p>
+
+<h2>The Verdict</h2>
+<p>Tony is the rare biopic that justifies its existence — a film that uses a real life not as a series of events to dramatize but as a lens through which to examine what drives a person to become who they become. Sessa\'s performance is the best of his young career, and A24\'s willingness to let the film breathe and sweat rather than explain itself makes it a genuine piece of filmmaking. Bourdain, one suspects, would have appreciated the lack of sentimentality. He also would have approved of the food.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Dominic Sessa delivers a career-best performance — physically committed and emotionally precise</li>
+  <li>✅ The kitchen sequences are viscerally authentic — some of the best restaurant filmmaking in years</li>
+  <li>✅ Resists biopic\'s worst impulse: never explains its subject when it can just show him</li>
+  <li>✅ Juliette Binoche and David Harbour bring genuine weight to supporting roles</li>
+  <li>✅ Edu Grau\'s cinematography makes Provincetown feel like the right crucible for this particular transformation</li>
+  <li>❌ Romantic subplot is underdeveloped — the love interest is a concept, not a person</li>
+  <li>❌ The ending favors symbolic resonance over dramatic completeness</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
