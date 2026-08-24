@@ -1008,6 +1008,50 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'insidious-out-of-the-further-2026-review',
+    title: 'Insidious: Out of the Further Review: The Franchise Finds New Blood, Loses Some Nerve',
+    movieTitle: 'Insidious: Out of the Further',
+    tmdbId: 1291595,
+    mediaType: 'movie',
+    rating: 6,
+    verdict: 'Worth Watching',
+    verdictColor: 'yellow',
+    excerpt: "Jacob Chase's sixth Insidious installment opens an intriguing new chapter with a compelling new lead and some genuinely effective scares, but ultimately plays it too safe to justify its own existence. Horror fans who don't demand more than competent franchise maintenance will find enough here; everyone else has seen this before.",
+    publishedAt: '2026-08-24',
+    tags: ['Horror', 'Thriller', '2026'],
+    content: `
+<p class="lead">The <strong>Insidious</strong> franchise has always survived on atmosphere over ambition — a willingness to make familiar haunted-house mechanics feel, in the right moment, genuinely terrifying. <strong>Out of the Further</strong> understands that formula perfectly and executes it competently. The problem is that competence, at the sixth entry, is no longer enough.</p>
+
+<h2>Amelia Eve Carries the Film Further Than It Deserves</h2>
+<p>The boldest decision director Jacob Chase made was ditching the Lambert family and building an entirely new horror architecture around Gemma, a young mother who returns to her childhood home and discovers — in the tradition of every Insidious protagonist — that something deeply wrong lives in The Further directly beneath her family\'s feet. Amelia Eve brings genuine presence and physicality to the role, and her performance is the primary reason the film works as well as it does.</p>
+<p>Where previous franchise entries leaned on Patrick Wilson and Rose Byrne\'s wry domesticity, Eve goes darker and more inward. Gemma is haunted before the haunting begins — struggling with her identity as a mother, with buried childhood trauma, with a house full of memories she can\'t quite organize. Eve makes these layers visible without over-explaining them, and when the film gives her space to work, it justifies its existence. Her rapport with Maisie Richardson-Sellers, who plays a skeptical sister-figure drawn into the chaos, generates the film\'s most effective human tension.</p>
+<p>Lin Shaye\'s Elise Rainier appears in a role that can only be described as ceremonial at this point, though Shaye brings dignity to every scene she\'s given. Her presence functions largely as franchise connective tissue — a reassurance to longtime fans that the mythology is intact — rather than as a genuine character contribution. Brandon Perea, as a tech-savvy paranormal investigator, provides the film\'s comic relief with more charm than the underdeveloped role strictly earns.</p>
+
+<h2>The Further, Reconsidered</h2>
+<p>Chase shows real imagination in his redesign of The Further\'s visual landscape. The spectral realm here feels genuinely new — less Grimm fairy tale, more industrial nightmare, with drowned spaces and architectural grotesquerie that distinguishes this entry from its predecessors. The film\'s standout set piece involves Gemma navigating an inverted version of her childhood home while something that wears a familiar face tracks her through rooms that shift and collapse. Chase shoots it with spatial disorientation and genuine dread, and the sound design throughout — the franchise\'s oldest strength — is as unsettling as anything in the series.</p>
+<p>The new ability that the film grants Gemma — an unusual power to bring entities from The Further into the living world — sets up mythology that could sustain future entries more interestingly than what\'s done with it here. Chase teases the implications without fully exploring them, which feels like a creative decision made by a committee that wanted to leave options open.</p>
+
+<h2>Where Franchise Obligations Override Fear</h2>
+<p>Out of the Further\'s fatal flaw is its third act, which abandons the careful atmospheric dread of its first hour in favor of franchise mechanics — a villain reveal, a mythology lecture, a climax that exists primarily to set up the next installment. The film earns a C+ CinemaScore because it is exactly a C+ film: efficiently constructed, momentarily effective, structurally hollow. The Insidious franchise has always been better at beginning its stories than ending them, and this entry perpetuates that trend with dispiriting reliability.</p>
+<p>At 106 minutes, it also runs about fifteen minutes longer than its scares can support. The middle section staggers under repetitive false endings and jump scares that announce themselves so clearly in advance that they\'ve stopped functioning as surprise. When Chase trusts atmosphere — which he clearly can — the film lives. When he reverts to the franchise\'s most mechanical tendencies, it flatlines.</p>
+
+<h2>The Verdict</h2>
+<p>Insidious: Out of the Further is a functional horror film that earns its opening weekend and then stops asking anything more of itself. Amelia Eve is a genuine discovery, Chase has a real eye for spectral imagery, and the film delivers enough sustained unease to satisfy genre audiences. But the franchise has now made six of these, and the law of diminishing returns is running out of patience. See it for Eve. Hope the seventh one learns from its better half.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Amelia Eve is a compelling new lead with genuine screen presence</li>
+  <li>✅ The Further\'s visual redesign is imaginative and genuinely unsettling</li>
+  <li>✅ Chase demonstrates real atmospheric control in the film\'s better passages</li>
+  <li>✅ Sound design remains the franchise\'s most consistently effective weapon</li>
+  <li>❌ Third act collapses into franchise mechanics, abandoning the dread it spent an hour building</li>
+  <li>❌ Jump scares are too telegraphed — they announce themselves before they land</li>
+  <li>❌ Lin Shaye\'s Elise is reduced to connective tissue rather than a real character</li>
+  <li>❌ Runs too long; the middle act staggers before the climax arrives</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
