@@ -1094,6 +1094,89 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'lanterns-tv-2026-review',
+    title: 'Lanterns Review: Kyle Chandler and Aaron Pierre Are DC\'s Best New Heroes in Years',
+    movieTitle: 'Lanterns',
+    tmdbId: 95350,
+    mediaType: 'tv',
+    rating: 7.8,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "James Gunn's DCU makes its TV debut with a confident, atmospheric crime thriller that happens to feature two Green Lanterns — and the restraint is exactly what the franchise needed. Chandler and Pierre have electric chemistry, and the result is the most promising DCU premiere in years.",
+    publishedAt: '2026-08-25',
+    tags: ['DC', 'Sci-Fi', 'Mystery', 'HBO', '2026'],
+    content: `
+<p class="lead">James Gunn's DCU has been building quietly — a movie here, a streaming series there — and with <strong>Lanterns</strong>, it makes its most confident statement yet. This is not a superhero show that forgets to be a drama. It's a slow-burn crime mystery set in the American heartland, featuring two intergalactic cops who happen to carry power rings, and it's exactly the kind of character-first storytelling the franchise has been promising for years.</p>
+
+<h2>The Pairing That Makes Everything Work</h2>
+<p>Kyle Chandler has spent his career playing men whose quiet authority makes you trust them before they've said a word. As Hal Jordan, the veteran Green Lantern who's seen too much and stopped wondering whether humanity is worth saving, Chandler does what he always does: makes stillness into drama. There's a sequence in the third episode where Jordan sits in a Nebraska diner for twelve minutes, watching a crime scene process, saying almost nothing — and it's the most compelling twelve minutes in any DCU property this year.</p>
+<p>Aaron Pierre, as John Stewart — the ex-Marine turned Lantern rookie drafted into investigating a murder that turns out to be something much worse — is his perfect counterweight. Where Chandler projects worn certainty, Pierre brings volatility and hunger. The partnership is a classic dynamic (seasoned cynic and idealistic newcomer) but the writing is smart enough to complicate it: Stewart has a moral clarity that Jordan has lost, and Jordan has a cosmic perspective that Stewart needs to acquire. Watching them negotiate the gap is the series' primary pleasure.</p>
+
+<h2>A Superhero Show That Remembers It's on HBO</h2>
+<p>The showrunner, Chris Mundy (whose <em>Ozark</em> work made him a natural fit for this material), commits to the mystery structure above all else. The murder that kicks off the season — a high school girl in a small Nebraska town, a crime scene with impossible characteristics — unfolds with genuine patience. Episodes one through four build atmosphere methodically; the Green Lantern mythology seeps in at the edges rather than flooding the frame.</p>
+<p>The visual design deserves particular mention. The contrast between the flat Nebraska landscape — its terrible openness, its sense of something malevolent just underneath the surface — and the cosmic imagery of the Lantern constructs creates a tonal friction that the show exploits intelligently. This feels less like <em>Arrow</em> and more like what would happen if someone asked the creators of <em>True Detective</em> Season 1 to make a Green Lantern story. The influence is unmistakable and welcome.</p>
+
+<h2>The DC Mythology, Handled Carefully</h2>
+<p>For viewers who know nothing about Green Lanterns, the show earns its exposition naturally. The mythology — the Guardians of the Universe, the power rings fueled by willpower, the sector assignments — is delivered through dramatic necessity rather than info-dumps. The show knows that most of its HBO audience cares more about a Nebraska murder mystery than about the comic book cosmology, and it treats the superhero elements as context for the human story rather than the point of it.</p>
+<p>The first few episodes suggest a series fully in control of its ambitions. Whether the back half of the season can sustain the tension is the open question — DCU streaming shows have a history of losing momentum in their final acts — but the foundation here is better than anything since <em>Peacemaker</em>.</p>
+
+<h2>The Verdict</h2>
+<p>Lanterns is the most promising DCU premiere in years — a show that treats its superhero premise as an opportunity for character drama rather than spectacle delivery. Chandler and Pierre are exceptional, Mundy's direction trusts its audience, and the HBO format gives the material room to breathe. The DCU's television future looks considerably brighter than it did before August 16.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Kyle Chandler and Aaron Pierre have immediate, electric chemistry</li>
+  <li>✅ Methodical mystery structure that respects the audience's patience</li>
+  <li>✅ Visual contrast between Nebraska dread and cosmic imagery is genuinely distinctive</li>
+  <li>✅ Best integration of DC mythology into grounded drama since the franchise's early days</li>
+  <li>❌ Deliberately paced — viewers wanting action-heavy superheroics will be frustrated</li>
+  <li>❌ DCU streaming shows have historically struggled in their back halves; final verdict pending</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'mother-mary-2026-review',
+    title: 'Mother Mary Review: Anne Hathaway Is Hypnotic in A24\'s Flawed but Unforgettable Pop Star Portrait',
+    movieTitle: 'Mother Mary',
+    tmdbId: 1102883,
+    mediaType: 'movie',
+    rating: 6.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'yellow',
+    excerpt: "David Lowery's ambitious film about a damaged pop star and her estranged costume designer is frustratingly uneven — but Anne Hathaway gives a performance so raw and specific that the movie almost doesn't need a story. Almost.",
+    publishedAt: '2026-08-25',
+    tags: ['Drama', 'Thriller', 'Music', 'A24', '2026'],
+    content: `
+<p class="lead">There is a version of <strong>Mother Mary</strong> that is a masterpiece. You can see it in flashes — in Anne Hathaway's jaw-dropping performance, in David Lowery's arresting visual compositions, in the sequences where the film's conception of pop stardom as spiritual damage actually coheres into something true. Then the screenplay reasserts itself, and you're back to watching beautiful people deliver pretentious dialogue in gorgeous rooms. The frustration is immense precisely because the potential is so real.</p>
+
+<h2>Hathaway, Coel, and the Film That Contains Them</h2>
+<p>Anne Hathaway plays Mother Mary, an iconic pop star who has been in hiding since a catastrophic on-stage accident and is now preparing a comeback performance in four days. To do that, she needs a dress. To get the dress, she calls Sam Anselm (Michaela Coel), her former best friend and costume designer, whom she hasn't spoken to in a decade. Sam agrees, reluctantly. The rest of the film is a two-hander: two women, four days, a decade of unresolved history, and a supernatural element the film refuses to define.</p>
+<p>Hathaway does something here she has never quite done on screen before: she plays emptiness as performance. Mother Mary is a woman who has been performing "Mother Mary" for so long she's lost the ability to locate herself inside the character — and Hathaway renders this not through breakdown but through a specific quality of disconnection. Her eyes are present and absent simultaneously. She's warm and terrifying in the same moment. It's technically astonishing work, and it carries the film through stretches where the screenplay fails her.</p>
+<p>Michaela Coel is her match in every scene they share. Sam is angry, guarded, and carrying her own buried grief, and Coel builds her from a particular physical intelligence — defensive posture, controlled silences, the way her eyes do the work her words refuse to do. The chemistry between the two actresses is the movie's greatest achievement: they communicate years of intimacy and damage without a single explanatory conversation.</p>
+
+<h2>Where Lowery's Vision Exceeds His Script</h2>
+<p>David Lowery is a filmmaker whose visual imagination often runs ahead of his storytelling instincts. <em>Mother Mary</em> is the most extreme case of this tendency. The film is visually extraordinary — Lowery and his cinematographer compose images that feel genuinely haunted, and the performance sequences are among the most beautiful things Lowery has put on film. The concert climax is spectacular filmmaking by any standard.</p>
+<p>But the conversations between Mary and Sam are overwritten to the point of parody. Every exchange carries the weight of being Significant, and the film's spiritual scaffolding — trauma and fame, performance as suppression — is stated rather than dramatized. When characters deliver lines that sound like they belong in a graduate seminar on celebrity culture, the film's emotional credibility suffers. Lowery trusts his actresses enough to film them in long takes; he does not trust his audience enough to let the dialogue be simple.</p>
+
+<h2>Better on HBO Max Than in Theaters</h2>
+<p>Mother Mary received mixed reviews at its April theatrical release and has found a second life on streaming, where its relatively short runtime (1h 52m) and intense central performances make it better suited to home viewing. This is a film about privacy and exposure, about what it costs to be seen and what it costs to hide — and those themes resonate differently when you're watching them alone. The A24 aesthetic (precisely calibrated mood, gorgeous surfaces, emotional distance) is more forgiving on a television than it is on a cinema screen where the pretension is harder to ignore.</p>
+
+<h2>The Verdict</h2>
+<p>Mother Mary is an aggravating near-miss from a filmmaker whose ambition consistently outruns his screenwriting. But Hathaway and Coel are so good — so specifically, authentically present — that the film is worth watching despite itself. See it for the performances; forgive it for the pretension; be dazzled by at least three or four images you won't forget for a long time.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Anne Hathaway gives one of her greatest performances — raw, specific, technically breathtaking</li>
+  <li>✅ Michaela Coel matches her scene for scene with fierce, quiet intelligence</li>
+  <li>✅ Lowery's visual compositions are extraordinary — several images that will stay with you</li>
+  <li>✅ The concert sequences are genuinely spectacular filmmaking</li>
+  <li>❌ Dialogue is overwritten and portentous — the film states its themes rather than dramatizing them</li>
+  <li>❌ The supernatural element is never adequately defined or integrated into the story</li>
+  <li>❌ Two extraordinary performances trapped in a screenplay that underestimates its audience</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
