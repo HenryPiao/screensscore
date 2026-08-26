@@ -1219,6 +1219,49 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'et-the-extra-terrestrial-1982-review',
+    title: 'E.T. the Extra-Terrestrial Review: Spielberg\'s 1982 Masterpiece Is as Devastating as Ever',
+    movieTitle: 'E.T. the Extra-Terrestrial',
+    tmdbId: 601,
+    mediaType: 'movie',
+    rating: 9.5,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Steven Spielberg\'s 1982 sci-fi classic is back at the top of streaming charts, and 44 years on it remains one of the most emotionally precise films ever made — a story about childhood, friendship, and loss that operates at the exact frequency of things we can\'t quite explain but can\'t forget. If you haven\'t shown it to your kids yet, tonight is the night.",
+    publishedAt: '2026-08-26',
+    tags: ['Sci-Fi', 'Fantasy', 'Drama', 'Family', '1982'],
+    content: `
+<p class="lead">There is a shot near the end of <strong>E.T. the Extra-Terrestrial</strong> — Elliott and E.T., on a bicycle, crossing the face of the moon — that has lodged itself so permanently in global visual culture that it no longer works on the level of surprise. It works on something deeper: recognition, and the grief that comes with remembering why you recognized it. Steven Spielberg\'s 1982 film is now back at the top of Apple TV\'s streaming charts, 44 years after it redefined what a mainstream movie could make you feel.</p>
+
+<h2>Elliott and E.T.: The Central Relationship of Spielberg\'s Career</h2>
+<p>Henry Thomas was ten years old when he played Elliott, a lonely boy in a California suburb who finds an alien botanist stranded in his backyard and decides to hide him in his closet. Thomas gives one of the great child performances in cinema history — not because it\'s technically virtuosic, but because it\'s completely real. Elliott\'s loneliness (his father has left the family; his older brother barely notices him; his little sister Gertie treats him as furniture) is communicated entirely through body language and the particular quality of silence a child carries when he has no one to talk to. When E.T. arrives, the film becomes, simply, the story of what it means to find your person — or your alien.</p>
+<p>Spielberg shoots the alien almost exclusively from child height, and the decision is both practical and profound. We see E.T. the way Elliott sees him: strange and small and somehow entirely trustworthy. The physical empathy connection the film builds between them — what Elliott feels, E.T. feels, and vice versa — is handled with a lightness that disguises how much emotional weight it\'s carrying. By the time the film reaches its crisis, the bond between a ten-year-old boy and a creature from another world feels as irreducible as any relationship you have ever watched on screen.</p>
+<p>Drew Barrymore\'s Gertie and Robert MacNaughton\'s Michael round out the sibling group with extraordinary naturalness — these feel like actual children who have lived together their whole lives, bickering and defending and occasionally actually hearing each other. Dee Wallace, as their mother, anchors the adult end of the film with a warmth and exhaustion that makes her obliviousness to what\'s happening in her house feel entirely believable.</p>
+
+<h2>Spielberg\'s Direction and John Williams\' Score</h2>
+<p>There are filmmakers with more rigorous intellectual ambitions than Spielberg, but nobody has ever been better at staging emotion — at choreographing the physical world so that feeling arrives in the body rather than the mind. The sequence in which E.T.\'s health deteriorates, shot and edited as a sustained descent, builds such unbearable tension that it is almost unwatchable. And the bicycle chase that follows — accompanied by one of John Williams\' greatest themes, the score\\'s ascending strings carrying the scene somewhere beyond mere excitement — remains a piece of cinema that seems to bypass critical faculties entirely and operate directly on the nervous system.</p>
+<p>Williams\' complete score is a career peak. The main theme is deservedly iconic, but the quieter cues — the lullaby-like motifs that accompany E.T.\'s explorations of the house, the ominous processional of government agents in their Hazmat suits — demonstrate a sensitivity to storytelling through music that has rarely been matched. The final eleven minutes of the film are essentially scored continuously, and Williams earns every minute of it.</p>
+
+<h2>What Age Does to the Film</h2>
+<p>E.T. changes when you watch it as a parent rather than a child. The film\'s emotional center shifts from the alien\'s perspective to Elliott\'s mother\'s: what does it cost to raise children whose interior lives you cannot fully enter? The government agents, whom children experience as villains, are revealed on rewatch as something more complicated — people doing their jobs, frightened and cautious, mostly trying not to make things worse. The film is large enough to contain both readings simultaneously, which is why it survives every generation.</p>
+<p>The one aspect that has genuinely dated is the 2002 digital re-release version, in which Steven Spielberg replaced the government agents\' guns with walkie-talkies. The original theatrical cut — restored and available on Apple TV — is the version to watch. The guns are dramatically correct. The revision was an understandable but regrettable impulse.</p>
+
+<h2>The Verdict</h2>
+<p>E.T. the Extra-Terrestrial is not merely a great film; it is one of the essential communal experiences cinema has produced. Forty-four years on, it retains everything — the humor, the tenderness, the physical comedy of E.T. stumbling around the house, and the particular devastation of its conclusion. It is streaming now. Watch it with someone you love.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Henry Thomas gives one of the most nakedly real child performances in cinema</li>
+  <li>✅ Spielberg\'s direction operates directly on the emotional nervous system — purely cinematic</li>
+  <li>✅ John Williams\' score is among his greatest achievements in a career of unparalleled achievement</li>
+  <li>✅ The film deepens rather than diminishes on rewatch — it becomes a different film as you age</li>
+  <li>✅ The bicycle-across-the-moon sequence remains one of cinema\'s great iconic images for good reason</li>
+  <li>❌ Watch the original theatrical cut — the 2002 digital revision replacing guns with walkie-talkies is a well-meaning mistake</li>
+  <li>❌ The government-agent procedural subplot slows the second act slightly before the film\'s extraordinary finish</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
