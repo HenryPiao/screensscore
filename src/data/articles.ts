@@ -1177,6 +1177,48 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'the-prestige-2006-review',
+    title: 'The Prestige Review: Christopher Nolan\'s Most Devious Film Rewards Every Rewatch',
+    movieTitle: 'The Prestige',
+    tmdbId: 1124,
+    mediaType: 'movie',
+    rating: 9,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Twenty years on, Christopher Nolan\'s dueling-magicians thriller remains his most purely pleasurable film — a puzzle box built with ruthless precision that keeps its deepest card up its sleeve until the final frame. With a 20th anniversary IMAX re-release announced for 2027, now is the perfect time to (re)discover why.",
+    publishedAt: '2026-08-26',
+    tags: ['Mystery', 'Drama', 'Sci-Fi', 'Thriller', '2006'],
+    content: `
+<p class="lead">The first rule of <strong>The Prestige</strong> is that it tells you exactly how it works in the opening minutes, and you still don\'t see it coming. Twenty years after its release, Christopher Nolan\'s dueling-magicians thriller remains the most elegant magic trick he has ever pulled — a film about obsession, sacrifice, and the terrible cost of perfection that operates simultaneously as pure entertainment and structural puzzle. As the 20th anniversary IMAX re-release approaches, there has never been a better reason to go back in.</p>
+
+<h2>Jackman and Bale at Their Absolute Best</h2>
+<p>Hugh Jackman\'s Robert Angier and Christian Bale\'s Alfred Borden are two magicians in 1890s London whose careers begin in partnership and end in mutual destruction. They are mirror images who become warped reflections: Angier is the showman, all presentation and charisma, willing to sacrifice anything for the audience\'s adoration. Borden is the artist, technically obsessive, socially incompetent, withholding the secret of his greatest trick even from those who love him. The rivalry between them is personal, professional, and finally existential.</p>
+<p>Jackman gives the definitive performance of his pre-Logan career. There\'s something tragic in Angier that Jackman plays at low boil — a man who understands his own inadequacy and whose response to it is to push further and further into territory he cannot afford to enter. Bale, for his part, inhabits Borden with a contained ferocity that only reveals its full meaning on a second viewing. The dual structure of the film\'s central mystery is mirrored in the duality of both performances; neither actor is playing the role you initially think he is playing.</p>
+<p>Michael Caine, as engineer Cutter, serves as the film\'s moral compass and Greek chorus, and he is as reliable and warm as ever. Scarlett Johansson\'s Olivia is the one underwritten role — she functions more as a plot mechanism than a character — but David Bowie\'s Nikola Tesla, appearing in the film\'s most surreally inventive section, remains one of cinema\'s great unlikely casting choices.</p>
+
+<h2>Nolan\'s Architecture, Wally Pfister\'s Light</h2>
+<p>Working from Christopher Priest\'s 1995 novel, Nolan constructs the film as a series of nested journals — characters reading each other\'s diaries while we read the film — that creates a temporal architecture as vertiginous as anything in <em>Memento</em>. The structure isn\'t a gimmick; it mirrors the film\'s central argument about the nature of performance and the lies we tell in service of illusion. When the film\'s two great reveals land, they land with the force of inevitability: you realize, retrospectively, that every scene has been pointing directly at them.</p>
+<p>Wally Pfister\'s cinematography is extraordinary — a London perpetually cold and gaslit, where Victorian science exists in the shadow of something stranger. The Colorado sequences, where Tesla\'s experiments produce genuinely uncanny imagery, constitute some of the most visually distinctive work in Nolan\'s filmography. David Julyan\'s score, his last collaboration with Nolan before Hans Zimmer, is darker and more unsettling than almost anything Zimmer has since provided — a good match for a film whose pleasures are finally sinister.</p>
+
+<h2>The One Caveat</h2>
+<p>The film\'s emotional temperature runs cool. Nolan has always been a cerebral filmmaker, and <em>The Prestige</em> is his most purely intellectual work — a film you admire more than you feel. The women in the story (Johansson\'s Olivia, Rebecca Hall\'s Sarah) are defined almost entirely by their relationships to the male protagonists, and the film\'s final emotional beat, though structurally impeccable, arrives with somewhat less devastation than it might. The puzzle is so perfectly constructed that it occasionally crowds out the people inside it.</p>
+
+<h2>The Verdict</h2>
+<p>The Prestige is the film that best proves Nolan\'s thesis that cinema is magic — that the audience\'s willing complicity in being deceived is the art form\'s most fundamental condition. At 20 years old it is as tightly wound, as intricately constructed, and as deeply rewatchable as anything he has made. See it in IMAX when the anniversary release arrives. See it again before then. Pay attention to everything.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ One of cinema\'s most perfectly constructed puzzle-box narratives</li>
+  <li>✅ Jackman and Bale both give performances that reveal new layers on rewatch</li>
+  <li>✅ David Bowie as Nikola Tesla is an inspired casting decision that pays off completely</li>
+  <li>✅ Wally Pfister\'s cinematography gives Victorian London a genuinely uncanny atmosphere</li>
+  <li>✅ The dual reveals land with the force of inevitability — thrilling on first viewing, haunting on second</li>
+  <li>❌ Runs emotionally cool — a film you admire more than love</li>
+  <li>❌ Female characters are underwritten and function primarily as plot mechanics</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
