@@ -1262,6 +1262,49 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'mortal-kombat-ii-2026-review',
+    title: 'Mortal Kombat II Review: Karl Urban\'s Johnny Cage Is the Shot of Adrenaline the Franchise Needed',
+    movieTitle: 'Mortal Kombat II',
+    tmdbId: 931285,
+    mediaType: 'movie',
+    rating: 7,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "The Mortal Kombat sequel does what all good franchise sequels do: it fixes the original\'s central problem. Karl Urban\'s Johnny Cage is outrageously entertaining, the action is bigger and bloodier, and the film actually has a plot this time. It\'s not high cinema, but it\'s a genuinely fun R-rated action spectacle that earns its place in the fighting game adaptation canon.",
+    publishedAt: '2026-08-27',
+    tags: ['Action', 'Fantasy', '2026'],
+    content: `
+<p class="lead">The first <strong>Mortal Kombat</strong> reboot in 2021 had a fundamental casting problem: it populated a universe famous for outsize personalities with a cast of relative unknowns and asked them to carry a film built on mythology they hadn\'t earned. <strong>Mortal Kombat II</strong> has Karl Urban as Johnny Cage, and the difference is the entire movie.</p>
+
+<h2>Urban\'s Cage Is the Film\'s Center of Gravity</h2>
+<p>Johnny Cage is one of video game history\'s great comic creations — a preening action star with the fighting skills to back up his ego — and Urban plays him with a gleeful, self-aware theatricality that transforms every scene he enters. The joke of Cage is that his vanity is completely genuine: he doesn\'t think he\'s the best fighter because he\'s delusional, he thinks it because he is. Urban finds the line between insufferable and irresistible and walks it for two hours without once losing his balance.</p>
+<p>The addition of Cage also solves the original film\'s tonal problem. 2021\'s Mortal Kombat was uncertain whether it was a mythological epic or a bloody action comedy; Mortal Kombat II commits fully to the latter, and the film is better for it. Director Simon McQuoid, returning from the first film, handles the balance between genuine stakes and winking self-awareness with more confidence this time. When Cage delivers a one-liner immediately after disemboweling an opponent, it lands because the film has established that this is the register it operates in.</p>
+<p>The returning cast — Lewis Tan\'s Cole Young, Jessica McNamee\'s Sonya Blade, Mehcad Brooks\'s Jax — are all given more to do and do it more effectively. Tan in particular benefits from having a fully developed antagonist to play against; the Cole-vs-Shao-Kahn confrontation in the third act is the best action sequence McQuoid has directed.</p>
+
+<h2>The Tournament, Finally Done Right</h2>
+<p>The original film\'s most baffling decision was to stage most of the eponymous tournament off-screen. Mortal Kombat II corrects this immediately, building the film around a properly staged series of one-on-one combats that give the video game\'s roster of characters actual screen time and actual fights. Each bout is choreographed to highlight a different fighting style, and McQuoid\'s camera is finally confident enough to hold on the action rather than cutting away at the moment of impact.</p>
+<p>The gore, R-rated and uncompromising, has improved significantly. The original\'s digital blood looked like a post-production afterthought; here, the practical and digital effects are integrated well enough to give the violence real weight. Shao Kahn as the primary antagonist is a genuine improvement over the first film\'s Shang Tsung — bigger, more physically threatening, and voiced with ground-shaking menace.</p>
+
+<h2>What Still Holds It Back</h2>
+<p>Mortal Kombat II is a better film than its predecessor in almost every measurable way, but "better" doesn\'t yet mean "great." The mythology continues to be delivered in exposition dumps that bog down the second act. The film introduces Kitana, Mileena, and Rain with evident franchise-building intent, but rushes their introductions in ways that prevent them from becoming real characters. And the screenplay\'s insistence on giving every character a separate emotional arc — Cole\'s identity crisis, Sonya\'s leadership doubts, Jax\'s trauma — stretches a 116-minute film past its structural capacity.</p>
+<p>Still: at 64% on Rotten Tomatoes but 86% audience approval, Mortal Kombat II is exactly the film its fans wanted. It is delivering on the promise of the franchise — brutal, kinetic, intermittently hilarious, and anchored by a star performance that the video game always deserved.</p>
+
+<h2>The Verdict</h2>
+<p>Mortal Kombat II is the franchise correcting course at speed. Karl Urban\'s Johnny Cage is one of 2026\'s most purely enjoyable genre performances, the action is considerably improved, and the film has finally figured out what kind of movie it wants to be. It\'s not flawless — the mythology still clogs the narrative machinery — but it\'s the first Mortal Kombat movie you can recommend to non-fans without significant caveats. Finish him.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Karl Urban\'s Johnny Cage is an inspired casting choice executed with total commitment</li>
+  <li>✅ The tournament is finally staged on-screen — fights are inventive and properly visceral</li>
+  <li>✅ Tonal confidence the first film lacked — commits fully to action-comedy and benefits from it</li>
+  <li>✅ Shao Kahn is a genuine threat; a significant villain upgrade from the original</li>
+  <li>❌ Mythology exposition continues to clog the second act</li>
+  <li>❌ New characters (Kitana, Mileena, Rain) introduced too briefly to register as more than franchise placeholders</li>
+  <li>❌ Too many separate character arcs for the runtime to handle</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
