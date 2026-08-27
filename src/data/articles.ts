@@ -1305,6 +1305,49 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'five-nights-at-freddys-2-2025-review',
+    title: 'Five Nights at Freddy\'s 2 Review: The Animatronics Return, and So Does the Franchise\'s Identity Crisis',
+    movieTitle: "Five Nights at Freddy's 2",
+    tmdbId: 1228246,
+    mediaType: 'movie',
+    rating: 5.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'yellow',
+    excerpt: "Emma Tammi\'s sequel deepens the mythology and delivers some genuinely disturbing imagery, but a 19% Rotten Tomatoes score tells its own story — this is a film that knows its audience and almost nobody else. Fans of the games will find plenty to dissect; everyone else will find the animatronics unpleasant and the plotting opaque.",
+    publishedAt: '2026-08-27',
+    tags: ['Horror', 'Thriller', '2025'],
+    content: `
+<p class="lead">The first <strong>Five Nights at Freddy\'s</strong> had a problem: it was simultaneously too frightening for young children, too simple for adult horror fans, and too faithful to the games\' lore for anyone unfamiliar with it. The sequel solves none of these problems. What it does instead is lean harder into all of them, with mixed but occasionally impressive results.</p>
+
+<h2>Abby Steps Forward, Mike Steps Back</h2>
+<p>The structural gambit of Five Nights at Freddy\'s 2 is to shift the focus from Mike Schmidt (Josh Hutcherson, now essentially in a supporting role) to his younger sister Abby (Piper Rubio), whose supernatural bond with the Fazbear animatronics drove the original\'s emotional core. This is the right instinct. Rubio is the more interesting performer in this material, and the film is measurably better in the sequences that belong to her.</p>
+<p>The film opens a year after the events of the first movie, with the events of Freddy Fazbear\'s Pizza reduced by the town to a "campy local legend" — a detail that functions as both plot setup and franchise commentary. The occasion is Fazfest, a local celebration that brings Abby back into proximity with Freddy, Bonnie, Chica, and Foxy, setting off a third act that finally delivers the mythology revelations Matthew Lillard\'s William Afton has been teasing since the first film.</p>
+<p>Lillard is the film\'s greatest asset and its most underused resource. His Afton remains one of horror\'s more genuinely menacing recent creations — a man whose gentleness is more frightening than any monster\'s snarl — and the moments where Tammi lets him simply exist in a scene are the film\'s most effective. The problem is that he disappears for long stretches while the film works through mythology mechanics that require too much game knowledge to land for general audiences.</p>
+
+<h2>When the Horror Works</h2>
+<p>Director Emma Tammi\'s best decision is to expand the visual palette beyond the security office. Fazfest gives her a carnivalesque outdoor setting that she uses well, staging several sequences with genuine spatial intelligence. A night-time pursuit through decommissioned animatronic storage — the machines half-lit, half-animate, surrounded by the uncanny valley detritus of fifty years of Freddy Fazbear history — is the film\'s standout sequence and demonstrates a real horror filmmaker\'s eye for environmental dread.</p>
+<p>The animatronics themselves continue to be the franchise\'s most effective element. Practical suits, enhanced with selective digital augmentation, give the characters a physical presence that no fully CGI creation could replicate. They are genuinely unsettling in the way only things that are almost-but-not-quite human can be, and Tammi understands that restraint is more frightening than revelation — she withholds, delays, and misdirects with more confidence than in the original.</p>
+
+<h2>What the 19% Tells You</h2>
+<p>The critical response to Five Nights at Freddy\'s 2 is a straightforward expression of the franchise\'s fundamental limitation: it was designed for an audience that already knows everything about it, and it makes almost no effort to accommodate viewers who don\'t. The mythology revelations in the third act — which fans have reportedly found satisfying and surprising — land as pure noise if you haven\'t spent time with the games, the novels, or the original film\'s extensive lore discussions. The film assumes knowledge rather than building it, and the result is dramatically inert for anyone arriving without context.</p>
+<p>The 82% audience score tells the other half: for FNAF fans, this is exactly what they wanted. The franchise has always been a delivery mechanism for mythology, and Tammi delivers the mythology efficiently and with reasonable craft. That audience is real, substantial, and enthusiastic — they made $239 million happen — and they\'re getting what they paid for.</p>
+
+<h2>The Verdict</h2>
+<p>Five Nights at Freddy\'s 2 is a competent, occasionally effective horror sequel that serves its existing fanbase well and everyone else not particularly well. If you loved the first film or the games, you\'ll find this a worthwhile next chapter. If you\'re new to the franchise and drawn in by the Netflix arrival, expect to spend the first hour slightly confused and the last twenty minutes genuinely unsettled. Tammi is a better director than these films have deserved so far; here\'s hoping the third entry gives her a screenplay that fully meets her capabilities.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Piper Rubio\'s Abby is a more compelling protagonist than the original\'s adult focus allowed</li>
+  <li>✅ The animatronics remain the franchise\'s most effective horror element — practical and genuinely unsettling</li>
+  <li>✅ Tammi\'s direction shows real growth — the Fazfest sequences demonstrate spatial intelligence</li>
+  <li>✅ Matthew Lillard\'s Afton remains one of genre horror\'s better recent villain creations</li>
+  <li>❌ Mythology delivery is completely opaque for non-fans — the film makes no effort to onboard newcomers</li>
+  <li>❌ Josh Hutcherson\'s Mike is effectively demoted to a supporting role the film doesn\'t bother to justify</li>
+  <li>❌ Third act pacing collapses under the weight of lore it\'s been withholding all film</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
