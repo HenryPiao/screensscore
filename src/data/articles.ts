@@ -1388,6 +1388,47 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'facing-el-chapo-2026-review',
+    title: 'Facing El Chapo Review: Netflix Flips the Narco Thriller Inside Out',
+    movieTitle: 'Facing El Chapo',
+    tmdbId: 1621552,
+    mediaType: 'movie',
+    rating: 7.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Chava Cartas\'s Mexican Netflix thriller makes the boldest possible choice about the world\'s most wanted man: it keeps him in the passenger seat. The result is a taut, surprisingly intimate procedural that works because of what it refuses to glamorize.",
+    publishedAt: '2026-08-28',
+    tags: ['Crime', 'Thriller', 'Drama', 'Netflix', '2026'],
+    content: `
+<p class="lead">Every narco movie ever made has given you El Chapo\'s perspective — the mythology, the tunnels, the power, the legend. <strong>Facing El Chapo</strong> (<em>La Captura</em>) gives you two underpaid federal officers on the night shift in Los Mochis, Sinaloa, and the terrifying minutes after they pull over a stolen car and realize who\'s in the back seat. It is the correct choice, and it makes for one of Netflix\'s better crime films of 2026.</p>
+
+<h2>The Inversion That Makes It Work</h2>
+<p>Director Chava Cartas — who previously made the contained Netflix actioner <em>Contraataque</em> — applies the same chamber-drama discipline here. The film\'s structural spine is simple and devastating: Arturo Carmona (Alfonso Herrera) and Héctor Rosales (Noé Hernández) are two officers who barely know each other, assigned to the same patrol car, who find themselves holding Joaquín "El Chapo" Guzmán at the worst possible moment. Every subsequent scene asks a single question: will they do their jobs?</p>
+<p>This inversion — the fugitive as passenger, the cops as protagonists — strips the narco genre of its usual seductions. El Chapo, played with controlled menace by Héctor Kotsifakis, is not given a dominant interior perspective or a glamorized mythology. He sits in the patrol car, offers money, and reminds the officers of what he can do to their families. Cartas never lets the camera linger on his legend. The result is that Guzmán becomes genuinely threatening in the way power is actually threatening: impersonal, structural, and capable of reaching anywhere.</p>
+
+<h2>Herrera and Hernández Hold the Film Together</h2>
+<p>Alfonso Herrera anchors the film with a performance of quiet physical precision. Arturo is a man whose financial desperation — his wife is pregnant, they can\'t afford another child, he\'s working night shifts for overtime — makes the corruption offer legible in a way that feels uncomfortable rather than judgmental. The scene where he simply cannot reach his wife by phone, not knowing if cartel men have already arrived at his home, is the film\'s most nerve-wracking passage, and Herrera plays it with a stillness that registers more than shouting would.</p>
+<p>Noé Hernández\'s Rosales provides the necessary counterpoint — the officer whose suspicions about Arturo create a secondary tension that the film eventually resolves with grace. Their two-hander dynamic gives the procedural mechanics an emotional through-line that most films in this genre don\'t bother with.</p>
+
+<h2>Where the Fuel Runs Low</h2>
+<p>The film runs 91 minutes and occasionally feels like it runs longer. Several scenes in the motel sequence — where the officers are holed up waiting for naval backup — repeat emotional beats that have already been established. The supporting characters (the motel attendant, the cartel lieutenant) function primarily as plot machinery and are underdeveloped enough to feel like sketches. And the film\'s Spanish-language naturalism sometimes works against the pacing in its second act, where the procedural tension goes slack for stretches before snapping back.</p>
+<p>These are real limitations. But they\'re the limitations of a film trying to do something specific and largely succeeding, rather than a film failing at something generic.</p>
+
+<h2>The Verdict</h2>
+<p>Facing El Chapo is one of the more quietly intelligent crime films on Netflix right now. Based on the actual January 2016 recapture of Guzmán in Sinaloa, it finds its power in compression and restraint — in the ordinary human beings who had to decide, in real time, whether to do an extraordinary thing. Cartas trusts his actors and his premise enough to resist the genre\'s usual spectacle, and the result is a film that stays with you not because El Chapo is frightening, but because Arturo and Rosales are recognizable.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ The perspective inversion — officers as protagonists, El Chapo as passenger — is exactly right</li>
+  <li>✅ Alfonso Herrera delivers the film\'s best performance with quiet, physical specificity</li>
+  <li>✅ Chamber-drama discipline keeps the scale intimate and the stakes personal</li>
+  <li>✅ Kotsifakis\'s Guzmán is more threatening for being de-glamorized</li>
+  <li>❌ Motel sequence repeats emotional beats and drags the second act</li>
+  <li>❌ Supporting characters are underdeveloped and function mainly as plot mechanics</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
