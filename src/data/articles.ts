@@ -1429,6 +1429,85 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'the-whisper-man-2026-review',
+    title: 'The Whisper Man Review: De Niro, Keaton, and a Very Good Reason to Be Afraid of the Dark',
+    movieTitle: 'The Whisper Man',
+    tmdbId: 860508,
+    mediaType: 'movie',
+    rating: 7.0,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "James Ashcroft\'s Netflix adaptation of Alex North\'s bestselling thriller is a textbook example of execution over innovation: the formula is decades old and the villain is obvious, but Robert De Niro, Adam Scott, and an electric Michael Keaton make it genuinely worth your Friday night. If the \'90s serial killer thriller never died — it just moved to streaming.",
+    publishedAt: '2026-08-31',
+    tags: ['Thriller', 'Mystery', 'Crime', 'Netflix', '2026'],
+    content: `
+<p class="lead">There is a scene in <strong>The Whisper Man</strong> where Michael Keaton, playing a long-imprisoned serial child predator, sits across a table from Robert De Niro\'s retired detective and simply talks. No monologuing, no theatrics — just two men of a certain age, one of whom destroyed the other\'s life, conducting the most loaded conversation imaginable with the controlled politeness of people who have nothing left to prove. It is the best scene in the film and the clearest argument for why Netflix keeps making movies like this: sometimes you cast well, get out of the way, and it\'s enough.</p>
+
+<h2>The Formula, Executed Well</h2>
+<p>The Whisper Man is not trying to subvert anything. Based on Alex North\'s 2019 crime novel, it follows the template of every \'90s serial killer thriller with comfortable fidelity: a retired detective haunted by an old case, a copycat whose emergence reopens old wounds, a missing child with a countdown attached, and enough family trauma to fill a therapist\'s waiting room. Director James Ashcroft — who made the far more idiosyncratic <em>Coming Home in the Dark</em> in 2021 — appears to have decided that the material calls for craft rather than reinvention, and he delivers craft.</p>
+<p>Adam Scott\'s Tom Kennedy is a widowed crime novelist seeking a fresh start in New Jersey with his eight-year-old son Jake (a quietly haunting performance by Acston Luca Porto), whose sensitivity and ghostly imaginings register as charming until the night he walks out of the house and disappears. The connection to the original Whisper Man case — and to Tom\'s estranged detective father Pete Willis (De Niro) — arrives without much delay, and the film clicks into procedural gear with Michelle Monaghan\'s Detective Amanda Beck running the active investigation while the two damaged Kennedy men circle each other.</p>
+
+<h2>The Ensemble Does the Heavy Lifting</h2>
+<p>Peter Deming\'s cinematography — the veteran DP responsible for the visual language of Lynch\'s <em>Mulholland Drive</em> and <em>Twin Peaks: The Return</em> — brings a more generic but genuinely effective atmosphere to the proceedings. Everything is rendered in damp browns and teals, light always seeming to arrive from the wrong angle. It\'s the visual equivalent of the uncanny, and it serves the material.</p>
+<p>What the film understands is that De Niro at this stage of his career works best when the material provides structure he can inhabit rather than challenge. Pete Willis is a man carrying enormous guilt across a very specific architecture of regret, and De Niro imbues him with a grounded, lived-in weariness that the script alone couldn\'t generate. Scott plays to type — the not-quite-capable protagonist grinding toward competence — and is compellingly watchable throughout. Hamish Linklater\'s true-crime-obsessed suspect brings an eerie calm that makes him the film\'s most effective red herring.</p>
+
+<h2>Telegraphed But Not Ruined</h2>
+<p>The identity of the copycat villain is visible from a distance sufficient to spoil a mildly attentive viewer\'s third act, and the script by Ben Jacoby and Chase Palmer is content to let that be. A backstory involving Pete\'s estrangement from Tom — "the original sin of fathers everywhere" the film calls it — is gestured at rather than examined. Michelle Monaghan\'s Beck is given a Clarice Starling role without the interiority that makes Starling compelling. These are real limitations in material that occasionally mistakes competence for depth.</p>
+<p>The film\'s supernatural framing — Jake seeing figures, voices through the letterbox — is handled with restraint in the first act and then largely abandoned, which is either disciplined or a missed opportunity, depending on your patience for genre ambiguity.</p>
+
+<h2>The Verdict</h2>
+<p>The Whisper Man earns its comparison to the comfortable \'90s thrillers it clearly loves. It will not linger in your memory past the following morning, but while it\'s running it holds you with the confidence of something that knows exactly what it\'s doing. The De Niro-Keaton scene alone is worth ninety minutes of your attention. Sometimes a well-made genre exercise is all you need.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ De Niro and Keaton\'s extended scene is a master class in contained menace</li>
+  <li>✅ Peter Deming\'s cinematography elevates the atmosphere well above standard Netflix fare</li>
+  <li>✅ Adam Scott and Acston Luca Porto\'s father-son dynamic lands with genuine feeling</li>
+  <li>✅ Ashcroft\'s pacing keeps the formula from feeling stale — taut and economical</li>
+  <li>❌ The copycat\'s identity is telegraphed too early for genre-savvy viewers</li>
+  <li>❌ Michelle Monaghan\'s detective is underwritten relative to the male leads</li>
+  <li>❌ The supernatural element is established then largely dropped — a missed opportunity</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'the-last-sunrise-2026-review',
+    title: 'The Last Sunrise Review: Mallorca Is Beautiful, the Movie Less So',
+    movieTitle: 'The Last Sunrise',
+    tmdbId: 1516698,
+    mediaType: 'movie',
+    rating: 5.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'yellow',
+    excerpt: "Carlson Young\'s Amazon romance arrives in Mallorca with gorgeous cinematography, two appealing leads, and a plot so generic it could be swapped with any Anna Todd adaptation without anyone noticing. If you\'re in the target audience — and you know who you are — the sun and the chemistry will carry you through. Everyone else will be counting postcard shots.",
+    publishedAt: '2026-08-31',
+    tags: ['Romance', 'Drama', '2026'],
+    content: `
+<p class="lead">The Anna Todd industrial complex has delivered another widget, and this one is set in Mallorca. <strong>The Last Sunrise</strong> has everything the franchise\'s fanbase requires — sun-saturated cinematography, a chiseled European love interest, a protagonist with a conveniently life-limiting illness, and enough ambient luxury to make the emotional stakes feel like first-world problems played in a major key. For that specific audience, it delivers. For anyone else, it\'s a long 106 minutes of beautiful nothing.</p>
+
+<h2>What It Gets Right: The Setting, the Leads</h2>
+<p>Credit where it\'s due: director Carlson Young (<em>Upgraded</em>) photographs Mallorca with genuine affection. The film doubles as the kind of tourism advertisement the island\'s board would commission if they had better taste — a local beach visible only to residents, a fishing dock at dawn, old-world cobblestones gilded at golden hour. When <em>The Last Sunrise</em> slows down to simply exist in its setting, it achieves a kind of warm, uncomplicated pleasure that more ambitious films sometimes can\'t.</p>
+<p>Maia Reficco and Fernando Lindez are also doing more work than the script deserves. As Ry, a college student with epilepsy managing her condition with medication that blunts the sharpness of everything, Reficco brings a controlled restraint that keeps the character\'s passivity from becoming irritating. Lindez\'s Julian has the physical ease of someone who has never had to think about how he stands, and their early banter — bickering that turns into something else, as it always does in films like this — generates enough warmth to make you invest despite your better judgment. Eva Longoria, in a credibly supportive mother role, understands exactly what kind of movie she\'s in and performs accordingly.</p>
+
+<h2>The Anna Todd Ceiling</h2>
+<p>The problem is structural and it\'s inherited from the source material. Anna Todd\'s 2025 novel, like her <em>After</em> series before it, treats its female protagonist as a series of things that happen to her rather than a person with legible agency. Ry drifts through the film — from Mallorca, to Julian, to the conflict involving her mother\'s development deal threatening Julian\'s family property — without ever demonstrating a clear preference for anything beyond Julian himself. When the obligatory revelation conflict arrives in the third act, it lands with the emotional weight of something we\'ve been waiting for but not dreading.</p>
+<p>The screenplay\'s treatment of Ry\'s epilepsy is characteristic: the illness provides atmosphere (the four daily alarms, the surgical decision she\'s been deferring) and plot mechanics (she stops taking medication so she can feel more fully, which inevitably requires rescue) without ever feeling like a real medical condition affecting a real person\'s daily life.</p>
+
+<h2>The Verdict</h2>
+<p>The Last Sunrise is the least the streaming romance genre can produce while still technically functioning as a film. Reficco and Lindez work hard with limited material, the Mallorca setting is used well enough, and the film earns its 3/5 rating from audiences who like this sort of thing. If you\'ve watched and enjoyed anything in the <em>After</em> franchise, you will probably have a reasonable time. If you haven\'t, this won\'t convert you — and Mallorca deserves better than being a backdrop for a plot this inert.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Mallorca is photographed with genuine warmth — the best travel advertisement the island will get this year</li>
+  <li>✅ Reficco and Lindez have real chemistry that transcends the script\'s limitations</li>
+  <li>✅ Eva Longoria turns in a credible, unsentimental mother performance</li>
+  <li>❌ Ry has almost no agency — things happen to her while she looks pretty watching them happen</li>
+  <li>❌ The illness subplot is handled as plot mechanics rather than with any genuine medical or emotional specificity</li>
+  <li>❌ Third-act conflict is entirely avoidable and lands without any dramatic weight</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
