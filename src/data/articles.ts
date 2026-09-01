@@ -1508,6 +1508,88 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'silo-tv-2026-review',
+    title: 'Silo Season 3 Review: Apple TV\'s Best Show Saves Its Most Terrifying Question for Last',
+    movieTitle: 'Silo',
+    tmdbId: 125988,
+    mediaType: 'tv',
+    rating: 9.0,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Graham Yost\'s penultimate season asks something far more frightening than \'what is outside the silo?\': if your memories can be taken from you, what remains of who you are? Silo Season 3 is essential sci-fi television, and the best argument yet that Apple TV+ is quietly running the best prestige drama slate on streaming.",
+    publishedAt: '2026-09-01',
+    tags: ['Sci-Fi', 'Drama', 'TV Series', '2026'],
+    content: `
+<p class="lead">Three seasons in, <strong>Silo</strong> has done something genuinely rare: it has gotten better with each installment. Season 3, the penultimate chapter of Graham Yost\'s adaptation of Hugh Howey\'s <em>Wool</em> trilogy, is the strongest yet — a masterful balancing act between the claustrophobic present of Silo 18 and a parallel "Before Times" storyline that finally begins answering the questions the show has been building toward since its first episode. If you haven\'t started Silo yet, you are missing one of the best sci-fi dramas of the decade.</p>
+
+<h2>The Cleverest Season Premiere in Recent Memory</h2>
+<p>Season 3 picks up three months after the explosive finale of Season 2, but with a twist that sounds like a cliché and plays as anything but: Juliette Nichols (Rebecca Ferguson), who somehow survived the fire that ended last season, is now the mayor of Silo 18. She has a clean apartment. The rebellion is apparently over. And she can\'t remember any of it.</p>
+<p>Amnesia is the most overused device in prestige television, and Yost deploys it with disarming self-awareness. Juliette\'s memory loss doesn\'t function as a mystery gimmick — it functions as the season\'s central thematic statement. In a world built entirely on controlled information and manufactured history, the question of who controls what you remember is the most political question imaginable. Juliette discovering that her own memories might be unreliable is the show turning its dystopian premise inward, and it\'s brilliant.</p>
+
+<h2>The Before Times: Finally, the Answers</h2>
+<p>Season 3\'s structural innovation is a second timeline — the "Before Times," set in the years leading up to humanity\'s confinement in the silos — that runs parallel to the present-day Silo 18 storyline, not in separate flashback episodes but intercut scene by scene throughout each episode. Ashley Zukerman\'s junior congressman and Jessica Henwick\'s journalist stumble into the shadow conspiracy that created the silo world, and their story gives the show a political thriller energy it hasn\'t had before.</p>
+<p>This is where Silo Season 3 distinguishes itself from its predecessors. Previous seasons excelled at building dread and mystery; this one excels at the harder task of delivering answers that are worth the wait. The show has been asking why humanity ended up underground for three years. The answers it begins providing here are chilling, specific, and grounded in recognizable political reality — which is exactly the right register for what the show has always been about.</p>
+
+<h2>Ferguson Carries Everything</h2>
+<p>Rebecca Ferguson\'s Juliette remains one of the most compelling protagonists in current television, and the amnesia arc gives her the most emotionally demanding material she\'s had in the series. Watching her methodically reconstruct who she is from the outside in — through other people\'s accounts, through the evidence of her own actions she can\'t remember taking — is a masterclass in physical and emotional restraint. Ferguson plays determination as a kind of controlled grief, and it has never been more effective.</p>
+<p>The supporting work is equally strong. Tim Robbins\'s Bernard continues his descent into something beyond pragmatism. Common\'s Sims grows more morally complex with every episode. And Steve Zahn\'s Solo — introduced in Season 2 — remains one of the series\' most valuable assets: a haunted, childlike presence who exists outside every political framework the show has built.</p>
+
+<h2>The Verdict</h2>
+<p>Silo Season 3 premieres July 3 and runs through September 4, with the finale arriving this week. If you\'ve been watching, this season is the reward for your patience. If you haven\'t started the show, this is the push: start from the beginning, block out a weekend, and thank yourself later. Silo is the rare adaptation that improves on its source material and the rare streaming prestige drama that knows where it\'s going. The penultimate chapter confirms it\'s going somewhere worth the trip.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Rebecca Ferguson gives her best performance in the series, with Juliette\'s amnesia arc as the season\'s thematic core</li>
+  <li>✅ The "Before Times" timeline finally delivers answers worth the three-season wait</li>
+  <li>✅ Scene-by-scene interweaving of past and present timelines keeps both threads urgent</li>
+  <li>✅ Ashley Zukerman and Jessica Henwick are superb additions as the "Before Times" leads</li>
+  <li>❌ Viewers who haven\'t watched Seasons 1 and 2 will be completely lost — this is not an entry point</li>
+  <li>❌ Some mid-season episodes slow momentum as the show juggles more storylines than ever</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'mousetrap-tv-2026-review',
+    title: 'Mousetrap Review: Netflix\'s New Korean Thriller Has One of the Year\'s Most Unsettling Premises',
+    movieTitle: 'Mousetrap',
+    tmdbId: 290193,
+    mediaType: 'tv',
+    rating: 7.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Netflix Korea\'s August tradition of daring, stylish thrillers continues with Mousetrap, a ten-episode identity-theft drama rooted in Korean folklore that asks a genuinely terrifying question: what if someone stole not just your money or your name, but your entire self? Ryu Jun-yeol\'s dual performance alone makes this required viewing.",
+    publishedAt: '2026-09-01',
+    tags: ['Thriller', 'Mystery', 'Drama', 'Netflix', '2026'],
+    content: `
+<p class="lead">Every August, Netflix Korea releases something that nobody saw coming: <em>Mask Girl</em> in 2023, <em>The Frog</em> in 2024, <em>Aema</em> in 2025. Each time, the show drops with minimal fanfare and maximum impact, using the quiet end of summer to sneak past the algorithmic noise and land somewhere genuinely uncomfortable. <strong>Mousetrap</strong> is 2026\'s entry, and it earns its place in the tradition.</p>
+
+<h2>The Premise That Makes It Work</h2>
+<p>Je Moon-jae (Ryu Jun-yeol) is a reclusive novelist — successful enough to live in a luxury high-rise, anxious enough to have not left it in three years. His property, bank accounts, and identity are all held in the name of a trusted classmate-turned-accountant, an arrangement designed to protect his privacy that turns out to be a catastrophic structural vulnerability. When Moon-jae\'s fingerprint stops working on his own phone and a stranger presents himself as Je Moon-jae at the building\'s front desk, the full scale of the theft becomes clear: someone hasn\'t stolen his wallet. They\'ve stolen his life.</p>
+<p>Director Kim Hong-sun (<em>Project Wolf Hunting</em>) grounds this premise in Korean folklore — a belief that a rat eating a person\'s fingernail can transform into that person — and uses the mythology with quiet intelligence. The "Rat" of the title isn\'t just a criminal; it\'s a commentary on identity as something fragile and social rather than biological. The show is most resonant in the moments when it asks: if every institution — bank, building management, law enforcement — recognizes someone else as you, in what sense do you still exist?</p>
+
+<h2>Ryu Jun-yeol\'s Dual Performance</h2>
+<p>The series\' central technical challenge — and its greatest asset — is that Ryu Jun-yeol plays both Moon-jae and his double, "The Rat." This isn\'t a gimmick. The two versions of the same face embody completely different modes of being in the world: Moon-jae is vulnerable, bewildered, and fundamentally decent; the Rat is cold, methodical, and possessed of a worldly competence that Moon-jae entirely lacks. Ryu moves between these registers with a fluency that makes the conceptual premise feel viscerally real. The scene where Moon-jae breaks down and begs the loan shark No-ja (Sul Kyung-gu) — "Please find me" — is the most affecting moment in any Korean thriller this year.</p>
+<p>Sul Kyung-gu\'s No-ja is the show\'s other revelation: a loan shark whose skillset (finding people who don\'t want to be found) makes him Moon-jae\'s only viable ally, and whose working-class pragmatism contrasts productively with Moon-jae\'s sheltered brilliance. Their odd-couple dynamic gives the thriller mechanics an emotional through-line that keeps the show grounded when the identity-swap plotting grows complicated.</p>
+
+<h2>Where the Trap Springs Slowly</h2>
+<p>Mousetrap\'s first episode has a deliberate, patient tempo that some viewers may find too slow — we spend most of it in Moon-jae\'s bewilderment before the full shape of the conspiracy comes into focus. Lee Kyu-hyung\'s detective Sun-yong, who promises to be a key third player, is barely present in the early episodes. The show\'s rhythm is that of a Korean thriller that trusts its premise enough to let it develop naturally, which is admirable but occasionally frustrating for audiences wanting the chase to begin.</p>
+<p>Based on the webtoon <em>Field Mouse</em>, the series has ten episodes to resolve its intricate identity-theft mythology and a subplot involving an online gambling crime ring that may be larger than Moon-jae\'s individual case. How effectively it lands the back half will determine whether this is a great Korean thriller or merely a very good one.</p>
+
+<h2>The Verdict</h2>
+<p>Mousetrap is exactly what Netflix Korea\'s August slot promises: unsettling, stylish, and rooted in something deeper than genre mechanics. Ryu Jun-yeol\'s dual performance is reason enough to watch, and the show\'s exploration of identity as social construct rather than biological fact gives it an intellectual charge that most thrillers lack. New episodes drop weekly — get in early, before the algorithm figures out it\'s good.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Ryu Jun-yeol\'s dual performance is a masterclass — two completely distinct people sharing a face</li>
+  <li>✅ The folklore premise gives the show a mythic register that elevates the crime thriller mechanics</li>
+  <li>✅ Sul Kyung-gu\'s No-ja is a genuine scene-stealer — the odd-couple dynamic is the show\'s emotional engine</li>
+  <li>✅ Director Kim Hong-sun brings real visual style and claustrophobic energy to the Seoul setting</li>
+  <li>❌ First episode is deliberately slow — the show takes its time setting the trap before springing it</li>
+  <li>❌ Lee Kyu-hyung\'s detective is underused early; the three-way dynamic takes time to assemble</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
