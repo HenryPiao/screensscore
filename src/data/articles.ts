@@ -1590,6 +1590,89 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'parasite-2019-review',
+    title: 'Parasite Review: Bong Joon-ho\'s Masterpiece Is Still the Most Important Film of the 2010s',
+    movieTitle: 'Parasite',
+    tmdbId: 496243,
+    mediaType: 'movie',
+    rating: 9.5,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Seven years on, Bong Joon-ho\'s Oscar-winning class-warfare thriller remains as precise and devastating as the night it took Cannes by storm. If you haven\'t seen it: stop reading and watch it. If you have: you already know why it keeps drawing people back.",
+    publishedAt: '2026-09-02',
+    tags: ['Drama', 'Thriller', 'Mystery', '2019'],
+    content: `
+<p class="lead">Described by its director as "a comedy without clowns, a tragedy without villains," <strong>Parasite</strong> arrived in 2019 and did something films rarely manage: it changed the conversation about what cinema can do. Seven years later, Bong Joon-ho\'s class-warfare masterpiece still plays like a live wire. The jokes are funnier, the horror more horrible, and the final images more haunting on each return visit. This is the film of its decade.</p>
+
+<h2>The Setup That Deceives You (Deliberately)</h2>
+<p>The Kim family lives in a semi-basement apartment in Seoul — caught, as cinematographer Hong Kyung-pyo\'s frames constantly remind us, between the street above and the darkness below. They are resourceful, funny, and deeply broke. When Ki-woo (Choi Woo-shik) is referred for a tutoring gig with the wealthy Park family, the Kims embark on a scheme of escalating audacity: each family member, concealing their relationship to the others, infiltrates the Parks\' household as a tutor, art therapist, driver, and housekeeper. The first half of <em>Parasite</em> plays as nimble comedy — a caper film in which the targets are cheerfully oblivious and the con artists entirely likable.</p>
+<p>Then Bong takes a hard right turn, and the film becomes something else entirely. Twice. What looked like satire reveals itself as tragedy, and what looked like comedy reveals itself as horror, and the screenplay by Bong and Han Jin-won manages these pivots without a single false note. The genius of <em>Parasite</em> is that none of its tonal shifts feel arbitrary — each one expands the same central question rather than replacing it.</p>
+
+<h2>Class As Architecture</h2>
+<p>The film\'s visual logic is its ideological argument. The Park home is wide, glass-fronted, and flooded with light; the Kims\' apartment is cramped, half-underground, and reaches toward the street for wifi signal. The geography of the film is a map of Korean inequality, and Bong (working with production designer Ha-jun Lee) makes this spatial commentary visceral rather than schematic. There is a reason the Kim apartment is below street level — they are, as the film will demonstrate, caught in the growing chasm between worlds, too far up to accept their condition and not far enough up to change it.</p>
+<p>Song Kang-ho\'s Ki-taek, the Kim patriarch, is the performance at the film\'s center and one of the greatest acting achievements of the decade: a man of enormous dignity and warm intelligence navigating a world that has structured his humiliation into its foundations. His final scene is not a surprise twist but an inevitability — the only honest ending for the character the film has been building since the first frame.</p>
+
+<h2>What Makes It Evergreen</h2>
+<p>The reason <em>Parasite</em> continues to draw new audiences is that it is genuinely funny, genuinely terrifying, and genuinely unanswerable. It doesn\'t offer solutions — it offers clarity. Bong\'s genius is to depict a system with such precision that no individual moral failure can explain it. Nobody in <em>Parasite</em> is the villain. The Park family is not cruel; the Kim family is not venal. They are all doing exactly what their circumstances require, and the catastrophe that results is the product of a structure, not a character. That structural analysis is why the film keeps finding new audiences: whatever country you\'re watching from, the architecture is recognizable.</p>
+
+<h2>The Verdict</h2>
+<p>If you\'ve never seen <em>Parasite</em>: stop reading and watch it tonight, ideally knowing as little as possible about where it goes. If you\'ve seen it once: it deserves a second viewing, at which point the comedy hits harder and the horror lands earlier than you remember. If you\'ve seen it twice: you already know this review isn\'t telling you anything you don\'t know. The film speaks for itself, in every language, with a clarity that has only sharpened with time.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ One of the tightest, most precisely constructed screenplays in modern cinema</li>
+  <li>✅ Song Kang-ho\'s performance as Ki-taek is among the decade\'s great acting achievements</li>
+  <li>✅ The spatial/architectural visual language is the ideological argument — form and content are one</li>
+  <li>✅ The tonal pivots from comedy to thriller to tragedy are executed without a single false note</li>
+  <li>✅ Rewards repeated viewings — the foreshadowing becomes devastating in retrospect</li>
+  <li>❌ If you know the major plot turns going in, the first-act comedy loses some of its disarming power</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'interstellar-2014-review',
+    title: 'Interstellar Review: The Film Its Critics Called Sentimental Turned Out to Be Immortal',
+    movieTitle: 'Interstellar',
+    tmdbId: 157336,
+    mediaType: 'movie',
+    rating: 9.0,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Christopher Nolan\'s 2014 space epic was initially dinged for being too emotional — a fatal flaw, critics said, for a hard-science director. Eleven years later, that \'flaw\' is precisely why it endures. Interstellar is a film about a father and a daughter who are separated by the entire universe, and it hits that note with a precision no wormhole diagram can explain.",
+    publishedAt: '2026-09-02',
+    tags: ['Sci-Fi', 'Drama', 'Action', '2014'],
+    content: `
+<p class="lead">When <strong>Interstellar</strong> opened in November 2014, the critical response was divided in a way that, in retrospect, tells you exactly why the film has lasted. The complaints were consistent: it\'s too sentimental, Anne Hathaway\'s love-as-a-physical-force speech is embarrassing, the third act is mush. Christopher Nolan, auteur of cool, had made a tearjerker. The Village Voice ranked it among the worst films of 2014. Eleven years later, nearly every IMAX screening of its anniversary rerelease sold out within hours of tickets going on sale. The critics were right about what the film was doing. They were wrong about whether it worked.</p>
+
+<h2>The Setup: Near-Future Earth, and a Father Who Has to Leave</h2>
+<p>The near-future of <em>Interstellar</em> is Nolan\'s most unnerving dystopia precisely because it\'s so recognizable. Cooper (Matthew McConaughey) is a former NASA pilot now farming corn in a world where a mysterious blight is eliminating crops one by one and dust storms have turned the American Midwest into something from the 1930s. Society is functioning, barely. When Cooper discovers that NASA has been operating in secret, and that a wormhole near Saturn may lead to habitable planets in another galaxy, he agrees to pilot the mission that could save humanity — which means leaving behind his two children, possibly forever.</p>
+<p>The farewell scene between Cooper and his daughter Murph (Mackenzie Foy), played close and warm, is the emotional pivot on which the entire film turns. Everything that follows in space — the relativistic time dilation that causes Cooper to age minutes while decades pass on Earth; the black hole Gargantua; the tesseract in the film\'s astonishing final act — is a consequence of that separation, emotionally and narratively. Nolan returns to this room, this goodbye, over and over. By the end, it means something different every time you\'ve seen it.</p>
+
+<h2>The Science, the Scale, the Score</h2>
+<p>Working with theoretical physicist Kip Thorne, Nolan created what remains the most scientifically accurate depiction of a black hole ever put on screen — the visual of Gargantua, with its accretion disk warped by gravity into a halo, was so mathematically precise that it generated publishable papers in astrophysics journals. The film uses practical effects wherever possible: the spacecraft Endurance was built as a real set, and location shooting in Iceland doubles for two alien planets with an authenticity no pure CGI environment could replicate.</p>
+<p>Hans Zimmer\'s score is the film\'s other major technical achievement: the decision to use pipe organ as the primary instrument for a space epic was counterintuitive and correct. The organ gives the cosmic sequences a quality that is simultaneously ancient and infinite — it evokes cathedrals and mathematical transcendence in equal measure. The ticking-clock motif that underlies the film\'s most urgent passages remains one of the most effective pieces of film music in recent memory.</p>
+
+<h2>McConaughey Holds the Universe Together</h2>
+<p>Cooper is a man of science and engineering who thinks with an engineer\'s directness and feels with a poet\'s depth — the combination that McConaughey plays better than any other actor of his generation. The scene in which he watches years of video messages from his children and grandchildren in silent close-up, while only an hour has passed for him, is the best scene McConaughey has given us: grief and love colliding on a face built to convey exactly that collision. Jessica Chastain\'s adult Murph matches him perfectly in the Earth-bound sections, and Ellen Burstyn\'s single scene at the end — two minutes, devastating — is a reminder of what a great actor can do with almost nothing.</p>
+
+<h2>Where It Stumbles (and Why It Doesn\'t Matter)</h2>
+<p>The critics were not entirely wrong. Hathaway\'s speech about love as a navigational force through higher dimensions is the film\'s weakest scene — more telling than showing, in a film that otherwise trusts its imagery. Some mid-film exposition scenes drag, and the ending requires Nolan\'s scientific rigor to yield to emotional logic in ways not everyone will forgive. These are real limitations in an otherwise staggering achievement. They are also, ultimately, why the film has become what it is: a blockbuster that bet $200 million on the idea that audiences wanted to cry in an IMAX theater over a father who missed his daughter\'s whole life. The bet paid off, eleven years running.</p>
+
+<h2>The Verdict</h2>
+<p><em>Interstellar</em>\'s "fatal flaw" — the emotionality, the sentimentalism, the insistence that love is structural rather than soft — turned out to be exactly what made it worth watching again. Nolan has made more formally precise films. He has never made one that costs more to watch. See it on the biggest screen available. Call your parents after.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ McConaughey\'s video-messages scene is career-defining work — grief and love in a single close-up</li>
+  <li>✅ Gargantua remains the most scientifically accurate black hole visualization in cinema history</li>
+  <li>✅ Hans Zimmer\'s pipe organ score gives cosmic imagery an emotional weight nothing else could provide</li>
+  <li>✅ The film\'s central gamble — love as a physical force — is what makes it immortal, not what undermines it</li>
+  <li>❌ Hathaway\'s "love transcends space-time" speech is the film\'s most on-the-nose moment</li>
+  <li>❌ Mid-film exposition sequences slow pacing significantly before the black hole sequence</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
