@@ -1673,6 +1673,88 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'batman-knightfall-2026-review',
+    title: 'Batman: Knightfall Part 1 Review: DC Animation\'s Best Batman Film in Years',
+    movieTitle: 'Batman: Knightfall Part 1',
+    tmdbId: 1560520,
+    mediaType: 'movie',
+    rating: 8.0,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Jeff Wamester and screenwriter Jeremy Adams don\'t adapt the 1993 Knightfall comic — they distill it. The result is the most confident, most violent, and most emotionally coherent DC animated film in years: a story about a Batman who can\'t stop until he breaks, and a Bane who knows exactly how to wait.",
+    publishedAt: '2026-09-03',
+    tags: ['Action', 'Superhero', 'DC', 'Animation', '2026'],
+    content: `
+<p class="lead">The <em>Knightfall</em> comic saga of 1993 spans 2,832 pages across three volumes and multiple writers. Adapting it into three animated films was always going to require brutal compression. The question was whether that compression would produce a CliffsNotes version or a genuine distillation — the difference between stripping a story and sharpening it. <strong>Batman: Knightfall Part 1</strong> is emphatically the latter. This is not a recap. It is a film.</p>
+
+<h2>The Structural Gambit That Makes It Work</h2>
+<p>The smartest decision screenwriter Jeremy Adams makes is one that departs from the source material entirely: in the comic, Batman and Bane clash repeatedly before the final confrontation at Wayne Manor. Here, they never meet until that moment. For 79 minutes, we watch Bane — brilliantly voiced by Michael Mando, who brings the intelligence and patient menace the character demands — orchestrating Batman\'s destruction from a careful distance. He blows up Arkham Asylum. He frees every major villain. He watches the Dark Knight exhaust himself, night after night, collecting the wreckage.</p>
+<p>This structural choice transforms the final confrontation from a fight scene into an execution. By the time Bane walks into the Batcave, Anson Mount\'s Batman is already broken — mentally, physically, and in every relationship that sustained him. Tim Drake has been fired. Alfred is collapsed. Bruce\'s sleep deprivation has curdled into something that looks indistinguishable from psychosis. Bane doesn\'t defeat Batman; he collects the body after Batman defeats himself. The film understands this as the story\'s point, and every scene before the final act is in service of that understanding.</p>
+
+<h2>Violence With Purpose</h2>
+<p>This is a hard R-rated animated film, and the rating is earned rather than flaunted. The violence serves the story\'s thesis: Batman\'s world is not sustainable. The nightly accumulation of broken bones and fear-gas hallucinations and the ghosts of Jason Todd register as cost rather than spectacle. Director Jeff Wamester and the Studio Mir animation team (responsible for <em>The Legend of Korra</em>) deploy carnage with a confidence that never tips into gratuitousness.</p>
+<p>The specific sequence around Victor Zsasz — in which Batman nearly beats a restrained prisoner to death, stopped only by Detective Renee Montoya — is the film\'s most disturbing moment and its most important one. It shows us something the comics took issues to establish: that the Bruce Wayne who eventually faces Bane is already a man who has forgotten why he started.</p>
+
+<h2>The Voice Cast and What\'s Still to Come</h2>
+<p>Mando\'s Bane will be talked about for years among DC animation fans — a performance that makes the character\'s tactical intelligence as frightening as his physical presence. Mount\'s Batman is appropriately depleted: not the commanding Dark Knight of other animated versions but a man running on fumes and grief, which is exactly what the story requires. Pablo Schreiber\'s Jean-Paul Valley lingers in the background of Part 1, and his limited appearances are clearly setup for Parts 2 and 3.</p>
+<p>David Dastmalchian\'s Riddler cameo is a particular highlight — a Riddler who has been forcibly injected with Venom and forced to be a weapon, whose humiliation is visible even through the animators\' compressed expression. These small character moments are what separate the DC animated films at their best from the direct-to-video noise around them.</p>
+
+<h2>The Verdict</h2>
+<p>Part 1 ends exactly where it should: with Bane hurling Batman\'s broken body from the roof of GCPD headquarters while Gotham watches. It\'s a cliffhanger that lands not as a shock but as an inevitability that the film has spent 79 minutes building toward. If Parts 2 and 3 maintain this quality, the <em>Knightfall</em> trilogy could stand as the definitive animated Batman. The first part has set a standard that will be genuinely difficult to meet.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Michael Mando\'s Bane is the best the character has received outside of the comics</li>
+  <li>✅ The structural decision to delay Batman and Bane\'s meeting transforms the finale into an execution rather than a fight</li>
+  <li>✅ The Studio Mir animation gives Gotham a murky, oppressive weight that matches the story\'s tone</li>
+  <li>✅ Violence serves the narrative — it\'s brutal because Batman\'s world is brutal, not for spectacle</li>
+  <li>❌ At 79 minutes, some supporting characters (especially Tim Drake\'s arc) feel compressed</li>
+  <li>❌ Azrael\'s setup in Part 1 will mean little to viewers unfamiliar with the source material</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'coyote-vs-acme-2026-review',
+    title: 'Coyote vs. Acme Review: The Film Warner Bros. Tried to Bury Is One of the Year\'s Best Comedies',
+    movieTitle: 'Coyote vs. Acme',
+    tmdbId: 1204680,
+    mediaType: 'movie',
+    rating: 8.5,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Warner Bros. shelved this film in 2023 for a tax write-off. Ketchup Entertainment rescued it and gave it a theatrical release. The result is one of the most purely joyful films of 2026 — a live-action/animation hybrid that honors the Looney Tunes legacy while skewering the corporate machine that almost killed it. The little guy wins, and so does the audience.",
+    publishedAt: '2026-09-03',
+    tags: ['Comedy', 'Animation', 'Action', '2026'],
+    content: `
+<p class="lead">The first thing you need to know about <strong>Coyote vs. Acme</strong> is that next to the opening Warner Bros. logo, there is a small asterisk. That asterisk leads to a credit reading: "A wholly owned subsidiary of the Acme Corporation." It is the first joke, and it is the best joke, and it tells you everything you need to know about what this film is doing. This is a movie about a corporation destroying a cartoon character for profit, made by a corporation that tried to destroy the movie for profit. It survived. It shouldn\'t have. It\'s wonderful.</p>
+
+<h2>The Premise: Wile E. Coyote as Plaintiff</h2>
+<p>The premise, adapted from a 1990 <em>New Yorker</em> piece by Ian Frazier, is both simple and inexhaustible: after decades of being detonated, flattened, and launched off cliffs by defective Acme products, Wile E. Coyote decides to sue. He enlists Albuquerque attorney Kevin Avery (Will Forte), whose firm — Avery, Jones & Maltese, a shout to three of the Looney Tunes\' founding architects — specializes in settling cartoon injury claims for whatever the market will bear. The settlement Acme\'s attorney Buddy Crane (John Cena) initially offers is $50,000. Wile E. Coyote unfurls, magically, an infinite box containing every Acme product that has ever destroyed him. The lawsuit becomes much larger.</p>
+<p>The script by Samy Burch, James Gunn, and Jeremy Slater is dense with gags in the best Chuck Jones tradition — verbal and visual, arriving faster than you can process them. A courtroom sketch artist draws the proceedings in cartoon style; the judge (Luis Guzmán, perfect) uses a cartoon gavel for cartoon-related business; Bugs Bunny appears in a trenchcoat as a whistleblower; Road Runner provides testimony via beeps. The film understands that the Looney Tunes universe operates on its own physics, and it never apologizes for that. It simply proceeds, at Road Runner speed.</p>
+
+<h2>Forte and Cena: The Human Anchors</h2>
+<p>The success of live-action/animation hybrids depends entirely on whether the human characters earn their place in the frame. Forte does, because he plays Kevin Avery exactly right: not as a straight man condescending to the cartoon world, but as a man of equal absurdity who has simply learned to navigate a particular form of chaos. His deadpan commitment to Wile E.\'s case — his dawning realization that this lawsuit might be the first thing he\'s done that matters — gives the film its emotional through-line without ever losing the comedy.</p>
+<p>Cena, meanwhile, is doing something more interesting than playing the villain. Buddy Crane is a man who has absorbed so many corporate talking points that he has become genuinely unable to distinguish between legal defense and moral position. Cena plays this not as villainy but as a specific and recognizable American type, which makes him funnier and more unsettling than a cartoon antagonist would have been. The fact that he looks, as one critic noted, like a hand-drawn character himself is an additional gift.</p>
+
+<h2>Why the Film\'s Story Matters</h2>
+<p>It would be reductive to say the film\'s troubled production history is its most interesting feature — the film itself is too good for that framing. But the fact that Warner Bros. Discovery attempted to write it off as a tax loss in 2023, only for Ketchup Entertainment to rescue it and return it to theaters, does make <em>Coyote vs. Acme</em> a genuine real-world mirror of its plot. A little company rescuing an IP from a conglomerate that had discarded it; a cartoon character winning the lawsuit against the corporation that made him. The film knows this, and that knowledge gives the climax an emotional charge it couldn\'t otherwise have generated.</p>
+
+<h2>The Verdict</h2>
+<p><em>Coyote vs. Acme</em> is the rare film that is exactly as funny as it thinks it is, and also somehow more emotionally resonant than it has any right to be. It honors the Looney Tunes tradition not through nostalgia but through understanding: these characters work because their failure is eternal and their dignity is undiminished. Wile E. Coyote will never catch the Road Runner. He will also never stop trying. Run to see this. Beep beep.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Will Forte\'s Kevin Avery is the ideal human anchor — committed, absurd, and quietly moving</li>
+  <li>✅ The gag density is pure Chuck Jones — verbal and visual jokes arrive faster than you can process them</li>
+  <li>✅ John Cena as corporate lawyer is genuinely funny and genuinely unsettling in equal measure</li>
+  <li>✅ Eric Bauza\'s voice work gives all the Looney Tunes characters their full classic dignity</li>
+  <li>✅ The real-world production story (rescued from a tax write-off) makes the film\'s themes resonate at a meta level</li>
+  <li>❌ The Acme conspiracy subplot repeats itself more than necessary in the second act</li>
+  <li>❌ At 101 minutes, slightly longer than the premise strictly requires</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
