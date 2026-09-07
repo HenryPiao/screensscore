@@ -1755,6 +1755,96 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'by-any-means-2026-review',
+    title: 'By Any Means Review: A Propulsive Civil Rights Thriller That Earns Its Historical Weight',
+    movieTitle: 'By Any Means',
+    tmdbId: 1380417,
+    mediaType: 'movie',
+    rating: 7.0,
+    verdict: 'Solid',
+    verdictColor: 'yellow',
+    excerpt: "Elegance Bratton\'s true-story thriller pairs a buttoned-up Black FBI agent with a mob hitman to investigate a 1966 KKK murder — and the result is a bluntly drawn but genuinely gripping buddy-cop picture powered by two outstanding performances and some of the most beautiful cinematography of the year.",
+    publishedAt: '2026-09-07',
+    tags: ['Drama', 'Thriller', 'History', '2026'],
+    content: `
+<p class="lead">In January 1966, Vernon Dahmer Sr. — a Black businessman, NAACP chapter president, and tireless voter-registration activist in Hattiesburg, Mississippi — was murdered by the Ku Klux Klan for promising to cover the poll tax for any Black citizen who couldn\'t afford it. He said, simply, that his people mattered. The Klan burned his house down and shot him. He died that morning. <strong>By Any Means</strong>, director Elegance Bratton\'s second feature, builds its story around the FBI\'s covert effort to bring his killers to justice — and it is, at its best, a film that genuinely honors the enormity of what it is depicting.</p>
+
+<h2>A True Story, Generously Reimagined</h2>
+<p>The film is "inspired by true events," which in practice means it takes two real figures — Vernon Dahmer (played with quiet authority by Giancarlo Esposito) and mob hitman Gregory Scarpa (Mark Wahlberg), a Colombo crime family enforcer who worked as an FBI informant — and connects them through a fictional Black FBI handler named Wayne Strider (Yahya Abdul-Mateen II). Wayne is a composite character, a device through which screenwriter Sascha Penn can dramatize the internal debate within the civil rights movement between lawful resistance and by-any-means-necessary pragmatism.</p>
+<p>The FBI in this era was famously ambivalent about protecting Black civil rights workers. Wayne\'s boss, based on the real agent Roy K. Moore (David Strathairn, exuding bureaucratic indifference), keeps his Black agents off civil-rights cases. When Vernon is killed, Wayne is offered the assignment as a special mission — working with Scarpa to gather witness statements from a community too terrorized to talk. The assignment is top secret. The methods are off the books. The moral logic is: sometimes the system needs the Mob to do what the system won\'t.</p>
+
+<h2>Yahya Abdul-Mateen II Carries the Film</h2>
+<p>The film belongs to Abdul-Mateen II, who gives Wayne Strider an interior life that the script doesn\'t always provide on the page. You can read, in his face, the calculations of a man who has spent his entire career accepting indignity as the price of admission — who has trained himself to channel rage into paperwork, to believe that the law will eventually arrive at justice if you give it enough time. His gradual radicalization under Scarpa\'s influence — the way the relationship cracks open something hard and cold in him — is performed with real precision. It\'s the kind of acting that makes a formulaic arc feel earned.</p>
+<p>Wahlberg, playing Scarpa as a fast-talking Brooklyn roughneck who operates entirely outside the moral architecture Wayne inhabits, is doing less subtle work but doing it effectively. He is given the function of loosening Wayne up, of demonstrating that certain situations require a fist rather than a filing cabinet. The film knows this is a problematic dynamic — a white mob enforcer teaching a Black agent to embrace violence — and it doesn\'t quite resolve the tension so much as acknowledge it and push forward. Whether that constitutes a flaw or a feature depends on your appetite for moral ambiguity in crowd-pleasing packaging.</p>
+<p>Nicole Beharie, playing Wayne\'s wife Allison, is given too little to do, though she makes each of her limited scenes land. The film could use more of their domestic life — more texture around what this secret mission costs both of them.</p>
+
+<h2>Bratton\'s Cinematography: The Film\'s True Marvel</h2>
+<p>Whatever reservations one might have about the script\'s bluntness, the filmmaking itself is frequently extraordinary. Working with cinematographer Ante Cheng, Bratton shoots 1960s Mississippi with the kind of tactile visual intelligence that turns every frame into an argument about light and shadow, visibility and erasure. There is a shot of dawn light on wet pavement. There is a shot of villains introduced through window-shutter shadow. There is an early scene at a voter-registration rally filmed with such warmth and communal energy that when the violence comes, it feels like a physical violation — which is exactly the point.</p>
+<p>Bratton\'s debut feature <em>The Inspection</em> (2022) was a lyrical, deeply personal work about a Black gay marine navigating a system designed to break him. <em>By Any Means</em> operates at a different register — it wants to be a thriller, a popcorn movie, something that draws crowds — but the director\'s formal instincts keep elevating the material past its genre foundations. The best scenes feel like they belong in a different, more nuanced film. That\'s not a complaint so much as a testimony to what Bratton is capable of.</p>
+
+<h2>The Green Book Problem, and Why It Half-Applies Here</h2>
+<p>The film\'s harshest critics have invoked <em>Green Book</em>, and the comparison isn\'t entirely unfair. The film\'s central dynamic — white man tutors Black man in the virtues of pragmatic violence — is an uncomfortable one, however much the script tries to frame it as a debate between competing ideologies rather than a simple education. The Malcolm X subtext (Scarpa literally quotes "by any means necessary") is not handled with the subtlety it deserves.</p>
+<p>But unlike <em>Green Book</em>, <em>By Any Means</em> is not interested in racial harmony as its destination. The film\'s conclusion is not a warm embrace across the racial divide. It is something darker and more honest: two men who used each other, who changed each other, and who are both diminished and expanded by what they did together. The history it depicts is genuinely horrific, and the film does not sanitize it.</p>
+
+<h2>Verdict</h2>
+<p><strong>By Any Means</strong> is a film that operates best when it remembers it is not just a genre exercise but a reckoning with real events. Audiences who come for the buddy-cop action will find it. Audiences who stay for the history lesson will find that too. The result is imperfect, occasionally frustrating, and never as layered as its subject demands — but it is propulsive, beautifully shot, and anchored by a performance from Yahya Abdul-Mateen II that belongs in the conversation for year-end honors.</p>
+<ul>
+  <li>✅ Yahya Abdul-Mateen II delivers one of the year\'s most finely calibrated performances</li>
+  <li>✅ Ante Cheng\'s cinematography transforms every scene into something visually remarkable</li>
+  <li>✅ Genuinely honors the historical stakes without flinching from the horror</li>
+  <li>✅ Wahlberg is better calibrated here than in many recent outings</li>
+  <li>❌ The buddy-cop formula uncomfortably positions a white man as the agent of a Black man\'s radicalization</li>
+  <li>❌ Nicole Beharie and Giancarlo Esposito are underused relative to their obvious ability</li>
+  <li>❌ Script lacks the interiority the performances want to fill</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'onslaught-2026-review',
+    title: 'Onslaught Review: Adam Wingard\'s Grindhouse Comeback Is Gloriously Messy',
+    movieTitle: 'Onslaught',
+    tmdbId: 1284046,
+    mediaType: 'movie',
+    rating: 6.5,
+    verdict: 'Flawed But Fun',
+    verdictColor: 'yellow',
+    excerpt: "Adam Wingard returns to the indie horror-action space with a John Carpenter-inspired slasher about an Army sniper facing three genetically engineered super soldiers. Adria Arjona is excellent, the action set pieces crackle, and the style is relentless — but the narrative machinery that surrounds all of it is badly undercooked.",
+    publishedAt: '2026-09-07',
+    tags: ['Action', 'Horror', 'Thriller', '2026'],
+    content: `
+<p class="lead">The pitch for <strong>Onslaught</strong> is genuinely irresistible: a former Army sniper with PTSD and a weapons-filled trailer runs up against three genetically engineered super soldiers who have escaped from a secret military compound in the New Mexico desert. It is, in essence, <em>You\'re Next</em> crossed with <em>The Terminator</em>, filtered through the neon-drenched aesthetic of John Carpenter at his most nihilistic. Adam Wingard is exactly the right person to make this movie. He almost does.</p>
+
+<h2>Back to the Indie Trenches</h2>
+<p>After spending the better part of a decade in the MonsterVerse — directing <em>Godzilla vs. Kong</em> (2021) and <em>Godzilla x Kong: The New Empire</em> (2024) with diminishing returns — Wingard returns here to the kind of lean, mean, formally inventive genre filmmaking that made his reputation with <em>You\'re Next</em> (2011) and <em>The Guest</em> (2014). The freedom is evident. <em>Onslaught</em> opens with a montage of Abu Ghraib photographs, Nazi scientists, robot soldiers, and glitchy interference patterns, scored to harsh electronic music. It announces itself as a film with things on its mind, a film that intends to weaponize pulp for political ends.</p>
+<p>The opening sequence proper follows Celeste (Adria Arjona) shooting jack-o\'-lanterns in the desert with a sniper rifle. It is introduced with the confidence of a filmmaker who knows exactly what he is doing: establishing character, establishing genre, establishing the palette of slow-burn dread that will dominate the film\'s first half. Alongside it, in a parallel thread, we get Dr. Hans Kammler (Dan Stevens, nearly unrecognizable under grey hair and a clammy pallor), a mad Nazi scientist — the film is not subtle about its political through-lines — demonstrating his three super-soldier experiments to a shady government operative played by Michael Biehn.</p>
+
+<h2>Adria Arjona Is the Real Thing</h2>
+<p>Arjona has been rising steadily for years — <em>Hit Man</em>, <em>Andor</em>, <em>Morbius</em> — and <em>Onslaught</em> gives her the kind of lead action role she has been building toward. Celeste is not a complicated character on the page: a veteran with PTSD and shaky hands, estranged from her ex-husband, briefly saddled with her young daughter Daisy (Blake Kennedy) on the worst possible night. But Arjona layers in the physical intelligence of someone who has lived in a soldier\'s body — the precise way she has to press on a wound in her arm to steady her hands before lining up a shot, the way exhaustion sits in her posture before it ever appears in her expression.</p>
+<p>The chemistry between Arjona and Kennedy is genuine and warm in a way that makes the threat to the daughter feel real rather than mechanical. And when Celeste is finally unleashed with a chainsaw in the film\'s deliriously violent third act, Arjona makes every drop of blood feel earned. She is doing real work here in a film that occasionally forgets to meet her halfway.</p>
+<p>The supporting cast is a collection of beloved genre fixtures deployed with varying effectiveness. Reginald VelJohnson — beloved as the cop in <em>Die Hard</em> and <em>Family Matters</em> — plays Josiah, a Vietnam vet neighbor who becomes an unlikely ally, and Wingard weaponizes audiences\' nostalgia for him brilliantly: we root for Josiah before he opens his mouth. Eric Wareheim plays a bitter drunk cop neighbor and finds unexpected pathos in the role. Both are more affecting than the film probably deserves.</p>
+<p>Stevens, on the other hand, is given an extraordinary entrance — crawling across a carpet to lick a woman\'s stilettoed foot is one of the great villain introductions in recent memory — and then almost nothing to do. Rebecca Hall, playing his elegantly sinister wife, gets even less. Drew Starkey arrives very late in the second act as a mysteriously magnetic government operative, delivers what might be the film\'s single best scene (molly-fueled, morally unanchored, perfect), and then essentially evaporates from the plot.</p>
+
+<h2>Style Over Substance, and What That Costs</h2>
+<p>Wingard and cinematographer Oren Soffer have built a genuinely gorgeous film. The desert is shot in rich blues and burnt oranges that make it feel like another planet; the action sequences use the cramped geography of the trailer park with real spatial intelligence — a chase between Daisy and a super-soldier under the trailers is a masterclass in using architecture for maximum claustrophobic dread.</p>
+<p>The problem is that the first 50 minutes of the film spend a great deal of time counting down, via literal on-screen timers, to the moment of confrontation — and then deny Celeste her weapons cache when the soldiers arrive. This is a choice with internal logic (it forces more creative problem-solving), but it follows a film that spent its entire first act establishing Celeste\'s weapons cache as her defining character trait. When the film undercuts its own setup, it feels less like a subversion and more like self-sabotage.</p>
+<p>The super-soldiers themselves, while visually effective, are interchangeable. Wingard and Barrett\'s script gives each of them backstories — narrated in an early briefing scene — but none of those details ever surface in the action. They move and kill identically. The most interesting thing about them (the government atrocity that created them, the imperial boomerang politics Wingard is gesturing toward) is announced and then abandoned in favor of pure viscera.</p>
+
+<h2>A Film That Promises a Great One</h2>
+<p><em>Onslaught</em> is, moment to moment, a pretty good time. The action is gross and gleeful, the fake blood is the right shade of Kill Bill red, and Adria Arjona with a chainsaw is a bona fide action image. The John Carpenter homage is loving and knowledgeable — the electronic score by Matthew Pusti is genuine rather than pastiche, the steadicam and zoom-ins feel organic rather than affectation.</p>
+<p>But the film keeps gesturing at ideas it cannot be bothered to develop, introducing characters it cannot be bothered to use, and setting up dynamics it cannot be bothered to resolve. The ending arrives somewhat abruptly, and the post-credits sequence is required to explain what actually happened. For a film that spends an hour building anticipation, the payoff is curious and partial rather than satisfying and complete.</p>
+<p>What Wingard has made is a strong first act and a great third act with an underwritten middle. That may be enough for the grindhouse faithful. For everyone else, <em>Onslaught</em> will remain a film of tremendous promise and frustrating execution — proof that Wingard still has the style, and a reminder that style alone cannot carry 92 minutes.</p>
+<ul>
+  <li>✅ Adria Arjona is excellent and long overdue for a vehicle of this scale</li>
+  <li>✅ The third-act action sequences are viscerally effective and well-staged</li>
+  <li>✅ Gorgeous cinematography with a strong sense of place and light</li>
+  <li>✅ Reginald VelJohnson and Eric Wareheim are unexpectedly moving in small roles</li>
+  <li>❌ Dan Stevens and Rebecca Hall are criminally wasted in roles the script forgets about</li>
+  <li>❌ An hour of slow-burn setup pays off too partially in the final act</li>
+  <li>❌ The political subtext about military atrocity is announced but never developed</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
