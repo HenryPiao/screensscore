@@ -1845,6 +1845,91 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'the-gentlemen-tv-2026-review',
+    title: 'The Gentlemen Season 2 Review: Theo James Steps Into His Michael Corleone Era',
+    movieTitle: 'The Gentlemen',
+    tmdbId: 236235,
+    mediaType: 'tv',
+    rating: 8.0,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Guy Ritchie\'s Netflix crime series returns darker, bloodier, and more assured than its debut season, charting Eddie Horniman\'s full transformation from reluctant aristocratic criminal to something far more dangerous. If you loved Season 1, Season 2 is exactly the sequel you wanted — with one significant caveat.",
+    publishedAt: '2026-09-08',
+    tags: ['Crime', 'Action', 'Comedy', 'Netflix', '2026'],
+    content: `
+<p class="lead">When we last left Edward "Eddie" Horniman, 13th Duke of Halstead — played with coiled, impeccably tailored intensity by Theo James — he had just about found his footing in the underground cannabis empire operating beneath his 15,000-acre estate. He was surprised by what he was capable of. So were we. In Season 2 of <strong>The Gentlemen</strong>, that surprise is gone, replaced by something darker, more purposeful, and considerably more unsettling: the full emergence of the crime boss Eddie was always going to become.</p>
+
+<h2>Theo James\'s Michael Corleone Moment</h2>
+<p>Season 2 opens with Eddie face-down in a muddy field, half-dead and dragging himself forward. The show then dials back three months to show us how he got there, and what begins as a familiar expansion-of-empire story — Eddie and his business partner Susie Glass (Kaya Scodelario) want to take their operation to Italy and the legitimate cannabis market; Susie\'s imprisoned father Bobby Glass (Ray Winstone) wants neither — evolves into something richer and more troubling: a Shakespearean portrait of ambition consuming a man in real time.</p>
+<p>The pivot point arrives in Episode 4, "The Bigger Picture," when Eddie, unable any longer to mask his frustration behind aristocratic composure, simply explodes. It is one of the best scenes Theo James has ever filmed — a controlled detonation that changes the temperature of everything that follows. For the rest of the season, characters around him — Susie, Bobby, his mother Lady Sabrina (Joely Richardson), his spiritual adviser in criminality Stanley Johnston (Giancarlo Esposito, deployed with precision) — look at Eddie differently. So do we. This is the show\'s Corleone moment, the turn from which there is no return.</p>
+<p>Esposito\'s Stanley Johnston, a billionaire who appears periodically to deliver enigmatic counsel about power and God, is the season\'s most intriguing addition. Every scene he shares with James operates at a frequency the rest of the show doesn\'t quite match — a slower, more genuinely dangerous register that suggests where Eddie is headed.</p>
+
+<h2>Ritchie\'s Stylistic Arsenal, Fully Deployed</h2>
+<p>Guy Ritchie\'s signature grammar — jokey onscreen text, snarky voiceover narrations, slow-motion entrance shots, dialogue that moves like machine-gun fire — is intact and, if anything, more confident than Season 1. The formal playfulness (a heist for a rare falcon that turns on 26 parliamentary votes; a church confession played for absurdist comedy; a climactic shootout staged with the gleeful excess of a Jacobean bloodbath) sits in productive tension with the season\'s increasingly sombre emotional undertow.</p>
+<p>The production design continues to be extraordinary — Halstead Manor\'s particular blend of aristocratic decay and criminal infrastructure remains one of television\'s most distinctive environments — and new director Nick Rowland contributes a penultimate episode of such relentless kinetic energy that it stands among the best single episodes the show has produced.</p>
+<p>New arrivals also strengthen the ensemble. Hugh Bonneville as Lord Hawthorne — a bouffant-haired, easily corrupted parliamentary noble — is Downton Abbey by way of Guy Ritchie, and is worth the price of admission alone. Vinnie Jones, as Eddie\'s loyal gamekeeper Geoff, is given a surprisingly touching subplot involving a secret daughter that the season handles with genuine delicacy. Maya Jama and Chris Eubank Jr. appear in limited but memorable capacities, acquitting themselves far better than celebrity cameo precedent might suggest.</p>
+
+<h2>Where Season 2 Stumbles</h2>
+<p>The season\'s most significant failing is its treatment of the Eddie-Susie relationship. One of Season 1\'s great pleasures was the charged, unresolved tension between James and Scodelario — two people forced into proximity, discovering an attraction neither can fully acknowledge while doing criminal violence together. Season 2 keeps them apart for long stretches of the middle run, and when it reunites them it often does so in the context of a new romantic subplot for Eddie (with Benedetta Porcaroli\'s Italian mob contact Bella) that is rushed and dramatically inert. Whenever James and Scodelario actually share the screen together, the show immediately snaps into a higher gear; the decision to limit that dynamic is baffling.</p>
+<p>Daniel Ings, the scene-stealing Freddy of Season 1 — cocaine-addled, bitter, genuinely funny — is dispatched to rehab and largely absent. His energy, which did much to leaven the first season\'s darker passages, is missed. The Italian mob expansion, while bringing in interesting new faces, occasionally tips the show\'s delicate tonal balance toward standard crime-procedural territory.</p>
+
+<h2>The Verdict</h2>
+<p><strong>The Gentlemen</strong> Season 2 does exactly what a great sequel should: it deepens the characters, raises the stakes, and moves the story into genuinely new and interesting territory while remaining unambiguously the same show. Theo James\'s transformation arc is one of the best things on Netflix this year. The finale — bloody, absurd, setting up a third season with evident relish — will have you immediately checking whether Season 3 has been confirmed. (It has.) Whatever Eddie becomes next, Ritchie has made it clear the story has only just begun.</p>
+<ul>
+  <li>✅ Theo James delivers a career-best performance as Eddie\'s corruption accelerates</li>
+  <li>✅ Giancarlo Esposito adds genuine menace and weight to the ensemble</li>
+  <li>✅ Hugh Bonneville\'s guest performance is a comedic highlight</li>
+  <li>✅ Ritchie\'s stylistic craft is sharper and more controlled than ever</li>
+  <li>✅ Vinnie Jones\'\\\'s surprisingly tender subplot earns its place</li>
+  <li>❌ Eddie and Susie are kept apart too long — their chemistry is the show\'s best asset</li>
+  <li>❌ Daniel Ings\'s Freddy is criminally sidelined</li>
+  <li>❌ The Eddie-Bella romance is rushed and unconvincing</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'fauda-tv-2026-review',
+    title: 'Fauda Season 5 Review: The Most Necessary — and Most Difficult — Chapter Yet',
+    movieTitle: 'Fauda',
+    tmdbId: 69557,
+    mediaType: 'tv',
+    rating: 7.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "After scrapping their original scripts following October 7, creators Lior Raz and Avi Issacharoff rewrote Season 5 around the event that changed Israel forever — and the result is the show\'s most emotionally raw chapter, even if it\'s also its most uneven. A difficult but important watch.",
+    publishedAt: '2026-09-08',
+    tags: ['Drama', 'Thriller', 'Netflix', 'TV Series', '2026'],
+    content: `
+<p class="lead">There was a version of <strong>Fauda</strong> Season 5 that didn\'t exist. The original scripts were completed. Production had begun. Then October 7, 2023 happened, and everything was thrown away. Creators Lior Raz and Avi Issacharoff, both of whom have personal connections to that day\'s events, sat down and wrote a different season entirely — one that confronts the attack directly, in graphic detail, and traces its psychological aftermath across 11 episodes. The result is the most personal and most ambitious chapter of the series. It is also, inevitably, the most contested.</p>
+
+<h2>Starting Over: A Season Born From Trauma</h2>
+<p>The season opens two years after October 7. Doron Kavillio (Lior Raz) is a man held together by habit and routine. He has lost eight hours from his memory — the eight hours he spent in the Gaza border region on the day of the attack — and the gap in his consciousness functions as both a psychological wound and a dramatic device. What happened in those hours? Why can\'t he remember? The only sensory trace that remains is, as he describes it, "the distinct smell of flesh." Raz, who has played Doron across five seasons and over a decade, has never been asked to do this kind of work before — the interior damage rather than the exterior action — and he rises to it with a subdued intensity that transforms the character.</p>
+<p>While Doron struggles with PTSD, his longtime teammate Eli (the superb Yaakov Zada-Daniel, perhaps the season\'s MVP) has lost his wife and children on October 7. Eli and a new character — Salem (Bian Anteer), a Bedouin tracker whose son was murdered that day — have gone off-grid to Marseille on an unsanctioned private revenge mission: find the Hamas operative responsible for their families\' deaths and kill him. When Doron is dispatched by Captain Ayub to stop them and bring them back, he doesn\'t abandon men in the field — least of all men whose grief he understands in his body, not just his mind. He and Steve (Doron Ben-David) follow them to France.</p>
+<p>French actress Mélanie Laurent joins the cast as Anne, a French contact in Marseille whose relationship with Doron provides the season\'s most unexpected emotional texture. Laurent brings an outsider\'s perspective — someone who knew Doron before whatever he became — and her presence gives the show breathing room from its own intensity. Hakim Djaziri, as the Hamas operative Said Al-Khatibi, is given more complexity than the show\'s antagonists sometimes receive.</p>
+
+<h2>Two Episodes on October 7</h2>
+<p>Episodes 6 and 7 depict October 7 directly. This is where Issacharoff\'s statement that "my hands were shaking" while writing is entirely credible. The sequences are graphic, immediate, and deliberately overwhelming — the creators\' intent is not subtlety but testimony. For Israeli audiences, who have lived with the weight of that day for two years, these episodes have reportedly been almost unbearable to watch. For international audiences, they constitute a portrait of the attack from the perspective of those inside it.</p>
+<p>These are also the season\'s most divisive sequences. Earlier Israeli criticism raised the question of whether <em>Fauda</em>\'s move away from its original structural complexity — the show was once notable for its willingness to portray Palestinian characters with depth — represents a narrowing of perspective that may limit its global resonance. The season is, by its creators\' own admission, explicitly Israeli in its grief; it does not pretend to the even-handedness that characterized its early seasons. Whether that\'s honest or limiting depends, in part, on who you are and where you\'re watching from.</p>
+
+<h2>A Show Changed by History</h2>
+<p>The practical costs of the real world extend into the production itself. Idan Amedi, who plays the beloved Sagi and who was seriously wounded while serving in Gaza during the war, appears in only one episode. His absence is felt throughout. The first episode is dedicated to Matan Meir, a veteran crew member killed in action in northern Gaza. These are not footnotes — they are the frame through which the entire season must be understood.</p>
+<p>As a piece of craft, Season 5 is notably different from its predecessors: less kinetic, slower-burning, more introspective. Director Omri Givon uses Marseille\'s cramped urban geography to create a sense of operatives operating outside their familiar landscape — disoriented, exposed, working from feeling rather than training. The cinematography, shot partly in Budapest, is grittier and more subdued than the sun-bleached Israeli landscapes of earlier seasons.</p>
+
+<h2>The Verdict</h2>
+<p><strong>Fauda</strong> Season 5 is not entertainment in the uncomplicated sense of the word. It is a work of testimony — imperfect, emotionally exhausting, and at times genuinely difficult to watch — made by people who felt they had no choice but to make it. If you have watched the previous four seasons, you owe it to the characters and to yourself to see where Doron, Eli, and Steve have arrived after the worst thing that ever happened to them. If you haven\'t watched <em>Fauda</em> before, this is not where to begin. But for those who have followed this show from the beginning: this is the season it was always building toward, even if no one wanted it to arrive this way.</p>
+<ul>
+  <li>✅ Yaakov Zada-Daniel\'s performance as grief-destroyed Eli is the season\'s emotional core</li>
+  <li>✅ Mélanie Laurent brings unexpected warmth and a different register to the ensemble</li>
+  <li>✅ Lior Raz does the deepest character work of his time as Doron</li>
+  <li>✅ The Marseille setting creates effective displacement and disorientation</li>
+  <li>✅ A season of genuine moral and emotional ambition</li>
+  <li>❌ The loss of Idan Amedi\'s Sagi leaves a significant hole in the ensemble</li>
+  <li>❌ Less morally complex than the show\'s earlier seasons; the Palestinian perspective has receded</li>
+  <li>❌ The October 7 episodes are powerful but will be unwatchable for some audiences</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
