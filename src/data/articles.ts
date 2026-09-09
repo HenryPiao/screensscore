@@ -1930,6 +1930,87 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'ted-lasso-tv-2020-review',
+    title: 'Ted Lasso Review: The Most Optimistic Show on Television Is Also Its Most Surprising',
+    movieTitle: 'Ted Lasso',
+    tmdbId: 97546,
+    mediaType: 'tv',
+    rating: 8.5,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Ted Lasso weaponizes radical kindness with the precision of a penalty kick, and Jason Sudeikis delivers one of television's defining performances. With Season 4 already earning perfect scores from early viewers, there has never been a better time to start from the beginning.",
+    publishedAt: '2026-09-09',
+    tags: ['Comedy', 'Drama', 'TV Series', '2020'],
+    content: `
+<p class="lead">When Apple TV+ dropped a show about an American college football coach hired to manage an English Premier League club despite knowing nothing about soccer, few predicted it would become the feel-good television phenomenon of the decade. Six years and four seasons later, <em>Ted Lasso</em> stands as one of the most emotionally intelligent, consistently funny, and quietly profound shows in recent memory.</p>
+
+<h2>The Performance That Rewrote the Rulebook</h2>
+<p>Jason Sudeikis does not simply play Ted Lasso — he inhabits him so completely that it becomes impossible to imagine the character existing without him. What could have been a one-note "bumbling American abroad" joke is instead a layered portrait of a man who uses optimism as a philosophy, a coping mechanism, and a genuine gift to everyone around him. The genius of Sudeikis's work is that Ted's relentless positivity never reads as naïveté: we understand, especially as the series deepens, that it is a choice — a hard-won, sometimes costly choice — made in the face of real pain.</p>
+<p>The supporting cast matches him beat for beat. Brett Goldstein's Roy Kent — gruff, sweary, secretly tender — is the show's emotional id. Hannah Waddingham brings genuine gravitas to Rebecca Welton, transforming what starts as an antagonist role into the series' most complex arc. And Juno Temple as Keeley Jones proves that bubbly can coexist with fierce self-awareness. Together, they form an ensemble chemistry that is almost embarrassingly rich.</p>
+
+<h2>Where the Writing Earns Its Heart</h2>
+<p>Created by Bill Lawrence, Jason Sudeikis, Joe Kelly, and Brendan Hunt, <em>Ted Lasso</em> makes the structural decision to never reduce its characters to types. The club's ownership tensions, the locker room politics, Nate Shelley's thorny arc from kit man to turncoat — all of it is developed with the patience of long-form drama rather than the shorthand of a half-hour comedy. Season 2's introduction of team therapist Dr. Sharon Fieldstone (Sarah Niles) opens a conversation about men and mental health that the show handles with a confidence rare in the genre.</p>
+<p>Season 4, which resets the premise by moving Ted to coach a women's second-division side, shows the creators haven't run out of ideas. Early episodes suggest the new season is the sharpest work the show has done since its celebrated debut — a claim the near-perfect viewer scores are beginning to bear out.</p>
+
+<h2>Where It Occasionally Stumbles</h2>
+<p>Season 3 was the show's most ambitious and most uneven run, sprawling across 12 episodes when 8 might have served the story better. A handful of subplots — particularly some of Keeley's PR agency material — felt like wheel-spinning. And there is a version of the criticism that Ted's earnestness occasionally tips into wish-fulfillment, smoothing conflicts that real workplaces would never resolve so cleanly. These are minor complaints against a major achievement, but they are worth noting for viewers expecting the tonal consistency of Season 1.</p>
+
+<h2>The Verdict</h2>
+<p>In an era of prestige television that often mistakes bleakness for depth, <em>Ted Lasso</em> makes the braver artistic choice: it insists on hope. Not cheap hope, not unearned hope, but the kind that costs something and grows anyway. Six years in, with Season 4 delivering on every promise, this is one of the defining TV experiences of the 2020s — essential viewing for anyone who has ever been told that being kind is a sign of weakness.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Jason Sudeikis delivers one of television's great performances across all four seasons</li>
+  <li>✅ An ensemble cast that grows richer and more surprising every season</li>
+  <li>✅ Handles grief, anxiety, and male vulnerability with rare intelligence</li>
+  <li>✅ Season 4 resets the premise boldly while honoring what came before</li>
+  <li>❌ Season 3 suffers from pacing issues and occasional subplot bloat</li>
+  <li>❌ The show's optimism can occasionally shade into wish-fulfillment</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'bleach-tv-2004-review',
+    title: 'Bleach Review: The Thousand-Year Blood War Proves This Anime Legend Was Worth the Wait',
+    movieTitle: 'Bleach',
+    tmdbId: 30984,
+    mediaType: 'tv',
+    rating: 8.0,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Tite Kubo's soul-reaping epic may have had a turbulent run, but the Thousand-Year Blood War arc — currently airing its climactic final episodes — confirms that Bleach belongs in the same conversation as the all-time greats of shonen anime. Start from episode one; the destination is worth every step.",
+    publishedAt: '2026-09-09',
+    tags: ['Animation', 'Action', 'Fantasy', 'TV Series', '2004'],
+    content: `
+<p class="lead">Twenty-two years after Ichigo Kurosaki first grabbed a zanpakutō he had no business wielding, <em>Bleach</em> is delivering its most spectacular television run yet. The Thousand-Year Blood War arc, currently airing its final episodes on TV Tokyo and streaming internationally, is a masterclass in how to close a generational franchise — and it has retroactively elevated everything that came before it.</p>
+
+<h2>The Animation That Redefined the Franchise</h2>
+<p>When Pierrot announced the return of <em>Bleach</em> in 2022 to adapt the manga's final arc, the response was cautious optimism at best. The original run (2004–2012) had been marred by notorious filler arcs that diluted the tension of Kubo's source material. What studio Pierrot delivered instead was a revelation: animation so kinetic and compositionally bold that individual episodes have been dissected frame by frame by fans online. The fight choreography across the Thousand-Year Blood War arc — particularly Ichigo's confrontations with the Quincy army and the escalating face-offs with Yhwach — represents some of the finest action animation in television history.</p>
+<p>The sound design deserves equal credit. Shiro Sagisu's score, always a strength of the franchise, reaches operatic heights in the climactic battles, and the opening theme sequences have become events in themselves. This is a production that understood its moment and matched it.</p>
+
+<h2>Kubo's Mythology at Its Most Ambitious</h2>
+<p>The Thousand-Year Blood War arc forces Tite Kubo's world-building to reveal its full architecture. The Soul Society, Hueco Mundo, and the human world are recontextualized through the Quincy history, and revelations about Ichigo's lineage — drip-fed across decades of the manga — finally cohere into something genuinely surprising. For viewers who endured the filler-heavy middle chapters of the original anime, the payoff is considerable.</p>
+<p>Ichigo himself remains the franchise's most reliable anchor: not the most complex shonen protagonist on paper, but defined by a quality — the refusal to abandon people who need him — that the final arc tests to its breaking point.</p>
+
+<h2>The Weight of the Original Run</h2>
+<p>Recommending <em>Bleach</em> in 2026 requires honesty about the commitment involved. The original 366-episode run includes roughly 100 episodes of filler, and while dedicated community guides exist for skipping the non-canonical arcs, even the essential material demands patience. The Soul Society arc (roughly episodes 21–63) is where the series finds its identity; getting there requires sitting through an introductory stretch that can feel slow by contemporary standards. The investment pays off — but it is a real investment.</p>
+
+<h2>The Verdict</h2>
+<p><em>Bleach</em> is one of anime's great uneven masterpieces: a franchise that squandered goodwill with years of filler, then reclaimed its legacy with one of the medium's most technically accomplished final acts. The Thousand-Year Blood War arc, currently nearing its conclusion, is must-see anime television — and the 20 years of mythology behind it make every moment hit harder. If you have ever been curious about the "Big Three" of shonen anime and want to start with the one that's having its best moment right now, this is the one.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Thousand-Year Blood War features some of the best animation in shonen anime history</li>
+  <li>✅ Shiro Sagisu's score is a consistent highlight across every arc</li>
+  <li>✅ Kubo's mythology rewards patient viewers with genuinely earned revelations</li>
+  <li>✅ The final arc is currently delivering a landmark conclusion in real time</li>
+  <li>❌ The original run contains nearly 100 episodes of non-canonical filler</li>
+  <li>❌ Ichigo's supporting cast is large enough that some characters go episodes without meaningful screen time</li>
+  <li>❌ The early episodes require patience before the series finds its footing</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
