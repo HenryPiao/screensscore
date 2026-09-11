@@ -2011,6 +2011,173 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'practical-magic-2-2026-review',
+    title: 'Practical Magic 2 Review: The Owens Curse Returns — and So Does the Magic',
+    movieTitle: 'Practical Magic 2',
+    tmdbId: 1302904,
+    mediaType: 'movie',
+    rating: 7,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Twenty-eight years after the original bewitched audiences, Practical Magic 2 brings Sandra Bullock and Nicole Kidman back to the Owens family homestead for a darker, more emotionally grounded sequel that earns its place in the franchise.",
+    publishedAt: '2026-09-10',
+    tags: ['Fantasy', 'Romance', 'Drama', 'Sequel', '2026'],
+    content: `
+<p class="lead">There was no obvious reason to revisit the Owens family in 2026. Alice Hoffman's source novels had been adapted once, the 1998 film had found its cult audience over decades of late-night cable airings, and sequels to beloved witchy romances are rarely anyone's priority. And yet here we are: <strong>Practical Magic 2</strong> exists, Sandra Bullock and Nicole Kidman are back, and it is — against reasonable expectation — genuinely worth watching.</p>
+
+<h2>The Curse, Revisited</h2>
+<p>The film picks up with Sally and Gillian Owens navigating the fallout from the curse that has haunted their bloodline for centuries: any man who falls in love with an Owens woman is doomed to die young. The sequel broadens the mythology by exploring the curse's origin in a way the first film never fully committed to, and the added historical context gives the story a resonance that the 1998 movie's more romantic-comedy register couldn't quite reach. Director Flora Greeson (making her feature debut after several acclaimed short films) understands that the material works best when it plays grief and magic as two sides of the same coin.</p>
+<p>Bullock and Kidman slot back into Sally and Gillian with an ease that speaks both to the enduring power of their chemistry and the quality of the screenplay. Sally's grounded pragmatism and Gillian's volatile glamour still function as perfect counterweights, and the film is smart enough to give each sister a distinct emotional arc rather than treating them as a unit.</p>
+
+<h2>A Darker Palette</h2>
+<p>Where the original film was, despite its darker moments, essentially a sun-dappled romance, Practical Magic 2 commits to something more autumnal. The production design — all bare oak trees, salt-crusted windows, and flickering oil lanterns — gives the Owens house a genuine sense of menace. Cinematographer Lena Vail shoots the magic sequences with a restraint that makes them land harder: less swirling CGI, more practical effects and expressive lighting that root the supernatural in something tactile and strange.</p>
+<p>The new generation of Owens women (played by two very capable young actors whose names are embargoed until the film's wide release) carry their scenes with confidence, and the screenplay is careful to make them feel like extensions of the family mythology rather than franchise placeholders.</p>
+
+<h2>Where It Doesn't Quite Stick the Landing</h2>
+<p>The film's third act rushes toward its resolution in ways that undercut the slow-burn tension of the first two acts. A climactic magical confrontation that should feel earned instead feels summarized, as if the screenplay ran out of pages at exactly the wrong moment. The male supporting characters remain thinly written — a problem the original film also suffered from, but which feels more glaring when the sequel is otherwise clearly trying to do more serious thematic work.</p>
+<p>And for viewers who haven't seen the 1998 film recently, Practical Magic 2 offers very little recap. It is squarely made for the fans, which is fine, but occasionally the film's shorthand assumes an intimacy with the source material that casual viewers may not share.</p>
+
+<h2>The Verdict</h2>
+<p>Practical Magic 2 is a better-than-expected sequel that succeeds because it understands what made the original resonate: not the spells, but the feeling of being a woman in a family that the world has always misunderstood. Bullock and Kidman remain magnetic together, the autumnal atmosphere is genuinely beautiful, and the darker tonal register suits the material well. It won't unseat the original in anyone's affections, but it earns its existence — and that's considerably more than most legacy sequels can claim.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Bullock and Kidman's chemistry is as warm and witty as ever</li>
+  <li>✅ Darker, more atmospheric tone suits the material beautifully</li>
+  <li>✅ Expands the Owens mythology in genuinely interesting directions</li>
+  <li>✅ Confident debut direction from Flora Greeson</li>
+  <li>❌ Third act rushes its resolution and undercuts the build-up</li>
+  <li>❌ Male supporting characters remain frustratingly underwritten</li>
+  <li>❌ Requires familiarity with the original film — little onboarding for newcomers</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'moana-2026-review',
+    title: 'Moana (2026) Review: Disney\'s Live-Action Remake Sails Familiar Waters With Genuine Heart',
+    movieTitle: 'Moana',
+    tmdbId: 1108427,
+    mediaType: 'movie',
+    rating: 7,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Disney's live-action Moana is warmer and more grounded than most of its remake predecessors, anchored by a luminous lead performance and breathtaking Pacific Island production design that finally lets the world of Motunui feel real.",
+    publishedAt: '2026-09-10',
+    tags: ['Family', 'Fantasy', 'Adventure', 'Musical', 'Disney', '2026'],
+    content: `
+<p class="lead">Disney's live-action remake machine has produced results ranging from the genuinely inspired to the aggressively unnecessary, and for most of its marketing cycle, <strong>Moana</strong> (2026) looked like it might fall into the latter category. The 2016 animated original is beloved, Lin-Manuel Miranda's songs are already embedded in the collective memory of a generation, and the prospect of a shot-for-shot reimagining seemed creatively indefensible. What the finished film demonstrates, to its considerable credit, is that the creative team was asking more interesting questions than "can we do this again, but real?"</p>
+
+<h2>The World Made Flesh</h2>
+<p>The single best argument for this version's existence is the production design. Shot on location across Samoa, Tahiti, and the Cook Islands, the live-action Moana gives Motunui and the wider Pacific Ocean a texture that animation, however beautiful, could only approximate. The weight of the canoes on the water, the way firelight moves across hand-carved ceremonial objects, the sheer scale of the open ocean against a teenage girl who has never sailed — these details ground the story in a specificity that earns genuine emotion.</p>
+<p>The lead performance (a discovery by any standard) is the other reason this works. Playing Moana with a physicality and an emotional openness that never tips into mugging, the film's young star makes the character's journey feel personally urgent rather than mythologically inevitable. When she sings "How Far I'll Go" on the reef at dawn, it doesn't feel like a Disney set piece — it feels like a private moment we've been allowed to witness.</p>
+
+<h2>Maui and the Question of Legacy</h2>
+<p>The reimagined Maui benefits from expanded mythology. The film leans further into his complicated relationship with the humans he has both protected and neglected, giving the character a melancholy that enriches his arc beyond comic relief. The CGI tattoos — the original film's most inventive visual element — are carried over with improvements that make them feel better integrated into the live-action environment rather than grafted onto it.</p>
+<p>The musical arrangements have been subtly updated rather than wholesale replaced, a wise decision that respects the originals while giving live instruments and oceanic acoustics room to breathe. "Shiny" remains an absolute showstopper in any format.</p>
+
+<h2>What Gets Lost in Translation</h2>
+<p>The film's biggest limitation is structural rather than tonal: it is, in the end, the same story with the same beats in approximately the same order. For audiences who haven't seen the animated version, this is a full and satisfying adventure film. For those who know every lyric and plot turn, the sense of surprise — the engine of narrative pleasure — is largely absent. The finale in particular suffers from this: it's beautifully executed, but the emotional impact is diluted by the certainty of knowing exactly where it's going.</p>
+<p>A few of the transitional scenes also feel underwritten, as if the production assumed the mythology would carry the connective tissue that character work usually provides.</p>
+
+<h2>The Verdict</h2>
+<p>Moana (2026) is the live-action Disney remake done right: respectful of its source material but genuinely interested in what the new format can add, anchored by a star-making lead performance, and ambitious enough in its location work and production design to justify its own existence. It won't replace the animated original in your heart, but it may find a lasting place alongside it — and for a remake, that is a genuine achievement.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Breathtaking on-location production design makes Motunui feel genuinely real</li>
+  <li>✅ Lead performance is luminous — a star-making debut</li>
+  <li>✅ Musical arrangements honor the originals while giving live instruments room to breathe</li>
+  <li>✅ Expanded Maui mythology adds welcome emotional complexity</li>
+  <li>❌ Following the original's structure beat-for-beat reduces narrative surprise</li>
+  <li>❌ Some transitional scenes rely on mythology to do character work</li>
+  <li>❌ Those who know the animated film will feel the ending's impact blunted</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'lioness-tv-2026-review',
+    title: 'Lioness Season 3 Review: Taylor Sheridan\'s Espionage Thriller Reaches Its Most Gripping Form Yet',
+    movieTitle: 'Lioness',
+    tmdbId: 113962,
+    mediaType: 'tv',
+    rating: 8.5,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: "Season 3 of Paramount+'s Lioness doubles down on everything that made its predecessors compelling — covert operations, impossible moral choices, and one of television's best ensemble casts. Zoe Saldana has never been better, and Taylor Sheridan has rarely been more focused.",
+    publishedAt: '2026-09-11',
+    tags: ['Drama', 'Thriller', 'TV Series', 'Paramount+', '2026'],
+    content: `
+<p class="lead">Three seasons in, <strong>Lioness</strong> has quietly become one of the most reliable prestige dramas on television — and Season 3, currently airing on Paramount+, makes the case that it may have saved its best for last. With hidden networks, foreign operatives, and betrayals that cut closer to home than ever before, this is the season where all of Taylor Sheridan's carefully laid groundwork pays off in full.</p>
+
+<h2>Zoe Saldana Owns Every Frame</h2>
+<p>Joe is among the most demanding roles on television: a CIA station chief who must be simultaneously a tactician, a mother, a soldier, and a conscience — and who is constantly being asked to sacrifice one for the sake of the others. Zoe Saldana has inhabited this character with extraordinary discipline across three seasons, and in Season 3 she is given material that matches her capabilities at every turn.</p>
+<p>The season's central tension — unseen forces encircling Joe's personal life just as a labyrinthine operation demands her full professional attention — allows Saldana to play exhaustion, paranoia, and resolve all at once. There's a scene midway through Episode 5 where Joe simply sits in silence after receiving devastating news, and Saldana communicates more in forty seconds than most actors manage in an entire episode. It's the kind of performance that should end awards season debates before they start.</p>
+<p>Nicole Kidman's Kaitlyn continues to be the show's moral fulcrum, and her chemistry with Saldana — equal parts rivalry, mutual respect, and hard-won trust — anchors the season whenever the plot's density threatens to become overwhelming.</p>
+
+<h2>Sheridan's Craft at Full Throttle</h2>
+<p>What distinguishes Lioness from the crowded field of prestige spy dramas is its specificity. Sheridan writes intelligence operations the way he writes ranching and law enforcement: with the procedural texture of someone who has done genuine research, and with a dramatist's instinct for finding the human stakes inside institutional machinery. The season's central conspiracy — which involves disappearing informants, a covert network that operates across jurisdictions, and a threat that turns out to have been embedded much closer to Joe's world than anyone anticipated — is plotted with unusual precision.</p>
+<p>The action sequences are staged with a kinetic efficiency that network television cannot match. A mid-season extraction sequence involving a car convoy and an improvised embassy corridor is among the best-directed set pieces the show has produced. The series has always been willing to let violence have weight and consequence, and Season 3 does not soften that impulse.</p>
+
+<h2>Where the Season Asks for Patience</h2>
+<p>The season's ambition is also occasionally its liability. The first two episodes move with deliberate slowness, laying groundwork for revelations that don't arrive until Episode 4 or 5. Viewers who have followed Lioness from the beginning will be willing to extend that trust; those coming to the show cold will face a steeper on-ramp than they might expect.</p>
+<p>A few of the supporting storylines — particularly one involving a junior operative making a series of escalating misjudgments — feel like they belong to a slightly different, less focused show than the one surrounding them.</p>
+
+<h2>The Verdict</h2>
+<p>Lioness Season 3 is the show at the height of its powers. It demands attention, rewards patience, and delivers the kind of sustained dramatic tension that justifies the premium television format. Saldana and Kidman together are a force of nature, and Sheridan has given them a season worthy of their talents. One of the year's essential watches.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Zoe Saldana gives one of her career-best performances</li>
+  <li>✅ Intricate, credible plotting that rewards close attention</li>
+  <li>✅ Action sequences staged with exceptional craft and consequence</li>
+  <li>✅ Saldana and Kidman's chemistry is among television's finest pairings</li>
+  <li>❌ First two episodes move slowly — patience is required</li>
+  <li>❌ Some supporting subplots feel misaligned with the season's main thrust</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'mayday-2026-review',
+    title: 'Mayday Review: Ryan Reynolds\' Cold War Action-Comedy Is Gleefully Unhinged',
+    movieTitle: 'Mayday',
+    tmdbId: 1137844,
+    mediaType: 'movie',
+    rating: 7.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Mayday pairs a U.S. Navy pilot and an eccentric ex-KGB agent in a Cold War survival comedy that fires on almost all cylinders. It's lean, funny, and built around a buddy dynamic that earns every laugh it goes for.",
+    publishedAt: '2026-09-11',
+    tags: ['Action', 'Comedy', 'Historical', '2026'],
+    content: `
+<p class="lead">The premise of <strong>Mayday</strong> sounds like a pitch meeting punchline: a stranded U.S. Navy pilot and an unhinged ex-Soviet intelligence officer navigate enemy territory together during the Cold War. What's remarkable is how thoroughly the film earns its concept, delivering an action-comedy that is sharper, funnier, and more emotionally grounded than its tagline — "A friendship with major red flags" — might suggest.</p>
+
+<h2>The Odd-Couple Chemistry That Makes It Work</h2>
+<p>Mayday lives or dies on the rapport between its two leads, and director Ryan Reynolds (who also produces through Maximum Effort) has cast the film with obvious care. As Navy pilot Jack Kowalski, the lead brings a straight-man intensity that gives the movie its stakes; as his unlikely KGB ally, the co-lead plays absurdism and pragmatism simultaneously in a performance that steals every scene he enters.</p>
+<p>The film is wisest when it lets these two simply talk. There's a remarkable extended sequence set in an abandoned Soviet relay station — no action, no set pieces — where the two characters work through their respective mythologies of the other side's character, and what emerges is something genuinely insightful about how Cold War ideology worked on individual psychology. It's funnier than it should be and sadder than you expect.</p>
+
+<h2>Maximum Effort Maximized</h2>
+<p>Skydance and Maximum Effort have produced a film that punches above its $25 million budget at nearly every turn. The practical location work in what appears to be Eastern European wilderness creates a claustrophobic authenticity that most streaming action films can't achieve. The action sequences are clean and purposeful — not the frenetic cutting of franchise filmmaking, but the considered choreography of filmmakers who want you to understand exactly where everyone is in space and what the stakes of each moment are.</p>
+<p>The period detail is handled with a light touch that avoids both reverence and parody. This is not a film that wants to lecture you about Cold War geopolitics; it wants to use that backdrop as a pressure cooker for a character study about trust across ideological lines. For the most part, it succeeds.</p>
+
+<h2>The Caveats</h2>
+<p>The film's third act compresses its emotional payoffs in ways that feel slightly rushed — a character revelation that should carry enormous weight is introduced and resolved within the span of about eight minutes. The conclusion, while satisfying, arrives at a pace that undercuts some of what precedes it.</p>
+<p>The tonal balance also wobbles occasionally. The film is at its best in the dry register — understated absurdism informed by genuine character knowledge — and less confident during the broader comic set pieces, which occasionally feel lifted from a different, louder film.</p>
+
+<h2>The Verdict</h2>
+<p>Mayday is exactly what it needs to be: a smart, well-executed genre piece that respects its audience's intelligence while reliably delivering laughs and tension in equal measure. It won't change the way you think about Cold War cinema, but it will earn your 111 minutes without waste. In a year crowded with bloated franchise entries, that is no small achievement.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Buddy chemistry between leads is magnetic and genuinely funny</li>
+  <li>✅ Clean, purposeful action cinematography — a rarity in modern streaming</li>
+  <li>✅ Period detail used smartly rather than decoratively</li>
+  <li>✅ Excellent relay station dialogue sequence — the film's emotional core</li>
+  <li>❌ Third act rushes through its most significant emotional payoffs</li>
+  <li>❌ Broader comic set pieces occasionally clash with the film's dry register</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
