@@ -2178,6 +2178,120 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'runner-2026-review',
+    title: 'Runner Review: Alan Ritchson and Owen Wilson Power a Lean, Enjoyable Action Thriller',
+    movieTitle: 'Runner',
+    tmdbId: 1377237,
+    mediaType: 'movie',
+    rating: 6.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'yellow',
+    excerpt: 'Alan Ritchson and Owen Wilson turn an unlikely partnership into the scrappy engine of a brisk, competently staged action thriller. Runner follows a familiar route, but its sturdy action and unapologetic B-movie spirit make the trip worthwhile.',
+    publishedAt: '2026-09-14',
+    tags: ['Action', 'Comedy', 'Thriller', '2026'],
+    content: `
+<p class="lead"><em>Runner</em> does not reinvent the action thriller, but it understands the durable pleasures of mismatched heroes, urgent stakes, and ruthless pursuers. Alan Ritchson and Owen Wilson give Scott Waugh's lean 97-minute movie an oddly effective chemistry that carries it across the rougher stretches of a formula-bound screenplay.</p>
+
+<h2>A Familiar Mission with Immediate Stakes</h2>
+<p>The premise has the clean efficiency of an old-school B-movie. Former soldier Hank Malone must transport a donated liver to a critically ill girl while a cartel closes in, forcing him to work with the unexpected Ben. That setup requires little explanation, and <em>Runner</em> benefits from its directness. The objective is clear, the danger is easy to grasp, and the human cost of failure gives the chase more urgency than a purely transactional assignment would provide.</p>
+
+<p>Writers Tommy White and Miles Hubley build the film around recognizable genre machinery: a capable veteran, an unlikely companion, precious cargo, and enemies determined to stop them. Familiarity is both the screenplay's greatest convenience and its most obvious limitation. The story can accelerate quickly because audiences already understand its language, yet that same efficiency leaves few surprises in its construction. <em>Runner</em> is less interested in challenging the action-thriller template than in delivering a compact, energetic version of it.</p>
+
+<p>At 97 minutes, the movie has little appetite for unnecessary detours. That brevity helps sustain momentum and suits material whose appeal depends on pressure rather than complexity. The film knows that its central promise is movement: Hank and Ben need to keep going, the organ needs to reach its destination, and the cartel needs to remain a credible threat. When <em>Runner</em> stays focused on that simple dramatic equation, it is efficient theatrical entertainment.</p>
+
+<h2>Ritchson and Wilson Make the Mismatch Work</h2>
+<p>The principal attraction is the pairing of Alan Ritchson and Owen Wilson, two performers with energies that should clash more awkwardly than they do. Ritchson gives Hank the physical authority expected of a former soldier, grounding the character in competence and forward momentum. He convincingly occupies the role of the person audiences expect to handle danger, but his performance works best when the movie allows that imposing presence to interact with someone operating on a very different wavelength.</p>
+
+<p>Wilson supplies that contrast as Ben. His lighter, less forceful screen persona creates friction without turning the partnership into a nonstop comedy routine. The chemistry is strange, but productively so: Ritchson's blunt intensity gives Wilson something firm to push against, while Wilson keeps Ritchson's stoicism from making the film too heavy. Their differences generate personality where the screenplay often supplies only function.</p>
+
+<p>The result is not a revolutionary buddy pairing, nor does the writing develop Hank and Ben into unusually intricate characters. Still, the actors find a workable rhythm within the available material. Their interplay gives the mission a human pulse and prevents the movie from becoming an anonymous chain of confrontations. Even when the narrative advances in predictable directions, the question of how these two men will continue functioning together provides a modest but reliable source of engagement.</p>
+
+<h2>Solid Action and Unpretentious B-Movie Energy</h2>
+<p>Director Scott Waugh approaches <em>Runner</em> as a muscular genre exercise rather than an inflated event film. The action is solid, readable in dramatic purpose, and tied closely to the urgency of the delivery. The movie's PG-13 framework keeps it accessible without draining the threat from its pursuit narrative. More importantly, the action generally feels like an extension of the central mission instead of a collection of unrelated showcases.</p>
+
+<p>That focus gives <em>Runner</em> its appealing B-movie character. It has a straightforward objective, recognizable heroes and villains, and just enough star power to elevate the familiar setup. There is pleasure in watching a film embrace those modest ambitions without pretending to offer a radical reinvention of the genre. The pacing is brisk, the stakes remain legible, and the cast commits to the material rather than treating it as disposable.</p>
+
+<p>Rodrigo Santoro brings volatile presence to Damian Zaldivar, while Leila George's Kate Baker helps broaden the ensemble surrounding the central duo. Neither can overcome the screenplay's limited appetite for characterization, but both contribute to a cast that gives the story more weight than its thinly drawn roles might otherwise possess. The film is most persuasive when its performers add texture that is suggested rather than fully written.</p>
+
+<h2>Where the Formula Starts to Show</h2>
+<p>The central weakness is that <em>Runner</em> rarely moves beyond the outline of its premise. Hank's military background, Ben's contrasting personality, the cartel threat, and the medical urgency are effective narrative tools, but they too often remain tools rather than foundations for deeper character work. White and Hubley's screenplay establishes what everyone must do more clearly than who they are beyond the immediate crisis.</p>
+
+<p>That thinness matters because the film asks its emotional stakes to distinguish an otherwise conventional pursuit story. The endangered child and critical delivery provide an understandable reason to care, yet the writing does not always transform that urgency into richer drama. Likewise, Damian functions effectively as the face of the opposition, but the larger conflict lacks the specificity that might have made the antagonism more memorable.</p>
+
+<p>Predictability also limits the tension. The movie's efficient structure keeps it moving, but viewers familiar with chase thrillers will recognize many of its narrative rhythms. There is little thematic or psychological complexity beneath the genre surface, and the supporting characters receive limited room to develop. <em>Runner</em> delivers the expected ingredients with competence; it simply does not find enough fresh variations to become more than a sturdy example of its type.</p>
+
+<h2>The Verdict</h2>
+<p><em>Runner</em> is a compact, satisfying action thriller whose strengths are easy to appreciate and whose limitations are equally plain. Scott Waugh keeps the 97-minute mission moving, the action has sufficient impact, and Alan Ritchson and Owen Wilson turn an improbable combination into the movie's most distinctive asset. Their chemistry adds humor, tension, and personality without undermining the stakes.</p>
+
+<p>The formula is visible throughout, however, and the underdeveloped writing prevents the film from achieving the emotional force its premise invites. Viewers seeking intricate plotting or deeply layered characters are unlikely to find much nourishment here. Those in the mood for a brisk theatrical chase with capable stars and an honest B-movie sensibility should have a considerably better time. <em>Runner</em> may travel a well-worn road, but Ritchson and Wilson make it an enjoyable ride.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Alan Ritchson and Owen Wilson share unusual but effective buddy-movie chemistry</li>
+  <li>✅ Scott Waugh delivers sturdy action and maintains an urgent pace</li>
+  <li>✅ The concise runtime suits the film's direct B-movie ambitions</li>
+  <li>❌ The pursuit narrative follows a highly familiar action-thriller formula</li>
+  <li>❌ Thin characterization limits the emotional impact</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'hope-2026-review',
+    title: 'Hope Review: Na Hong-jin Goes Bigger, Stranger, and Nearly Off the Rails',
+    movieTitle: 'Hope',
+    tmdbId: 1058424,
+    mediaType: 'movie',
+    rating: 7.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Na Hong-jin's Hope is an enormous, unruly sci-fi horror spectacle driven by human misunderstanding and formidable audiovisual craft. Its 157-minute escalation will test some viewers, but the ambition and exhilarating monster action make it worth experiencing in a theater.",
+    publishedAt: '2026-09-14',
+    tags: ['Sci-Fi', 'Horror', 'Mystery', 'Action', '2026'],
+    content: `
+<p class="lead"><em>Hope</em> is the kind of science-fiction epic that treats excess as both an artistic principle and a potential self-destruct button. Writer-director Na Hong-jin turns a mysterious disturbance in a remote Korean harbor into a wild collision of monster horror, human panic, and cosmic catastrophe, delivering an exhausting 157-minute spectacle whose audacity is inseparable from its flaws.</p>
+
+<h2>A Small Community Meets an Impossible Threat</h2>
+<p>The setting is Hope Harbor, an isolated place where local authority rests with people who are no more prepared for the extraordinary than anyone else. Police chief Go Bum-seok, played by Hwang Jung-min, and officer Lim Sung-ae, played by Hoyeon, begin investigating the arrival of mysterious creatures. What follows is not simply a battle between humanity and an external menace. Na is equally interested in the disastrous chain reactions produced by fear, incomplete information, wounded pride, and conflicting interpretations of the unknown.</p>
+
+<p>That emphasis gives <em>Hope</em> its most distinctive dramatic engine. The danger grows not only because the creatures are powerful, but because the people confronting them struggle to understand one another. Assumptions harden into decisions, personal tensions interfere with collective survival, and a local crisis expands toward cosmic proportions. The title consequently acquires an uneasy charge: hope exists, but it must compete with the deeply human impulse to mistrust whatever cannot be immediately explained.</p>
+
+<p>Na has assembled an unusually international cast for this disaster. Hwang Jung-min brings Bum-seok the authority needed to anchor the harbor community, while allowing the character's limitations to remain visible. Hoyeon gives Sung-ae an alert, urgent presence that suits an officer forced to respond faster than understanding can develop. Zo In-sung adds another important human perspective within the mounting conflict. Alicia Vikander, Michael Fassbender, and Taylor Russell help widen the film's imaginative scope in roles that make the story feel larger than one town or one conventional genre.</p>
+
+<h2>Monumental Craft and Exhilarating Chaos</h2>
+<p>If the screenplay sometimes struggles to contain the movie's ideas, the physical and sensory production gives those ideas tremendous force. Cinematographer Hong Kyung-pyo makes the remote environment feel both grounded and vulnerable, an inhabited landscape gradually overwhelmed by something beyond its frame of reference. The imagery preserves a sense of place even as the scale expands, which is crucial: without the ordinary reality of Hope Harbor, the later spectacle would have little to disrupt.</p>
+
+<p>The monster action is the clearest expression of the film's confidence. Na approaches confrontation as a source of terror, momentum, and destabilization rather than as a tidy delivery system for heroic victories. The set pieces feel connected to the broader theme of misinterpretation; action erupts because characters cannot fully read the situation, and every response carries the possibility of making it worse. That uncertainty supplies tension beyond the immediate threat of physical destruction.</p>
+
+<p>Michael Abels' score supports the film's migration from investigative unease to full-scale catastrophe. Together, the music, cinematography, sound, stunt work, and creature-focused spectacle create the overwhelming theatrical experience that <em>Hope</em> plainly seeks. Even when its narrative coherence begins to fray, the film retains an undeniable audiovisual authority. It is loud, strange, and frequently exhilarating without becoming anonymous studio product. Na's personality remains visible in the collision of tones and in his refusal to make the unknown comfortably legible.</p>
+
+<h2>Ambition Without Enough Restraint</h2>
+<p>The same refusal to simplify also creates the movie's central problem. At 157 minutes, <em>Hope</em> has room to build its community, develop its mystery, stage large-scale action, and reach for philosophical implications. It does all of those things, but not with equal discipline. The escalation can feel less like a controlled expansion than a film repeatedly discovering a new ceiling and smashing through it. Momentum survives, yet narrative focus becomes harder to maintain as human conflict, creature spectacle, cosmic ideas, and tonal volatility compete for priority.</p>
+
+<p>That sprawl affects the characters most. The cast supplies conviction and presence, but the screenplay does not always give its ensemble enough emotional depth to match the scale of the disaster. Some figures register more strongly as participants in Na's grand design than as fully explored individuals. The emphasis on misunderstanding is intellectually productive, but recurring conflict can also become mechanically frustrating when the people involved seem defined primarily by the next breakdown in communication.</p>
+
+<p>The ending will likely be the film's greatest dividing line. Viewers who surrender to <em>Hope</em> as an unruly cosmic nightmare may find its final reach thrillingly consistent with everything that precedes it. Others may feel that the film's accumulating ideas and tonal shifts exceed its ability to resolve them. The conclusion does not erase the power of the journey, but it exposes the tension at the heart of the project: Na wants enormity, ambiguity, emotional force, genre pleasure, and thematic weight all at once, and the film cannot always keep those ambitions in balance.</p>
+
+<h2>A Genre Movie That Refuses to Behave</h2>
+<p>For all its unevenness, <em>Hope</em> is difficult to dismiss. Many contemporary effects-driven films are smoothly engineered but leave little impression once their machinery stops. Na's film has the opposite problem. It is messy because it is attempting too much, yet that excess produces images, moods, and confrontations with a genuine sense of danger. The monster material delivers visceral excitement, while the social friction ensures that the crisis remains about more than survival alone.</p>
+
+<p>The R-rated intensity and extended runtime make this a demanding experience rather than casual entertainment. Patience is required during the film's detours and repeated escalations, and viewers looking for concise mythology or cleanly resolved character arcs may be disappointed. Those receptive to maximalist genre filmmaking, however, will find a work that takes real swings. Even its failures are attached to a recognizable vision rather than to indifference or creative caution.</p>
+
+<h2>The Verdict</h2>
+<p><em>Hope</em> is a huge, ferocious, sometimes unwieldy sci-fi horror film that turns a harbor investigation into an examination of how quickly uncertainty can become catastrophe. Na Hong-jin's direction, Hong Kyung-pyo's cinematography, Michael Abels' score, and a committed ensemble give the movie formidable theatrical power. Its length, thinning characterization, and contentious ending prevent its ambition from becoming a complete triumph, but they do not neutralize the exhilaration of watching a filmmaker push monster cinema toward something stranger and more cosmic. See it on the biggest screen available, provided you are willing to accept disorder as part of the experience.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ Formidable monster action with an unusually ambitious cosmic scale</li>
+  <li>✅ Powerful cinematography, music, sound, and theatrical spectacle</li>
+  <li>✅ A strong international ensemble led by Hwang Jung-min, Zo In-sung, and Hoyeon</li>
+  <li>✅ Human misunderstanding gives the creature crisis a compelling thematic dimension</li>
+  <li>❌ The 157-minute runtime magnifies pacing and structural problems</li>
+  <li>❌ Several characters lack the depth needed to support the enormous narrative</li>
+  <li>❌ The escalating final stretch and ending are likely to divide audiences</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
