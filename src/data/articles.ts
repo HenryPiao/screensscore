@@ -2292,6 +2292,114 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'made-in-korea-tv-2026-review',
+    title: 'Made in Korea Season 2 Review: Hyun Bin Returns at the Height of Power',
+    movieTitle: 'Made in Korea',
+    tmdbId: 246473,
+    mediaType: 'tv',
+    rating: 7.5,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: 'Made in Korea Season 2 opens with a confident nine-year time jump, transforming its central rivalry into a broader struggle over political and institutional power. Based on the first two episodes, this measured Disney+ crime drama remains worth watching, even if its deliberate pace demands patience.',
+    publishedAt: '2026-09-15',
+    tags: ['Crime', 'Drama', 'TV Series', 'Disney+', 'Korean Drama', '2026'],
+    content: `
+<p class="lead"><strong>Made in Korea Season 2</strong> returns to Disney+ with a nine-year time jump and a sharper understanding of what power does after it has been won. This is a season-opening review based only on the first two of six episodes released so far, but the early verdict is encouraging: the series remains an absorbing Korean crime drama, driven less by immediate confrontation than by the pressure of watching three ambitious men move toward an inevitable collision.</p>
+
+<h2>Nine Years Change the Shape of the Conflict</h2>
+<p>The decision to advance the story by nine years is more than a shortcut to a new chapter. It changes the dramatic question at the center of the series. Baek Kitae is no longer simply a man climbing toward influence; he begins Season 2 at the height of his power. That shift allows the opening episodes to examine maintenance rather than acquisition: how authority is protected, how loyalty changes when fear replaces affection, and how a powerful figure responds when the world around him no longer appears fully controllable.</p>
+<p>The 1970s setting remains essential to that approach. <strong>Made in Korea</strong> treats crime, politics, and personal ambition as parts of the same system rather than separate arenas. The early episodes do not reduce the period to decorative cars, clothes, and interiors. Instead, the historical environment gives every contest for influence an institutional dimension. A private rivalry can carry public consequences, while a family disagreement can become another route into the machinery of the state.</p>
+<p>That larger perspective also helps justify the time jump. Viewers are asked to study what has hardened during the missing years: Kitae's command, Jang Geonyoung's determination, and Baek Kihyun's growing interest in a different form of authority. The premiere does not need to explain every intervening step immediately. Its strongest passages trust posture, distance, and altered relationships to communicate how much the balance has shifted.</p>
+
+<h2>Hyun Bin Makes Control Feel Precarious</h2>
+<p>Hyun Bin remains the series' commanding center as Baek Kitae. His performance in the opening two episodes is built around control, but not comfort. Kitae carries himself like someone accustomed to rooms reorganizing around his presence, yet Hyun Bin avoids presenting power as simple invulnerability. The tension comes from the suggestion that maintaining an empire requires constant attention and that absolute confidence can become its own dangerous blind spot.</p>
+<p>This is a useful evolution from the upward momentum associated with Kitae's earlier ambitions. A character pursuing power can be propelled by desire; a character who already possesses it must reveal what he fears losing. Hyun Bin conveys that distinction without turning Kitae into either a triumphant antihero or an obvious tyrant. His composure is magnetic, but it is also isolating. The more authority Kitae accumulates, the harder it becomes to tell whether any relationship around him exists independently of that authority.</p>
+<p>The performance gives the season an effective contradiction. Kitae appears to be in his strongest position, yet the dramatic structure makes him feel newly exposed. Every sign of command invites the audience to consider how many people may be waiting for that command to weaken. That tension is more compelling than a conventional rise-and-fall formula because the fall, if it comes, is not treated as predetermined. The opening instead asks how far Kitae will go to prevent it.</p>
+
+<h2>Jung Woo-sung Turns Patience Into a Threat</h2>
+<p>Opposite him, Jung Woo-sung brings disciplined intensity to Jang Geonyoung. Geonyoung is preparing to strike back, but these episodes wisely understand that preparation can be more suspenseful than action. His presence gives the season a long fuse. Rather than forcing an immediate rematch, the writing allows the history between the two men to accumulate around their decisions, making anticipation part of the drama.</p>
+<p>Jung Woo-sung's restraint complements Hyun Bin's controlled authority. Kitae occupies the position everyone can see, while Geonyoung's threat comes from purpose and timing. Their contrast prevents the rivalry from becoming a simple contest of charisma. It is also a conflict between two methods: one man defending a structure he dominates and another searching for the point at which that structure can be made vulnerable.</p>
+<p>The early episodes are strongest when they preserve this strategic distance. The series does not need constant face-to-face hostility to remind us of the central conflict. Each man gains definition through the other's absence, and their separate trajectories create the sense that the season is tightening a net one strand at a time. For viewers expecting rapid retaliation, this approach may initially feel restrained, but it gives the eventual confrontation greater potential weight.</p>
+
+<h2>A Third Path to Power Broadens the Drama</h2>
+<p>Baek Kihyun's direction may prove to be Season 2's most important expansion. His pursuit of a different kind of power prevents the narrative from remaining a two-sided duel between Kitae and Geonyoung. The distinction matters: Kihyun is not merely following his brother's route or positioning himself as another straightforward opponent. His trajectory introduces the possibility that influence can be accumulated through competing institutions, values, and forms of legitimacy.</p>
+<p>That development gives the family dimension more than sentimental importance. The widening rift among the characters is tied to incompatible ideas about what authority should look like and what sacrifices it requires. By placing Kihyun on a parallel path, the season can test Kitae not only against an enemy seeking revenge but also against someone close enough to expose the limitations of his worldview.</p>
+<p>The approach adds welcome complexity, although it also creates a structural challenge. With only six episodes in the season, three major paths to power must be developed and brought into meaningful contact. The opening chapters establish the board effectively, but the remaining four episodes will need to convert that setup into decisive movement without flattening Kihyun into a plot device between the two established rivals.</p>
+
+<h2>Deliberate Pacing Is Both Strength and Risk</h2>
+<p><strong>Made in Korea</strong> is not treating its return as an excuse for instant escalation. The first two episodes prioritize atmosphere, changed relationships, and strategic positioning. That patience suits a drama concerned with systems of power: influence is expressed through access, silence, hierarchy, and the ability to make others wait. The series appears most confident when it lets tension emerge from who controls a conversation rather than relying on constant physical danger.</p>
+<p>However, the same deliberateness may frustrate viewers looking for a propulsive crime thriller. The nine-year gap requires reorientation, and the opening must service several character trajectories while rebuilding the political landscape. At times, this produces more setup than payoff. Because only two episodes were available at launch, it is too early to know whether every measured scene is laying essential groundwork or whether the season is postponing too much for its short final stretch.</p>
+<p>The weekly Disney+ release schedule could benefit that slow-burn design by allowing alliances and implications to settle between episodes. It could also magnify the feeling of waiting for the central conflict to ignite. Much depends on how efficiently Episodes 3 through 6 turn the season's carefully arranged pressures into consequences.</p>
+
+<h2>The Verdict</h2>
+<p>As an early verdict rather than a review of the complete season, <strong>Made in Korea Season 2</strong> earns a cautious but confident recommendation. Its first two episodes use the nine-year time jump intelligently, giving Baek Kitae's power, Jang Geonyoung's counterattack, and Baek Kihyun's alternative ambitions distinct dramatic identities. Hyun Bin and Jung Woo-sung continue to supply the series with formidable screen presence, while the broader three-way struggle promises more than a repetition of the first season's central rivalry.</p>
+<p>The opening is methodical rather than explosive, and a six-episode season leaves limited room for its many tensions to mature. Still, the restraint feels purposeful so far. If the remaining weekly episodes can deliver consequences equal to this setup, Season 2 may turn its study of power into something genuinely formidable. For now, it is <strong>Worth Watching</strong> at 7.5 out of 10—with the important qualification that this score covers the season opening, not the four episodes yet to air.</p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ The nine-year time jump meaningfully reshapes the central struggle</li>
+  <li>✅ Hyun Bin makes Kitae's authority feel commanding yet increasingly precarious</li>
+  <li>✅ Jung Woo-sung builds menace through patience rather than overstatement</li>
+  <li>✅ Kihyun's alternative path expands the story beyond a two-man rivalry</li>
+  <li>✅ The 1970s setting connects personal ambition to larger institutions</li>
+  <li>❌ The deliberate opening may feel slow to viewers expecting immediate retaliation</li>
+  <li>❌ Only four remaining episodes must resolve several substantial character arcs</li>
+  <li>❌ Any final judgment must wait until the complete season has aired</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'the-perfect-lie-tv-2026-review',
+    title: 'The Perfect Lie Review: A Tense Dutch Mystery About Privilege, Grief, and Distrust',
+    movieTitle: 'The Perfect Lie',
+    tmdbId: 325755,
+    mediaType: 'tv',
+    rating: 7.0,
+    verdict: 'Worth Watching',
+    verdictColor: 'green',
+    excerpt: "Netflix's Dutch mystery The Perfect Lie turns a fatal house fire into a tense examination of friendship, marriage, and carefully protected appearances. Its familiar secrets-among-the-wealthy framework is elevated by a strong adult ensemble and an atmosphere of steadily deepening distrust.",
+    publishedAt: '2026-09-15',
+    tags: ['Drama', 'Mystery', 'Thriller', 'TV Series', 'Netflix', 'Dutch', '2026'],
+    content: `
+<p class="lead"><strong>The Perfect Lie</strong>, originally titled <em>De Eetclub</em>, begins with an irresistible social-thriller premise: a house fire claims a member of a close friendship circle, and the four seemingly ideal couples left behind begin to question how well they know one another. Across seven episodes, this Dutch Netflix drama finds its most compelling material not in sensational revelations but in the anxiety created when grief, suspicion, and social performance occupy the same room.</p>
+
+<h2>Perfect Lives Make Fertile Ground for Suspicion</h2>
+<p>The series understands that its central mystery matters because the people surrounding it have invested so heavily in appearing secure. Their marriages, friendships, homes, and shared rituals suggest a stable community, yet the fire exposes how fragile that picture may be. The title is therefore more than a promise of deception. It describes an entire way of living, one in which maintaining the correct image can become almost as important as telling the truth.</p>
+<p>That tension gives the drama an adult dimension often missing from more mechanically plotted thrillers. Every expression of sympathy can also look like damage control; every attempt to preserve a relationship can resemble concealment. The show does not need to turn every interaction into an accusation because the premise has already made ordinary behavior suspicious. A gathering among friends carries the possibility of judgment, while a private conversation can feel like an effort to manage what the wider group is allowed to believe.</p>
+<p>This is familiar territory for stories about prosperous communities with secrets, but <em>The Perfect Lie</em> benefits from treating privilege as a pressure system rather than merely attractive scenery. Comfort does not protect these couples from fear. Instead, it gives them more appearances to maintain and more to lose if the group's shared version of reality begins to collapse.</p>
+
+<h2>An Ensemble Built Around Uneasy Relationships</h2>
+<p>Loes Haverkort, Remko Vrijdag, Noortje Herlaar, Edwin Jonker, Rifka Lodeizen, and the wider cast give the series the credibility its premise requires. The performances work best as an ensemble rather than as a collection of isolated showcases. Glances, pauses, guarded responses, and changes in social temperature communicate the strain moving through the group without requiring the dialogue to explain every suspicion.</p>
+<p>That collective approach is important because the story is less interested in a single heroic investigator than in the destabilization of a community. Grief does not produce one clean emotional response. It creates overlapping reactions: defensiveness, loyalty, resentment, disbelief, and the instinct to protect a spouse or friend even when certainty is slipping away. The cast keeps those responses grounded, allowing the mystery to remain connected to recognizable adult relationships.</p>
+<p>The strongest moments are often the least demonstrative. Rather than pushing everyone toward constant confrontation, the actors preserve the sense that these people still need one another, even as trust deteriorates. That contradiction gives the drama emotional weight. Suspicion is painful precisely because it grows among people who have built a shared identity around intimacy and mutual confidence.</p>
+
+<h2>Atmosphere Over Constant Sensation</h2>
+<p><em>The Perfect Lie</em> favors controlled unease over nonstop shocks. Its thriller energy comes from the widening distance between how the couples present themselves and what they may privately fear. The mood is polished but uncomfortable, making familiar domestic and social spaces feel increasingly unstable. Safety becomes a matter of perception, and the series repeatedly invites viewers to reconsider whether composure signals innocence, denial, or simply experience at hiding vulnerability.</p>
+<p>The Dutch setting also helps distinguish the production from the many English-language streaming mysteries built around affluent social circles. The visual restraint suits the material: the series does not need exaggerated menace when the central threat is the possibility that trust has been misplaced for years. Its atmosphere emerges from emotional proximity. These are not strangers trapped together by circumstance but couples whose lives are already interconnected, making every doubt potentially contagious.</p>
+<p>Netflix's decision to release all seven episodes at once fits the storytelling model. This is an easy series to continue watching because each episode adds another layer of uncertainty, even when it is not delivering a major answer. The compact season provides enough space for suspicion to circulate through the ensemble without turning the central premise into an unnecessarily long commitment.</p>
+
+<h2>Familiar Machinery Beneath the Polish</h2>
+<p>The principal limitation is that the series operates inside a recognizable template. A tragedy disrupts an apparently perfect community; private tensions emerge; loyalties shift; polished surfaces begin to crack. Viewers familiar with ensemble mysteries about wealthy or socially comfortable couples will recognize much of that machinery, and the show does not always escape the expectations created by its genre.</p>
+<p>Its deliberate pace can also be a mixed blessing. The emphasis on atmosphere and interpersonal unease gives the cast room to work, but certain passages feel as though they are sustaining suspicion rather than developing it. With several couples competing for attention, the drama occasionally spreads its focus too evenly. Some emotional threads register more as pieces in the mystery structure than as fully independent stories.</p>
+<p>Yet the seven-episode format prevents these weaknesses from becoming exhausting. The series remains disciplined enough to preserve momentum, and its commitment to adult character dynamics offers compensation whenever the mystery itself feels conventional. It is more persuasive when examining why people protect an image than when relying on the mere suggestion that everyone has something to hide.</p>
+
+<h2>The Verdict</h2>
+<p><em>The Perfect Lie</em> is a solid, absorbing Dutch mystery that knows the most damaging fire is not necessarily the one that begins the story, but the suspicion that spreads afterward. Its premise may be familiar, yet the cast gives the material texture, and the series maintains an appealing balance between domestic drama and restrained thriller tension.</p>
+<p>At 7.0 out of 10, this is not a reinvention of the secrets-behind-perfect-lives formula, nor does every strand of its ensemble receive equal depth. It is, however, a well-contained binge with an intelligent interest in grief, loyalty, marriage, and the social cost of doubt. Viewers who prefer character-led European mysteries to frantic, twist-dependent thrillers should find it especially rewarding. <strong>Worth Watching.</strong></p>
+
+<h2>Pros & Cons</h2>
+<ul>
+  <li>✅ A strong adult ensemble led by accomplished Dutch performers</li>
+  <li>✅ Sustained atmosphere of distrust without relying on constant spectacle</li>
+  <li>✅ The seven-episode format makes for a focused, accessible Netflix binge</li>
+  <li>✅ Thoughtful attention to marriage, friendship, grief, and social appearances</li>
+  <li>❌ The affluent-community-with-secrets setup feels familiar</li>
+  <li>❌ Deliberate pacing occasionally makes the mystery feel stretched</li>
+  <li>❌ Some ensemble threads receive less emotional definition than others</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
