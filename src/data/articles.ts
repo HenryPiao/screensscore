@@ -2400,6 +2400,102 @@ export const articles: Article[] = [
 </ul>
     `,
   },
+  {
+    slug: 'rick-and-morty-tv-2013-review',
+    title: 'Rick and Morty Review: Cosmic Chaos with a Surprisingly Human Core',
+    movieTitle: 'Rick and Morty',
+    tmdbId: 60625,
+    mediaType: 'tv',
+    rating: 9,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: 'Rick and Morty turns interdimensional chaos into a fiercely inventive comedy about intelligence, insecurity, and one profoundly dysfunctional family. Its occasional self-indulgence is outweighed by fearless storytelling, elastic animation, and an emotional depth that makes this modern animated landmark essential viewing.',
+    publishedAt: '2026-09-16',
+    tags: ['Animation', 'Comedy', 'Sci-Fi', 'TV Series', '2013'],
+    content: `
+<p class="lead">Few television series can transform an absurd science-fiction premise into a joke, a philosophical argument, and a family crisis within the same half hour. Created by Dan Harmon and Justin Roiland, <em>Rick and Morty</em> remains a benchmark for adult animation because its imagination is not merely decorative: every impossible universe, reckless invention, and cosmic detour exposes something painfully recognizable about the people involved.</p>
+
+<h2>Infinite Worlds, Intimate Consequences</h2>
+<p>The central pairing is a near-perfect engine for controlled chaos. Rick is a scientific genius whose command of reality has encouraged contempt for rules, institutions, and emotional accountability; Morty is the anxious grandson repeatedly pulled between wonder, terror, and a developing moral independence. Their adventures can leap from suburban banality to galactic catastrophe in seconds, yet the comedy works because the relationship remains legible. Rick needs Morty's humanity even while mocking it, and Morty is fascinated by Rick's freedom even as he learns its cost.</p>
+
+<p>The wider Smith family prevents that dynamic from becoming a repetitive two-character routine. Chris Parnell gives Jerry a wonderfully calibrated mixture of insecurity and misplaced confidence, while Spencer Grammer makes Summer more than the impatient older sibling by sharpening her appetite for adventure and recognition. Sarah Chalke brings Beth the difficult task of loving her father without ignoring the damage surrounding him. Together, they turn the domestic scenes into more than pauses between portals. The garage, kitchen, and dinner table become laboratories of resentment, loyalty, and inherited dysfunction.</p>
+
+<p>The series is also unusually good at changing scale without losing focus. “Pickle Rick” takes an intentionally ridiculous transformation and escalates it into elaborate action, but its enduring value comes from how that spectacle collides with questions of avoidance and responsibility. “The Ricklantis Mixup,” meanwhile, demonstrates the show's astonishing narrative range by using familiar figures to examine status, identity, and institutional power from multiple perspectives. Neither episode is representative of every installment, but both reveal the writers' talent for finding serious dramatic pressure inside concepts that initially sound like elaborate punchlines.</p>
+
+<h2>Precision Craft Beneath the Improvisational Energy</h2>
+<p><em>Rick and Morty</em> often sounds spontaneous, but its strongest episodes are built with impressive structural discipline. Harmon and the writing teams use dense callbacks, parallel plots, genre reversals, and accelerated exposition without completely sacrificing clarity. Familiar science-fiction devices such as alternate realities, time manipulation, artificial intelligence, and alien civilizations are rarely treated as ends in themselves. Instead, the show asks what those devices would do to a person's sense of meaning when every choice might have countless variations elsewhere.</p>
+
+<p>The animation supports that ambition with crowded environments, grotesque creature design, and visual jokes that reward attention without slowing the story. Action sequences are staged with an energetic understanding of geography, allowing outrageous inventions and rapidly changing threats to remain readable. Just as importantly, the artists know when to simplify. A character's exhausted posture or an uncomfortable pause can puncture the grandest cosmic premise more effectively than another explosion.</p>
+
+<p>Across its later run, Ian Cardoni and Harry Belden have faced the formidable challenge of continuing Rick and Morty after the lead voice transition. Their work preserves the characters' essential rhythms without turning the performances into empty impersonations. Cardoni maintains Rick's abrasive velocity and buried fatigue, while Belden retains Morty's nervous cadence and growing assertiveness. Alongside Parnell, Grammer, and Chalke, they help the series retain continuity where it matters most: personality, comic timing, and the volatile chemistry of the family.</p>
+
+<h2>Where the Portal Gun Misfires</h2>
+<p>The show's freedom can become a weakness. Some episodes lean so heavily on meta-commentary, frantic references, or deliberately abrasive humor that cleverness begins to feel like a defense against emotional commitment. Rick's near-limitless competence can also reduce suspense unless the conflict targets his relationships or self-destructive habits. With nine seasons and 91 episodes as of this review, quality inevitably fluctuates, and viewers who dislike nihilistic comedy, graphic violence, or aggressively chaotic dialogue may find the weaker outings exhausting rather than exhilarating.</p>
+
+<p>Its enormous cultural footprint creates another obstacle: catchphrases and online fandom have sometimes flattened a nuanced series into a celebration of Rick's worst behavior. The show itself is generally more critical than that reputation suggests. Intelligence does not make Rick healthy, cruelty is not confused with wisdom, and victories frequently reveal how little technological mastery can repair emotional isolation.</p>
+
+<h2>The Verdict</h2>
+<p>At its best, <em>Rick and Morty</em> combines the conceptual audacity of ambitious science fiction with the timing of a first-rate sitcom and the bruised emotional memory of a family drama. Not every experiment succeeds, but few long-running animated shows have remained this willing to dismantle their own formulas. Its new voices have sustained the central chemistry, its visual invention remains formidable, and its finest stories can be hilarious, disturbing, and unexpectedly moving at once. For adult viewers comfortable with its harsher edges, this is essential television.</p>
+
+<h2>Pros &amp; Cons</h2>
+<ul>
+  <li>✅ Exceptionally inventive science-fiction concepts with real thematic purpose</li>
+  <li>✅ Sharp ensemble performances and richly developed family dynamics</li>
+  <li>✅ Ambitious animation, disciplined plotting, and outstanding comic escalation</li>
+  <li>❌ Meta-humor and relentless self-awareness occasionally become exhausting</li>
+  <li>❌ Uneven episodes can mistake abrasive chaos for meaningful provocation</li>
+</ul>
+    `,
+  },
+  {
+    slug: 'futurama-tv-1999-review',
+    title: 'Futurama Review: A Brilliant Sci-Fi Comedy with a Human Heart',
+    movieTitle: 'Futurama',
+    tmdbId: 615,
+    mediaType: 'tv',
+    rating: 9,
+    verdict: 'Must Watch',
+    verdictColor: 'green',
+    excerpt: 'Futurama combines ingenious science-fiction comedy with an emotional intelligence that few animated series can match. Despite uneven revival-era topicality, its extraordinary ensemble, ambitious ideas, and enduring humanity make it essential television.',
+    publishedAt: '2026-09-16',
+    tags: ['Animation', 'Comedy', 'Sci-Fi', 'TV Series', '1999'],
+    content: `
+<p class="lead">Few television comedies have imagined the future with as much comic precision—or understood the present with as much tenderness—as <em>Futurama</em>. Across 11 seasons and 164 episodes, Matt Groening and core creative force David X. Cohen turn a delivery company in the 31st century into a remarkably durable vehicle for absurdist humor, rigorous science fiction, workplace comedy, and genuine heartbreak.</p>
+
+<h2>A Universe Built Around Its Characters</h2>
+<p>The premise is elegantly simple: Fry, an aimless pizza delivery worker, awakens a thousand years in the future and finds employment at Planet Express. Yet the series quickly becomes less interested in Fry as a visitor than in the eccentric community he joins. Billy West gives Fry an essential combination of foolish optimism and emotional vulnerability, while Katey Sagal makes Leela far more than the group's competent voice of reason. Her discipline, loneliness, and impatience create a compelling counterweight to Fry's impulsiveness.</p>
+
+<p>John DiMaggio's Bender is the show's comic accelerant, a proudly selfish robot whose appetite for attention can destabilize any story within seconds. The performance is enormous without becoming monotonous; beneath the metallic swagger, DiMaggio finds flashes of insecurity and attachment that explain why Bender remains lovable even at his worst. Tress MacNeille, Maurice LaMarche, Lauren Tom, and Phil LaMarr give the wider ensemble similar definition, transforming recurring scientists, bureaucrats, aliens, celebrities, and colleagues into inhabitants of a world that feels densely populated rather than randomly assembled.</p>
+
+<p>That foundation allows <em>Futurama</em> to shift tone with unusual confidence. An episode may begin as a parody of space opera, become a satire of corporate labor, and end as an intimate story about regret. Celebrated installments such as “The Luck of the Fryrish” and “Jurassic Bark” demonstrate how carefully planted comic details can acquire emotional weight without abandoning the show's established personality. Their power does not come from suddenly becoming serious; it comes from revealing that sincerity was present beneath the jokes all along.</p>
+
+<h2>Science Fiction with Real Craft</h2>
+<p>Groening's visual language gives the series an immediately recognizable silhouette, but Cohen and the writing staff supply its unusual intellectual architecture. Mathematical references, speculative technologies, paradoxes, alien cultures, and bureaucratic systems are not merely decorative punchlines. They frequently determine how an episode works. The scripts respect genre conventions well enough to parody them accurately, whether addressing time travel, parallel realities, artificial intelligence, environmental collapse, or the economics of an interplanetary civilization.</p>
+
+<p>The best episodes also understand that world-building should sharpen character. Futuristic inventions expose familiar weaknesses: vanity, greed, jealousy, nostalgia, and the desire to belong. “The Devil's Hands Are Idle Playthings,” for example, uses a fantastical bargain and grand musical staging to explore artistic aspiration and romantic insecurity without losing its rapid-fire comic rhythm. The episode exemplifies the series at full strength—formally ambitious, densely funny, and emotionally direct without becoming sentimental.</p>
+
+<p>The production supports that range. Bright, readable character animation sits comfortably beside elaborate spacecraft, cityscapes, and alien environments, while the music can pivot from affectionate genre pastiche to theatrical spectacle. Just as importantly, the vocal ensemble maintains continuity through cancellation, revival, and changing production eras. Their timing makes technical dialogue accessible and gives even the strangest premises a stable comic center.</p>
+
+<h2>Where the Future Shows Its Age</h2>
+<p>No series spanning multiple decades is completely consistent. Some episodes lean too heavily on repeated catchphrases, and secondary characters can occasionally be reduced to their broadest traits. The Hulu revival era remains capable of clever conceptual stories and moving character work, but its weaker installments chase topical subjects too directly. References to contemporary technology, online trends, or recent cultural debates can feel dated almost immediately, especially beside earlier episodes whose satire emerged more organically from the 31st-century setting.</p>
+
+<p>The stop-and-start production history also creates mild repetition. Certain emotional dynamics are revisited after apparently reaching satisfying conclusions, and later seasons sometimes imitate the shape of classic episodes without matching their patient construction. Even so, the show's baseline craftsmanship remains unusually high, and its willingness to attempt ambitious failures is preferable to creative caution.</p>
+
+<h2>The Verdict</h2>
+<p><em>Futurama</em> endures because its elaborate future is ultimately a way of examining ordinary human needs. Fry wants purpose, Leela wants connection, Bender wants recognition, and their colleagues want dignity amid an absurd universe that rarely provides it. The series can deliver equations, slapstick, social satire, romance, and existential melancholy within the same half hour—and, at its best, make every element feel necessary.</p>
+
+<p>New viewers should not approach it merely as an animated alternative to a live-action sitcom or as a collection of famous emotional episodes. It is one of television's most complete comic worlds, strengthened by exceptional voice acting and writers who understand both scientific ideas and vulnerable people. Not every revival-era joke will survive the journey into tomorrow, but <em>Futurama</em> itself has already earned a lasting place there.</p>
+
+<h2>Pros &amp; Cons</h2>
+<ul>
+  <li>✅ Exceptionally versatile voice work led by Billy West, Katey Sagal, and John DiMaggio</li>
+  <li>✅ Sophisticated science-fiction concepts integrated into character-driven comedy</li>
+  <li>✅ Landmark episodes that achieve remarkable emotional impact without sacrificing humor</li>
+  <li>❌ Later seasons occasionally depend too heavily on short-lived topical references</li>
+  <li>❌ Some revived storylines repeat character beats that earlier episodes resolved more effectively</li>
+</ul>
+    `,
+  },
 ]
 
 export function getArticleBySlug(slug: string): Article | undefined {
